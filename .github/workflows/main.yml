@@ -28,7 +28,7 @@ jobs:
         python -m pip install --upgrade pip
         
     - name: Run Python script
-      run: python main.py
+      run: python main_diy.py
       
     - name: Upload generated files
       uses: actions/upload-artifact@v4
