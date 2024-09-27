@@ -44,8 +44,6 @@ jobs:
           git config --local user.name "GitHub Actions"
           git add tv_output.txt
           git add tv_output.m3u
-          git add merged_output_simple.txt
-          git add merged_output_simple.m3u
           git add others_output.txt
           git commit -m ":tada:  AutoUpdate $(date +'%Y%m%d')"
 
