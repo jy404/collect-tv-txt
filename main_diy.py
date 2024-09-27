@@ -352,7 +352,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["儿童专享,#genre#"] + read_txt_to_array('主频道/♪儿童专享.txt') + ['\n'] + \
              ["综艺频道,#genre#"] + sorted(set(correct_name_data(corrections_name,zy_lines))) + ['\n'] + \
              ["音乐频道,#genre#"] + sorted(set(yy_lines)) + ['\n'] + \
-             ["游戏频道,#genre#"] + sorted(set(game_lines)) + ['\n'] + \
+             ["游戏频道,#genre#"] + sorted(set(game_lines))
              
            
 
