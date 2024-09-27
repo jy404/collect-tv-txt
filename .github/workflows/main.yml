@@ -35,24 +35,24 @@ jobs:
       with:
         name: generated-files
         path: |
-          merged_output.txt
+          tv_output.txt
           others_output.txt
           
     - name: Commit changes
       run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add merged_output.txt
-          git add merged_output.m3u
-          git add merged_output_simple.txt
-          git add merged_output_simple.m3u
+          git add tv_output.txt
+          git add tv_output.m3u
+          git add tv_output_simple.txt
+          git add tv_output_simple.m3u
           git add others_output.txt
           git commit -m ":tada:  AutoUpdate $(date +'%Y%m%d')"
 
           current_datetime=$(date +"%Y%m%d_%H%M%S")
-          cp merged_output.txt history/"${current_datetime}_merged_output.txt"
+          cp tv_output.txt history/"${current_datetime}_tv_output.txt"
           cp others_output.txt history/"${current_datetime}_others_output.txt"
-          git add history/"${current_datetime}_merged_output.txt"
+          git add history/"${current_datetime}_tv_output.txt"
           git add history/"${current_datetime}_others_output.txt"
           git commit -m "Archive file with timestamp"
           
