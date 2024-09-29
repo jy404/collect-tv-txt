@@ -43,7 +43,6 @@ ws_lines = [] #卫视频道
 ty_lines = [] #体育频道
 dy_lines = []
 gat_lines = [] #港澳台
-game_lines = [] #游戏频道
 
 ##################【2024-07-30 18:04:56】
 jx_lines = [] #地方台-江西频道
@@ -169,8 +168,6 @@ def process_channel_line(line):
                 sh_lines.append(process_name_string(line.strip()))
             elif channel_name in gat_dictionary and check_url_existence(gat_lines, channel_address):  #港澳台
                 gat_lines.append(process_name_string(line.strip()))
-            elif channel_name in game_dictionary and check_url_existence(game_lines, channel_address):  #游戏频道
-                game_lines.append(process_name_string(line.strip()))
             elif channel_name in jx_dictionary and check_url_existence(jx_lines, channel_address):  #地方台-江西频道 ADD【2024-07-30 20:52:53】
                 jx_lines.append(process_name_string(line.strip()))
             else:
@@ -230,7 +227,6 @@ ws_dictionary=read_txt_to_array('主频道/卫视频道.txt') #过滤+排序
 ty_dictionary=read_txt_to_array('主频道/体育频道.txt') #过滤
 dy_dictionary=read_txt_to_array('主频道/电影.txt') #过滤
 gat_dictionary=read_txt_to_array('主频道/港澳台.txt') #过滤
-game_dictionary=read_txt_to_array('主频道/游戏频道.txt') #过滤
 Olympics_2024_Paris_dictionary=read_txt_to_array('主频道/奥运频道.txt') #过滤
 
 ##################【2024-07-30 18:04:56】
@@ -342,8 +338,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["卫视备用,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
              ["电影频道,#genre#"] + sort_data(dy_dictionary,set(correct_name_data(corrections_name,dy_lines))) + ['\n'] + \
              ["儿童专享,#genre#"] + read_txt_to_array('主频道/♪儿童专享.txt') + ['\n'] + \
-             ["体育频道,#genre#"] + sort_data(ty_dictionary,set(correct_name_data(corrections_name,ty_lines))) + ['\n'] + \
-             ["游戏频道,#genre#"] + sorted(set(game_lines))
+             ["体育频道,#genre#"] + sort_data(ty_dictionary,set(correct_name_data(corrections_name,ty_lines)))
              
            
 
