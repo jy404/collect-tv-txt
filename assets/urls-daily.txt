@@ -37,5 +37,5 @@ https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt
 http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt
 https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt
 https://raw.githubusercontent.com/kimwang1978/TV/master/output/result.txt
-https://szq-1251166371.cos.ap-shanghai.myqcloud.com/szq.txt
+https://raw.githubusercontent.com/jy404/502/refs/heads/main/1/2/1.txt
 https://tvkj.top/tvlive.txt
