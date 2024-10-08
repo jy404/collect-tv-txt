@@ -3,6 +3,7 @@ from urllib.parse import urlparse
 import re #正则
 import os
 from datetime import datetime
+import random
 
 # 执行开始时间
 timestart = datetime.now()
@@ -173,6 +174,15 @@ def process_channel_line(line):
             else:
                 other_lines.append(line.strip())
 
+# 随机获取User-Agent,留着将来备用
+def get_random_user_agent():
+    USER_AGENTS = [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+    ]
+    return random.choice(USER_AGENTS)
 
 def process_url(url):
     try:
@@ -301,7 +311,6 @@ def custom_sort(s):
         return 0  # 其他字符串保持原顺序
 
 
-
 #读取whitelist,把高响应源从白名单中抽出加入tv_output。
 print(f"ADD whitelist_auto.txt")
 whitelist_auto_lines=read_txt_to_array('blacklist/whitelist_auto.txt') #
@@ -316,7 +325,7 @@ for whitelist_line in whitelist_auto_lines:
         if response_time < 2000:  #2s以内的高响应源
             process_channel_line(",".join(whitelist_parts[1:]))
 
-
+about_video="https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001"
 version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
 # 瘦身版
 all_lines_simple =  ["更新时间,#genre#"] +[version] + ['\n'] +\
