@@ -3,6 +3,7 @@ from urllib.parse import urlparse
 import re #正则
 import os
 from datetime import datetime
+import random
 
 # 执行开始时间
 timestart = datetime.now()
@@ -304,6 +305,15 @@ def process_channel_line(line):
             else:
                 other_lines.append(line.strip())
 
+# 随机获取User-Agent,留着将来备用
+def get_random_user_agent():
+    USER_AGENTS = [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+    ]
+    return random.choice(USER_AGENTS)
 
 def process_url(url):
     try:
@@ -492,8 +502,9 @@ for whitelist_line in whitelist_auto_lines:
         if response_time < 2000:  #2s以内的高响应源
             process_channel_line(",".join(whitelist_parts[1:]))
 
-
-version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
+about_video="https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001"
+version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+","+about_video
+about="关于本源,"+about_video
 # 瘦身版
 all_lines_simple =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["💓专享源🅰️,#genre#"] + read_txt_to_array('主频道/♪专享源①.txt') + ['\n'] + \
@@ -509,11 +520,12 @@ all_lines_simple =  ["更新时间,#genre#"] +[version] + ['\n'] +\
 
 # 合并所有对象中的行文本（去重，排序后拼接）
 # ["奥运频道,#genre#"] + sort_data(Olympics_2024_Paris_dictionary,set(correct_name_data(corrections_name,Olympics_2024_Paris_lines))) + ['\n'] + \
-all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
+all_lines =  ["更新时间,#genre#"] +[version]  + ['\n'] +\
              ["💓专享源🅰️,#genre#"] + read_txt_to_array('主频道/♪专享源①.txt') + ['\n'] + \
              ["💓专享源🅱️,#genre#"] + read_txt_to_array('主频道/♪专享源②.txt') + ['\n'] + \
              ["💓专享央视,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt') + ['\n'] + \
              ["💓专享卫视,#genre#"] + read_txt_to_array('主频道/♪优质卫视.txt') + ['\n'] + \
+             ["💓港澳台,#genre#"] + read_txt_to_array('主频道/♪港澳台.txt') + ['\n'] + \
              ["💓优质个源,#genre#"] + read_txt_to_array('主频道/♪优质源.txt') + ['\n'] + \
              ["💓儿童专享,#genre#"] + read_txt_to_array('主频道/♪儿童专享.txt') + ['\n'] + \
              ["💓咪咕直播,#genre#"] + read_txt_to_array('主频道/♪咪咕直播.txt') + ['\n'] + \
@@ -731,4 +743,3 @@ print(f"others_output.txt行数: {other_lines_hj} ")
 #备用1：http://tonkiang.us
 #备用2：https://www.zoomeye.hk
 #备用3：(BlackList检测对象)http,rtmp,p3p,rtp（rtsp，p2p）
-
