@@ -338,7 +338,7 @@ all_lines_simple =  ["更新时间,#genre#"] +[version] + ['\n'] +\
 
 # 合并所有对象中的行文本（去重，排序后拼接）
 # ["奥运频道,#genre#"] + sort_data(Olympics_2024_Paris_dictionary,set(correct_name_data(corrections_name,Olympics_2024_Paris_lines))) + ['\n'] + \
-all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
+all_lines =  ["更新时间,#genre#"] +[version]  + ['\n'] +\
              ["央视专享,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt') + ['\n'] + \
              ["卫视专享,#genre#"] + read_txt_to_array('主频道/♪优质卫视.txt') + ['\n'] + \
              ["江西频道,#genre#"] + sorted(set(correct_name_data(corrections_name,jx_lines))) + ['\n'] + \
