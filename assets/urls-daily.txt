@@ -49,3 +49,5 @@ https://supprise0901.github.io/TVBox_live/live.txt
 https://live.kakaxi-1.ink/ipv6.m3u
 https://live.kakaxi-1.ink/iptv.txt
 https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt
+https://igdux.top/jCQx
+https://d.kstore.space/download/11026/1.txt
