@@ -322,7 +322,7 @@ for whitelist_line in whitelist_auto_lines:
         except ValueError:
             print(f"response_time转换失败: {whitelist_line}")
             response_time = 60000  # 单位毫秒，转换失败给个60秒
-        if response_time < 2000:  #2s以内的高响应源
+        if response_time < 1000:  #2s以内的高响应源
             process_channel_line(",".join(whitelist_parts[1:]))
 
 about_video="https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001"
