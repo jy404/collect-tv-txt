@@ -48,4 +48,4 @@ https://m3u.ibert.me/txt/j_iptv.txt
 https://supprise0901.github.io/TVBox_live/live.txt
 https://live.kakaxi-1.ink/ipv6.m3u
 https://live.kakaxi-1.ink/iptv.txt
-https://raw.gitmirror.com/MemoryCollection/IPTV/main/itvlist.txt
+https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt
