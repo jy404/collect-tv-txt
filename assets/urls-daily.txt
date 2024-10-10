@@ -51,3 +51,4 @@ https://live.kakaxi-1.ink/iptv.txt
 https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt
 https://igdux.top/jCQx
 https://d.kstore.space/download/11026/1.txt
+https://szq-1251166371.cos.ap-shanghai.myqcloud.com/tv/tvbox6.txt
