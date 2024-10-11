@@ -503,10 +503,11 @@ for whitelist_line in whitelist_auto_lines:
             process_channel_line(",".join(whitelist_parts[1:]))
 
 about_video="https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001"
+about_video2="https://gitlab.com/p2v5/wangtv/-/raw/main/about480p.mp4"
 version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+","+about_video
-about="关于本源,"+about_video
+about="关于本源,"+about_video2
 # 瘦身版
-all_lines_simple =  ["更新时间,#genre#"] +[version] + ['\n'] +\
+all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] + ['\n'] +\
              ["💓专享源🅰️,#genre#"] + read_txt_to_array('主频道/♪专享源①.txt') + ['\n'] + \
              ["💓专享源🅱️,#genre#"] + read_txt_to_array('主频道/♪专享源②.txt') + ['\n'] + \
              ["💓专享央视,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt') + ['\n'] + \
@@ -520,7 +521,7 @@ all_lines_simple =  ["更新时间,#genre#"] +[version] + ['\n'] +\
 
 # 合并所有对象中的行文本（去重，排序后拼接）
 # ["奥运频道,#genre#"] + sort_data(Olympics_2024_Paris_dictionary,set(correct_name_data(corrections_name,Olympics_2024_Paris_lines))) + ['\n'] + \
-all_lines =  ["更新时间,#genre#"] +[version]  + ['\n'] +\
+all_lines =  ["更新时间,#genre#"] +[version]  +[about] + ['\n'] +\
              ["💓专享源🅰️,#genre#"] + read_txt_to_array('主频道/♪专享源①.txt') + ['\n'] + \
              ["💓专享源🅱️,#genre#"] + read_txt_to_array('主频道/♪专享源②.txt') + ['\n'] + \
              ["💓专享央视,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt') + ['\n'] + \
