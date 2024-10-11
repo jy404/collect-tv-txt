@@ -9,7 +9,6 @@ https://d.kstore.space/download/7395/xiaohei.txt
 http://117.72.68.25:9230/latest.txt
 http://home.jundie.top:81/Cat/tv/live.txt
 https://raw.githubusercontent.com/BP3388/BP001.github.io/main/tivi.list
-https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/1008%E7%BB%BC%E5%90%88%E6%BA%90.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
@@ -54,3 +53,4 @@ https://d.kstore.space/download/11026/1.txt
 https://szq-1251166371.cos.ap-shanghai.myqcloud.com/tv/tvbox6.txt
 https://raw.githubusercontent.com/frxz751113/AAAAA/main/IPTV/%E6%B1%87%E6%B1%87.txt
 https://github.com/frxz751113/AAAAA/raw/refs/heads/main/TW.txt
+https://github.com/jy404/IPTVzb1/raw/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt
