@@ -32,7 +32,7 @@ jobs:
           git push --all --force coding
           git push --tags --force coding
         env:
-          CODING_REPOSITORY: g-yeph5353/collect-tv-txt
+          CODING_REPOSITORY: g-yeph5353/collect-tv-txt/collect-tv-txt
           CODING_USERNAME: ${{ secrets.CODING_USERNAME }}
           CODING_PASSWORD: ${{ secrets.CODING_PASSWORD }}
 
