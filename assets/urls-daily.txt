@@ -53,3 +53,4 @@ https://szq-1251166371.cos.ap-shanghai.myqcloud.com/tv/tvbox6.txt
 https://raw.githubusercontent.com/frxz751113/AAAAA/main/IPTV/%E6%B1%87%E6%B1%87.txt
 https://raw.githubusercontent.com/frxz751113/AAAAA/refs/heads/main/TW.txt
 https://raw.githubusercontent.com/jy404/IPTVzb1/refs/heads/main/2024%E7%BB%BC%E5%90%88%E6%BA%90.txt
+https://szq-1251166371.cos.ap-shanghai.myqcloud.com/tv/tvkj.txt
