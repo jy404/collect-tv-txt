@@ -32,7 +32,6 @@ http://47.99.102.252/live.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 http://xhztv.top/v6.txt
-https://tvkj.top/tvlive.txt
 https://raw.githubusercontent.com/junge3333/juds6/main/yszb1.txt
 https://raw.githubusercontent.com/zzmaze/iptv/main/iptv.txt
 http://wp.wadg.pro/down.php/d7b52d125998d00e2d2339bac6abd2b5.txt
@@ -41,7 +40,6 @@ https://raw.githubusercontent.com/kimwang1978/TV/master/output/result.txt
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
 http://1805842a.123nat.com:66/agent/2.txt
 https://raw.githubusercontent.com/jy404/502/refs/heads/main/1/2/1.txt
-https://tvkj.top/tvlive.txt
 https://m3u.ibert.me/txt/fmml_dv6.txt
 https://m3u.ibert.me/txt/o_cn.txt
 https://m3u.ibert.me/txt/j_iptv.txt
