@@ -54,3 +54,6 @@ https://raw.githubusercontent.com/frxz751113/AAAAA/main/IPTV/%E6%B1%87%E6%B1%87.
 https://raw.githubusercontent.com/frxz751113/AAAAA/refs/heads/main/TW.txt
 https://raw.githubusercontent.com/jy404/IPTVzb1/refs/heads/main/2024%E7%BB%BC%E5%90%88%E6%BA%90.txt
 https://szq-1251166371.cos.ap-shanghai.myqcloud.com/tv/tvkj.txt
+http://47.108.190.141/wx/zb/chunyingzhibo.txt
+http://175.178.251.183:6689/live.m3u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/Collect.m3u
