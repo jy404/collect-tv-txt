@@ -172,8 +172,10 @@ def process_channel_line(line):
                 gat_lines.append(process_name_string(line.strip()))
             elif channel_name in jx_dictionary and check_url_existence(jx_lines, channel_address):  #地方台-江西频道 ADD【2024-07-30 20:52:53】
                 jx_lines.append(process_name_string(line.strip()))
-             else:
-                 other_lines.append(line.strip())
+            else:
+                if channel_address not in other_lines_url:
+                    other_lines_url.append(channel_address)   #记录已加url
+                    other_lines.append(line.strip())
 
 
 # 随机获取User-Agent,留着将来备用
