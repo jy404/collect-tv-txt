@@ -38,7 +38,6 @@ blacklist_manual=read_blacklist_from_txt('blacklist/blacklist_manual.txt')
 combined_blacklist = set(blacklist_auto + blacklist_manual)  #list是个列表，set是个集合，据说检索速度集合要快很多。2024-08-08
 
 # 定义多个对象用于存储不同内容的行文本
-sh_lines = []
 ys_lines = [] #CCTV
 ws_lines = [] #卫视频道
 ty_lines = [] #体育频道
@@ -166,8 +165,6 @@ def process_channel_line(line):
                 ty_lines.append(process_name_string(line.strip()))
             elif channel_name in dy_dictionary and check_url_existence(dy_lines, channel_address):  #电影频道
                 dy_lines.append(process_name_string(line.strip()))
-            elif channel_name in sh_dictionary and check_url_existence(sh_lines, channel_address):  #上海频道
-                sh_lines.append(process_name_string(line.strip()))
             elif channel_name in gat_dictionary and check_url_existence(gat_lines, channel_address):  #港澳台
                 gat_lines.append(process_name_string(line.strip()))
             elif channel_name in jx_dictionary and check_url_existence(jx_lines, channel_address):  #地方台-江西频道 ADD【2024-07-30 20:52:53】
@@ -236,7 +233,6 @@ current_directory = os.getcwd()  #准备读取txt
 
 #读取文本
 ys_dictionary=read_txt_to_array('主频道/CCTV.txt') #仅排序用
-sh_dictionary=read_txt_to_array('主频道/shanghai.txt') #过滤+排序
 ws_dictionary=read_txt_to_array('主频道/卫视频道.txt') #过滤+排序
 ty_dictionary=read_txt_to_array('主频道/体育频道.txt') #过滤
 dy_dictionary=read_txt_to_array('主频道/电影.txt') #过滤
@@ -339,7 +335,6 @@ all_lines_simple =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["港澳台,#genre#"] + read_txt_to_array('主频道/♪港澳台.txt') + ['\n'] + \
              ["卫视备用,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
              ["儿童专享,#genre#"] + read_txt_to_array('主频道/♪儿童专享.txt') + ['\n'] + \
-             ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
              ["体育频道,#genre#"] + sort_data(ty_dictionary,set(correct_name_data(corrections_name,ty_lines))) + ['\n']
 
 # 合并所有对象中的行文本（去重，排序后拼接）
@@ -352,7 +347,6 @@ all_lines =  ["更新时间,#genre#"] +[version]  + ['\n'] +\
              ["体育频道,#genre#"] + sort_data(ty_dictionary,set(correct_name_data(corrections_name,ty_lines))) + ['\n'] + \
              ["电影频道,#genre#"] + sort_data(dy_dictionary,set(correct_name_data(corrections_name,dy_lines))) + ['\n'] + \
              ["儿童专享,#genre#"] + read_txt_to_array('主频道/♪儿童专享.txt') + ['\n'] + \
-             ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
              ["儿童专享,#genre#"] + read_txt_to_array('主频道/♪儿童专享.txt') + ['\n'] + \
              ["gat备用,#genre#"] + read_txt_to_array('主频道/♪港澳台.txt') + ['\n'] + \
              ["央视备用,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
