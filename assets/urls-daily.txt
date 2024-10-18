@@ -5,7 +5,6 @@ https://2883.kstore.vip/gggg.nzk
 http://ttkx.live:55/lib/kx2024.txt
 https://cdn05042023.gitlink.org.cn/liliang74120/cmds/raw/branch/master/js.txt
 https://2912.kstore.space/520.txt
-https://gitlab.com/tvtg/vip/-/raw/main/log.txt
 https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/tv/raw/live.txt
 https://d.kstore.space/download/7395/xiaohei.txt
 http://117.72.68.25:9230/latest.txt
@@ -52,7 +51,6 @@ https://live.kakaxi-1.ink/ipv6.m3u
 https://live.kakaxi-1.ink/iptv.txt
 https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt
 https://igdux.top/jCQx
-https://d.kstore.space/download/11026/1.txt
 https://szq-1251166371.cos.ap-shanghai.myqcloud.com/tv/tvbox6.txt
 https://raw.githubusercontent.com/frxz751113/AAAAA/main/IPTV/%E6%B1%87%E6%B1%87.txt
 https://raw.githubusercontent.com/frxz751113/AAAAA/refs/heads/main/TW.txt
