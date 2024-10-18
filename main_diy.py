@@ -323,7 +323,7 @@ about_video="https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=28201
 version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
 # 瘦身版
 all_lines_simple =  ["更新时间,#genre#"] +[version] + ['\n'] +\
-             ["央视专享,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt') + ['\n'] + \
+             ["央视专享,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt')
            
 # 合并所有对象中的行文本（去重，排序后拼接）
 # ["奥运频道,#genre#"] + sort_data(Olympics_2024_Paris_dictionary,set(correct_name_data(corrections_name,Olympics_2024_Paris_lines))) + ['\n'] + \
