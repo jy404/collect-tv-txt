@@ -41,7 +41,6 @@ combined_blacklist = set(blacklist_auto + blacklist_manual)  #list是个列表�
 ys_lines = [] #CCTV
 ws_lines = [] #卫视频道
 ty_lines = [] #体育频道
-dy_lines = []
 gat_lines = [] #港澳台
 
 ##################【2024-07-30 18:04:56】
@@ -157,14 +156,10 @@ def process_channel_line(line):
             # 根据行内容判断存入哪个对象，开始分发
             if "CCTV" in channel_name and check_url_existence(ys_lines, channel_address) : #央视频道
                 ys_lines.append(process_name_string(line.strip()))
-            elif channel_name in Olympics_2024_Paris_dictionary and check_url_existence(Olympics_2024_Paris_lines, channel_address): #奥运频道 ADD 2024-08-05
-                Olympics_2024_Paris_lines.append(process_name_string(line.strip()))
             elif channel_name in ws_dictionary and check_url_existence(ws_lines, channel_address): #卫视频道
                 ws_lines.append(process_name_string(line.strip()))
             elif channel_name in ty_dictionary and check_url_existence(ty_lines, channel_address):  #体育频道
                 ty_lines.append(process_name_string(line.strip()))
-            elif channel_name in dy_dictionary and check_url_existence(dy_lines, channel_address):  #电影频道
-                dy_lines.append(process_name_string(line.strip()))
             elif channel_name in gat_dictionary and check_url_existence(gat_lines, channel_address):  #港澳台
                 gat_lines.append(process_name_string(line.strip()))
             elif channel_name in jx_dictionary and check_url_existence(jx_lines, channel_address):  #地方台-江西频道 ADD【2024-07-30 20:52:53】
@@ -235,9 +230,7 @@ current_directory = os.getcwd()  #准备读取txt
 ys_dictionary=read_txt_to_array('主频道/CCTV.txt') #仅排序用
 ws_dictionary=read_txt_to_array('主频道/卫视频道.txt') #过滤+排序
 ty_dictionary=read_txt_to_array('主频道/体育频道.txt') #过滤
-dy_dictionary=read_txt_to_array('主频道/电影.txt') #过滤
 gat_dictionary=read_txt_to_array('主频道/港澳台.txt') #过滤
-Olympics_2024_Paris_dictionary=read_txt_to_array('主频道/奥运频道.txt') #过滤
 
 ##################【2024-07-30 18:04:56】
 jx_dictionary=read_txt_to_array('地方台/江西频道.txt') #过滤
@@ -331,12 +324,7 @@ version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
 # 瘦身版
 all_lines_simple =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["央视专享,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt') + ['\n'] + \
-             ["卫视专享,#genre#"] + read_txt_to_array('主频道/♪优质卫视.txt') + ['\n'] + \
-             ["港澳台,#genre#"] + read_txt_to_array('主频道/♪港澳台.txt') + ['\n'] + \
-             ["卫视备用,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines))) + ['\n'] + \
-             ["儿童专享,#genre#"] + read_txt_to_array('主频道/♪儿童专享.txt') + ['\n'] + \
-             ["体育频道,#genre#"] + sort_data(ty_dictionary,set(correct_name_data(corrections_name,ty_lines))) + ['\n']
-
+           
 # 合并所有对象中的行文本（去重，排序后拼接）
 # ["奥运频道,#genre#"] + sort_data(Olympics_2024_Paris_dictionary,set(correct_name_data(corrections_name,Olympics_2024_Paris_lines))) + ['\n'] + \
 all_lines =  ["更新时间,#genre#"] +[version]  + ['\n'] +\
@@ -345,10 +333,7 @@ all_lines =  ["更新时间,#genre#"] +[version]  + ['\n'] +\
              ["江西频道,#genre#"] + sorted(set(correct_name_data(corrections_name,jx_lines))) + ['\n'] + \
              ["gat,#genre#"] + sort_data(gat_dictionary,set(correct_name_data(corrections_name,gat_lines))) + ['\n'] + \
              ["体育频道,#genre#"] + sort_data(ty_dictionary,set(correct_name_data(corrections_name,ty_lines))) + ['\n'] + \
-             ["电影频道,#genre#"] + sort_data(dy_dictionary,set(correct_name_data(corrections_name,dy_lines))) + ['\n'] + \
              ["儿童专享,#genre#"] + read_txt_to_array('主频道/♪儿童专享.txt') + ['\n'] + \
-             ["儿童专享,#genre#"] + read_txt_to_array('主频道/♪儿童专享.txt') + ['\n'] + \
-             ["gat备用,#genre#"] + read_txt_to_array('主频道/♪港澳台.txt') + ['\n'] + \
              ["央视备用,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
              ["卫视备用,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines)))
            
