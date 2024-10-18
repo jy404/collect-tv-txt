@@ -21,14 +21,8 @@ CCTV少儿
 CCTV体育赛事
 CCTV奥运体育
 CCTV奥林匹克
-CCTV风云剧场
-CCTV第一剧场
 CCTV教育
 CCTV世界地理
-CCTV怀旧剧场
-CCTV央视文化精品
-CCTV文化精品
-CCTV卫生健康
 CCTV国防军事
 CCTV发现之旅
 CCTV1(4K)
