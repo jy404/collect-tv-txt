@@ -890,3 +890,5 @@
 [HD]镜新闻
 [HD]龙华日韩
 [HD]龙华戏剧
+[BD]nowsports
+[BD]now新聞
