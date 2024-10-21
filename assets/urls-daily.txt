@@ -60,6 +60,7 @@ http://47.108.190.141/wx/zb/chunyingzhibo.txt
 http://175.178.251.183:6689/live.m3u
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/Collect.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
+http://wp.mywlkj.cloud-ip.biz:35455/tv.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u
