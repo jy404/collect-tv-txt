@@ -2,11 +2,8 @@ https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u
 http://kxrj.site:567/gggg.nzk
 http://kxrj.site:55/lib/kx2024.txt
-http://ttkx.live:567/gggg.nzk
 http://rihou.cc:555/gggg.nzk
 http://rihou.cc:567/gggg.nzk
-https://2883.kstore.vip/gggg.nzk
-http://ttkx.live:55/lib/kx2024.txt
 https://cdn05042023.gitlink.org.cn/liliang74120/cmds/raw/branch/master/js.txt
 https://2912.kstore.space/520.txt
 https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/tv/raw/live.txt
@@ -64,7 +61,6 @@ http://47.108.190.141/wx/zb/chunyingzhibo.txt
 http://175.178.251.183:6689/live.m3u
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/Collect.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
-http://wp.mywlkj.cloud-ip.biz:35455/tv.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u
