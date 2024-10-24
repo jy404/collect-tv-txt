@@ -66,3 +66,14 @@ https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u
+
+http://99.weidonglong.com/99.txt
+https://tv.iill.top/m3u/Gather
+https://gitee.com/jin-xueling/lingl/raw/master/hu.txt
+http://l.gmbbk.com/upload/32413241.txt
+http://itv.22m.top/ITVBox/tv/tvonline.txt
+https://gongdian.top/tv/gongdian.txt
+http://zb.xmzb.xyz/大视界3.txt
+https://4key.cn/FP
+https://gitee.com/wjdjxjxj/tv/raw/master/qa.txt
+http://www.iptv6.icu:5212/f/mPLia/mytv.txt
