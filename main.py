@@ -2,7 +2,7 @@ import urllib.request
 from urllib.parse import urlparse
 import re #正则
 import os
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 import random
 
 # 执行开始时间
@@ -98,6 +98,7 @@ Olympics_2024_Paris_lines = [] #Paris_2024_Olympics  Olympics_2024_Paris ADD 202
 # favorite_lines = []
 
 other_lines = []
+other_lines_url = [] # 为降低other文件大小，剔除重复url添加
 
 def process_name_string(input_str):
     parts = input_str.split(',')
@@ -191,10 +192,24 @@ def clean_url(url):
         return url[:last_dollar_index]
     return url
 
+# 添加channel_name前剔除部分特定字符
+removal_list = ["_电信", "电信", "高清", "频道", "（HD）", "-HD"]
+def clean_channel_name(channel_name, removal_list):
+    for item in removal_list:
+        channel_name = channel_name.replace(item, "")
+
+    # 检查并移除末尾的 'HD'
+    if channel_name.endswith("HD"):
+        channel_name = channel_name[:-2]  # 去掉最后两个字符 "HD"
+    
+    return channel_name
+
 # 分发直播源，归类，把这部分从process_url剥离出来，为以后加入whitelist源清单做准备。
 def process_channel_line(line):
-    if  "#genre#" not in line and "," in line and "://" in line:
+    if  "#genre#" not in line and "#EXTINF:" not in line and "," in line and "://" in line:
         channel_name=line.split(',')[0].strip()
+        channel_name= clean_channel_name(channel_name, removal_list)  #分发前清理channel_name中特定字符
+
         channel_address=clean_url(line.split(',')[1].strip())  #把URL中$之后的内容都去掉
         line=channel_name+","+channel_address #重新组织line
 
@@ -303,7 +318,10 @@ def process_channel_line(line):
             elif channel_name in mtv_dictionary and check_url_existence(mtv_lines, channel_address):  #MTV
                 mtv_lines.append(process_name_string(line.strip()))
             else:
-                other_lines.append(line.strip())
+                if channel_address not in other_lines_url:
+                    other_lines_url.append(channel_address)   #记录已加url
+                    other_lines.append(line.strip())
+
 
 # 随机获取User-Agent,留着将来备用
 def get_random_user_agent():
@@ -465,8 +483,17 @@ def sort_data(order, data):
 urls = read_txt_to_array('assets/urls-daily.txt')
 # 处理
 for url in urls:
-    print(f"处理URL: {url}")
-    process_url(url)
+    if url.startswith("http"):
+        if "{MMdd}" in url: #特别处理113
+            current_date_str = datetime.now().strftime("%m%d")
+            url=url.replace("{MMdd}", current_date_str)
+
+        if "{MMdd-1}" in url: #特别处理113
+            yesterday_date_str = (datetime.now() - timedelta(days=1)).strftime("%m%d")
+            url=url.replace("{MMdd-1}", yesterday_date_str)
+            
+        print(f"处理URL: {url}")
+        process_url(url)
 
 
 
@@ -502,9 +529,16 @@ for whitelist_line in whitelist_auto_lines:
         if response_time < 2000:  #2s以内的高响应源
             process_channel_line(",".join(whitelist_parts[1:]))
 
-about_video="https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001"
-about_video2="https://gitlab.com/p2v5/wangtv/-/raw/main/about480p.mp4"
-version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+","+about_video
+# 获取当前的 UTC 时间
+utc_time = datetime.now(timezone.utc)
+# 北京时间
+beijing_time = utc_time + timedelta(hours=8)
+# 格式化为所需的格式
+formatted_time = beijing_time.strftime("%Y%m%d %H:%M:%S")
+
+about_video1="https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4"
+about_video2="https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4"
+version=formatted_time+","+about_video1
 about="关于本源,"+about_video2
 # 瘦身版
 all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] + ['\n'] +\
@@ -513,9 +547,15 @@ all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] + ['\n'] +\
              ["💓专享央视,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt') + ['\n'] + \
              ["💓专享卫视,#genre#"] + read_txt_to_array('主频道/♪优质卫视.txt') + ['\n'] + \
              ["💓港澳台,#genre#"] + read_txt_to_array('主频道/♪港澳台.txt') + ['\n'] + \
+             ["💓电视剧🔁,#genre#"] + read_txt_to_array('主频道/♪电视剧.txt') + ['\n'] + \
              ["💓优质个源,#genre#"] + read_txt_to_array('主频道/♪优质源.txt') + ['\n'] + \
              ["💓儿童专享,#genre#"] + read_txt_to_array('主频道/♪儿童专享.txt') + ['\n'] + \
              ["💓咪咕直播,#genre#"] + read_txt_to_array('主频道/♪咪咕直播.txt') + ['\n'] + \
+             ["☘️湖南频道,#genre#"] + sort_data(hn_dictionary,set(correct_name_data(corrections_name,hn_lines))) + ['\n'] + \
+             ["☘️湖北频道,#genre#"] + sort_data(hb_dictionary,set(correct_name_data(corrections_name,hb_lines))) + ['\n'] + \
+             ["☘️广东频道,#genre#"] + sort_data(gd_dictionary,set(correct_name_data(corrections_name,gd_lines))) + ['\n'] + \
+             ["☘️浙江频道,#genre#"] + sort_data(zj_dictionary,set(correct_name_data(corrections_name,zj_lines))) + ['\n'] + \
+             ["☘️山东频道,#genre#"] + sort_data(shandong_dictionary,set(correct_name_data(corrections_name,shandong_lines))) + ['\n'] + \
              ["上海频道,#genre#"] + sort_data(sh_dictionary,set(correct_name_data(corrections_name,sh_lines))) + ['\n'] + \
              ["体育频道,#genre#"] + sort_data(ty_dictionary,set(correct_name_data(corrections_name,ty_lines))) + ['\n']
 
@@ -527,6 +567,7 @@ all_lines =  ["更新时间,#genre#"] +[version]  +[about] + ['\n'] +\
              ["💓专享央视,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt') + ['\n'] + \
              ["💓专享卫视,#genre#"] + read_txt_to_array('主频道/♪优质卫视.txt') + ['\n'] + \
              ["💓港澳台,#genre#"] + read_txt_to_array('主频道/♪港澳台.txt') + ['\n'] + \
+             ["💓电视剧🔁,#genre#"] + read_txt_to_array('主频道/♪电视剧.txt') + ['\n'] + \
              ["💓优质个源,#genre#"] + read_txt_to_array('主频道/♪优质源.txt') + ['\n'] + \
              ["💓儿童专享,#genre#"] + read_txt_to_array('主频道/♪儿童专享.txt') + ['\n'] + \
              ["💓咪咕直播,#genre#"] + read_txt_to_array('主频道/♪咪咕直播.txt') + ['\n'] + \
@@ -546,18 +587,18 @@ all_lines =  ["更新时间,#genre#"] +[version]  +[about] + ['\n'] +\
              ["综艺频道,#genre#"] + sorted(set(correct_name_data(corrections_name,zy_lines))) + ['\n'] + \
              ["音乐频道,#genre#"] + sorted(set(yy_lines)) + ['\n'] + \
              ["游戏频道,#genre#"] + sorted(set(game_lines)) + ['\n'] + \
-             ["☘️浙江频道,#genre#"] + sorted(set(correct_name_data(corrections_name,zj_lines))) + ['\n'] + \
-             ["☘️江苏频道,#genre#"] + sorted(set(correct_name_data(corrections_name,jsu_lines))) + ['\n'] + \
-             ["☘️湖南频道,#genre#"] + sorted(set(correct_name_data(corrections_name,hn_lines))) + ['\n'] + \
+             ["☘️湖南频道,#genre#"] + sort_data(hn_dictionary,set(correct_name_data(corrections_name,hn_lines))) + ['\n'] + \
              ["☘️湖北频道,#genre#"] + sort_data(hb_dictionary,set(correct_name_data(corrections_name,hb_lines))) + ['\n'] + \
-             ["☘️安徽频道,#genre#"] + sorted(set(correct_name_data(corrections_name,ah_lines))) + ['\n'] + \
              ["☘️广东频道,#genre#"] + sort_data(gd_dictionary,set(correct_name_data(corrections_name,gd_lines))) + ['\n'] + \
+             ["☘️浙江频道,#genre#"] + sort_data(zj_dictionary,set(correct_name_data(corrections_name,zj_lines))) + ['\n'] + \
+             ["☘️山东频道,#genre#"] + sort_data(shandong_dictionary,set(correct_name_data(corrections_name,shandong_lines))) + ['\n'] + \
+             ["☘️江苏频道,#genre#"] + sorted(set(correct_name_data(corrections_name,jsu_lines))) + ['\n'] + \
+             ["☘️安徽频道,#genre#"] + sorted(set(correct_name_data(corrections_name,ah_lines))) + ['\n'] + \
              ["☘️海南频道,#genre#"] + sorted(set(correct_name_data(corrections_name,hain_lines))) + ['\n'] + \
              ["☘️内蒙频道,#genre#"] + sorted(set(correct_name_data(corrections_name,nm_lines))) + ['\n'] + \
              ["☘️辽宁频道,#genre#"] + sorted(set(correct_name_data(corrections_name,ln_lines))) + ['\n'] + \
              ["☘️陕西频道,#genre#"] + sorted(set(correct_name_data(corrections_name,sx_lines))) + ['\n'] + \
              ["☘️山西频道,#genre#"] + sorted(set(correct_name_data(corrections_name,shanxi_lines))) + ['\n'] + \
-             ["☘️山东频道,#genre#"] + sorted(set(correct_name_data(corrections_name,shandong_lines))) + ['\n'] + \
              ["☘️云南频道,#genre#"] + sorted(set(correct_name_data(corrections_name,yunnan_lines))) + ['\n'] + \
              ["☘️北京频道,#genre#"] + sorted(set(correct_name_data(corrections_name,bj_lines))) + ['\n'] + \
              ["☘️重庆频道,#genre#"] + sorted(set(correct_name_data(corrections_name,cq_lines))) + ['\n'] + \
@@ -742,5 +783,5 @@ print(f"others_output.txt行数: {other_lines_hj} ")
 
 
 #备用1：http://tonkiang.us
-#备用2：https://www.zoomeye.hk
+#备用2：https://www.zoomeye.hk,https://www.shodan.io,https://tv.cctv.com/live/
 #备用3：(BlackList检测对象)http,rtmp,p3p,rtp（rtsp，p2p）
