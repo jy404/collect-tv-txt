@@ -6,12 +6,9 @@ http://120.79.4.185/new/mdlive.txt
 http://tv.850930.xyz/kdsb.m3u
 http://tv.850930.xyz/kdsb2.m3u
 http://tv.850930.xyz/gather.m3u
-http://tv.850930.xyz/543.m3u
-http://tv.850930.xyz/histar.m3u
 http://kxrj.site:567/gggg.nzk
 http://kxrj.site:55/lib/kx2024.txt
 http://rihou.cc:555/gggg.nzk
-http://rihou.cc:567/gggg.nzk
 https://cdn05042023.gitlink.org.cn/liliang74120/cmds/raw/branch/master/js.txt
 https://2912.kstore.space/520.txt
 https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/tv/raw/live.txt
@@ -78,8 +75,6 @@ https://tv.iill.top/m3u/Gather
 https://gitee.com/jin-xueling/lingl/raw/master/hu.txt
 http://l.gmbbk.com/upload/32413241.txt
 http://itv.22m.top/ITVBox/tv/tvonline.txt
-https://gongdian.top/tv/gongdian.txt
-http://zb.xmzb.xyz/大视界3.txt
 https://4key.cn/FP
 https://gitee.com/wjdjxjxj/tv/raw/master/qa.txt
 http://www.iptv6.icu:5212/f/mPLia/mytv.txt
