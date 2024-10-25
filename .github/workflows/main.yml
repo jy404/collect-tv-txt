@@ -3,7 +3,7 @@ name: 'Daily Job'
 on:
   schedule:
     - cron: '0 22 * * *'  # 每天UTC时间00:00运行
-    - cron: '0 10 * * *'
+    - cron: '0 15 * * *'
   workflow_dispatch:
     inputs:
       environment:
