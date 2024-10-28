@@ -69,7 +69,6 @@ https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Unicom-Multicast.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile.m3u
 https://raw.githubusercontent.com/qwerttvv/Beijing-IPTV/master/IPTV-Mobile-Multicast.m3u
-https://raw.githubusercontent.com/jy404/TV/refs/heads/master/result.txt
 http://99.weidonglong.com/99.txt
 https://tv.iill.top/m3u/Gather
 https://gitee.com/jin-xueling/lingl/raw/master/hu.txt
