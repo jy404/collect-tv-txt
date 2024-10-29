@@ -298,6 +298,14 @@ urls = read_txt_to_array('assets/urls-daily.txt')
 # 处理
 for url in urls:
     if url.startswith("http"):
+        if "{MMdd}" in url: #特别处理113
+            current_date_str = datetime.now().strftime("%m%d")
+            url=url.replace("{MMdd}", current_date_str)
+
+        if "{MMdd-1}" in url: #特别处理113
+            yesterday_date_str = (datetime.now() - timedelta(days=1)).strftime("%m%d")
+            url=url.replace("{MMdd-1}", yesterday_date_str)
+            
         print(f"处理URL: {url}")
         process_url(url)
 
@@ -331,11 +339,29 @@ for whitelist_line in whitelist_auto_lines:
         except ValueError:
             print(f"response_time转换失败: {whitelist_line}")
             response_time = 60000  # 单位毫秒，转换失败给个60秒
-        if response_time < 400:  #0.4s以内的高响应源
+        if response_time < 500:  #0.5s以内的高响应源
             process_channel_line(",".join(whitelist_parts[1:]))
 
+# 随机取得URL
+def get_random_url(file_path):
+    urls = []
+    with open(file_path, 'r', encoding='utf-8') as file:
+        for line in file:
+            # 查找逗号后面的部分，即URL
+            url = line.strip().split(',')[-1]
+            urls.append(url)    
+    # 随机返回一个URL
+    return random.choice(urls) if urls else None
+
+# 获取当前的 UTC 时间
+utc_time = datetime.now(timezone.utc)
+# 北京时间
+beijing_time = utc_time + timedelta(hours=8)
+# 格式化为所需的格式
+formatted_time = beijing_time.strftime("%Y%m%d %H:%M:%S")
+
 about_video="https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001"
-version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
+version=formatted_time
 # 瘦身版
 all_lines_simple =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["央视专享,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt')
