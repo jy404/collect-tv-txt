@@ -3,6 +3,7 @@ https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_CCTV.txt
 https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_weishi.txt
 https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u
 http://120.79.4.185/new/mdlive.txt
+http://aktv.top/live.m3u
 http://tv.850930.xyz/kdsb.m3u
 http://tv.850930.xyz/kdsb2.m3u
 http://tv.850930.xyz/gather.m3u
