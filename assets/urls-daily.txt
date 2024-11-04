@@ -77,3 +77,4 @@ http://itv.22m.top/ITVBox/tv/tvonline.txt
 https://4key.cn/FP
 https://gitee.com/wjdjxjxj/tv/raw/master/qa.txt
 http://www.iptv6.icu:5212/f/mPLia/mytv.txt
+https://gitee.com/lionzang/itv/raw/master/z.txt
