@@ -31845,7 +31845,6 @@ Y+剧场,http://rihou.cc:567/aikan.php?id=yjjc
 翡翠,https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 
 
-◆◆◆　http://47.108.190.141/wx/zb/chunyingzhibo.txt
 ◆◆◆　http://175.178.251.183:6689/live.m3u
 请阅读,https://liuliuliu.tv/api/channels/1997/stream
 yuanzl77.github.io,https://liuliuliu.tv/api/channels/233/stream
