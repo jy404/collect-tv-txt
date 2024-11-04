@@ -2,8 +2,17 @@ import urllib.request
 from urllib.parse import urlparse
 import re #正则
 import os
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 import random
+import opencc #简繁转换
+
+#简繁转换
+def traditional_to_simplified(text: str) -> str:
+    # 初始化转换器，"t2s" 表示从繁体转为简体
+    converter = opencc.OpenCC('t2s')
+    simplified_text = converter.convert(text)
+    return simplified_text
+
 
 # 执行开始时间
 timestart = datetime.now()
@@ -154,6 +163,9 @@ def clean_channel_name(channel_name, removal_list):
     # 检查并移除末尾的 'HD'
     if channel_name.endswith("HD"):
         channel_name = channel_name[:-2]  # 去掉最后两个字符 "HD"
+
+    if channel_name.endswith("台"):
+        channel_name = channel_name[:-1]  # 去掉最后两个字符 "台"
     
     return channel_name
 
@@ -162,9 +174,11 @@ def clean_channel_name(channel_name, removal_list):
 
 # 分发直播源，归类，把这部分从process_url剥离出来，为以后加入whitelist源清单做准备。
 def process_channel_line(line):
-    if  "#genre#" not in line and "," in line and "://" in line:
+    if  "#genre#" not in line and "#EXTINF:" not in line and "," in line and "://" in line:
         channel_name=line.split(',')[0].strip()
         channel_name= clean_channel_name(channel_name, removal_list)  #分发前清理channel_name中特定字符
+        channel_name = traditional_to_simplified(channel_name)  #繁转简
+
         channel_address=clean_url(line.split(',')[1].strip())  #把URL中$之后的内容都去掉
         line=channel_name+","+channel_address #重新组织line
 
@@ -299,6 +313,14 @@ urls = read_txt_to_array('assets/urls-daily.txt')
 # 处理
 for url in urls:
     if url.startswith("http"):
+        if "{MMdd}" in url: #特别处理113
+            current_date_str = datetime.now().strftime("%m%d")
+            url=url.replace("{MMdd}", current_date_str)
+
+        if "{MMdd-1}" in url: #特别处理113
+            yesterday_date_str = (datetime.now() - timedelta(days=1)).strftime("%m%d")
+            url=url.replace("{MMdd-1}", yesterday_date_str)
+            
         print(f"处理URL: {url}")
         process_url(url)
 
@@ -321,9 +343,9 @@ def custom_sort(s):
         return 0  # 其他字符串保持原顺序
 
 
-#读取whitelist,把高响应源从白名单中抽出加入tv_output。
+#读取whitelist,把高响应源从白名单中抽出加入merged_output。
 print(f"ADD whitelist_auto.txt")
-whitelist_auto_lines=read_txt_to_array('blacklist/whitelist_auto.txt') #
+whitelist_auto_lines=read_txt_to_array('assets/blacklist1/whitelist_auto.txt') #
 for whitelist_line in whitelist_auto_lines:
     if  "#genre#" not in whitelist_line and "," in whitelist_line and "://" in whitelist_line:
         whitelist_parts = whitelist_line.split(",")
@@ -332,11 +354,20 @@ for whitelist_line in whitelist_auto_lines:
         except ValueError:
             print(f"response_time转换失败: {whitelist_line}")
             response_time = 60000  # 单位毫秒，转换失败给个60秒
-        if response_time < 400:  #0.4s以内的高响应源
+        if response_time < 700:  #0.7以内的高响应源
             process_channel_line(",".join(whitelist_parts[1:]))
 
+# 获取当前的 UTC 时间
+utc_time = datetime.now(timezone.utc)
+# 北京时间
+beijing_time = utc_time + timedelta(hours=8)
+# 格式化为所需的格式
+formatted_time = beijing_time.strftime("%Y%m%d %H:%M:%S")
+
+
+
 about_video="https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001"
-version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+",url"
+version=formatted_time
 # 瘦身版
 all_lines_simple =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["央视专享,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt')
