@@ -354,7 +354,7 @@ for whitelist_line in whitelist_auto_lines:
         except ValueError:
             print(f"response_time转换失败: {whitelist_line}")
             response_time = 60000  # 单位毫秒，转换失败给个60秒
-        if response_time < 600:  #0.6以内的高响应源
+        if response_time < 400:  #0.4以内的高响应源
             process_channel_line(",".join(whitelist_parts[1:]))
 
 # 获取当前的 UTC 时间
