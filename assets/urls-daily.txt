@@ -9,6 +9,7 @@ http://tv.850930.xyz/kdsb2.m3u
 http://tv.850930.xyz/gather.m3u
 http://kxrj.site:567/gggg.nzk
 http://kxrj.site:55/lib/kx2024.txt
+https://4gtv.mytvsuper.xyz/myiptv.m3u
 http://rihou.cc:555/gggg.nzk
 https://cdn05042023.gitlink.org.cn/liliang74120/cmds/raw/branch/master/js.txt
 https://2912.kstore.space/520.txt
