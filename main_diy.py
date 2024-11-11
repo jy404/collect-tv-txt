@@ -41,7 +41,7 @@ def read_blacklist_from_txt(file_path):
     BlackList = [line.split(',')[1].strip() for line in lines if ',' in line]
     return BlackList
 
-blacklist_auto=read_blacklist_from_txt('assets/blacklist1/blacklist_auto.txt') 
+blacklist_auto=read_blacklist_from_txt('blacklist/blacklist_auto.txt') 
 blacklist_manual=read_blacklist_from_txt('assets/blacklist1/blacklist_manual.txt') 
 # combined_blacklist = list(set(blacklist_auto + blacklist_manual))
 combined_blacklist = set(blacklist_auto + blacklist_manual)  #list是个列表，set是个集合，据说检索速度集合要快很多。2024-08-08
