@@ -2,11 +2,13 @@ https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_CCTV.txt
 https://raw.githubusercontent.com/xzw832/cmys/refs/heads/main/S_weishi.txt
 https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u
+https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
 http://120.79.4.185/new/mdlive.txt
 http://tv.850930.xyz/kdsb.m3u
 http://tv.850930.xyz/kdsb2.m3u
 http://tv.850930.xyz/gather.m3u
 http://kxrj.site:567/gggg.nzk
+http://wx.thego.cn/ak.m3u
 http://kxrj.site:55/lib/kx2024.txt
 http://rihou.cc:555/gggg.nzk
 https://cdn05042023.gitlink.org.cn/liliang74120/cmds/raw/branch/master/js.txt
