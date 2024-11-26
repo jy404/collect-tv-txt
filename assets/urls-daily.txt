@@ -13,7 +13,6 @@ http://kxrj.site:55/lib/kx2024.txt
 http://rihou.cc:555/gggg.nzk
 https://2912.kstore.space/520.txt
 https://cdn05042023.gitlink.org.cn/api/v1/repos/xuanbei/tv/raw/live.txt
-https://d.kstore.space/download/7395/xiaohei.txt
 http://home.jundie.top:81/Cat/tv/live.txt
 https://raw.githubusercontent.com/BP3388/BP001.github.io/main/tivi.list
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
@@ -22,7 +21,6 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
 https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
 https://10085.kstore.space/%E8%93%9D%E5%A4%A9%E7%99%BD%E4%BA%91.txt
-http://vip.vip0531.com/viptv/live202405.txt
 https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u
 https://m3u.ibert.me/txt/fmml_ipv6.txt
 https://m3u.ibert.me/txt/ycl_iptv.txt
@@ -78,5 +76,5 @@ https://4key.cn/FP
 https://gitee.com/wjdjxjxj/tv/raw/master/qa.txt
 http://www.iptv6.icu:5212/f/mPLia/mytv.txt
 https://gitee.com/lionzang/itv/raw/master/z.txt
-http://8.138.7.223/vip.txt
+http://106.53.99.30/vip.txt
 https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt
