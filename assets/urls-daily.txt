@@ -78,3 +78,4 @@ http://www.iptv6.icu:5212/f/mPLia/mytv.txt
 https://gitee.com/lionzang/itv/raw/master/z.txt
 http://106.53.99.30/vip.txt
 https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt
+https://mycode.zhoujie218.top/me/jxdx_hd.txt
