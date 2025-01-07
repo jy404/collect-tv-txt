@@ -34,15 +34,8 @@ CCTV14_电信
 CCTV15_电信
 CCTV16_电信
 CCTV17_电信
-CCTV.com
 CCTV少儿
 CCTV体育赛事
-CCTV奥运体育
-CCTV奥林匹克
-CCTV教育
-CCTV世界地理
-CCTV国防军事
-CCTV发现之旅
 CCTV1(4K)
 CCTV3(4K)
 CCTV5(4K)
