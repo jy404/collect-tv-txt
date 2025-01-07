@@ -387,14 +387,11 @@ all_lines_simple =  ["更新时间,#genre#"] +[version] + ['\n'] +\
 # 合并所有对象中的行文本（去重，排序后拼接）
 # ["奥运频道,#genre#"] + sort_data(Olympics_2024_Paris_dictionary,set(correct_name_data(corrections_name,Olympics_2024_Paris_lines))) + ['\n'] + \
 all_lines =  ["更新时间,#genre#"] +[version]  + ['\n'] +\
-             ["央视专享,#genre#"] + read_txt_to_array('主频道/♪优质央视.txt') + ['\n'] + \
-             ["卫视专享,#genre#"] + read_txt_to_array('主频道/♪优质卫视.txt') + ['\n'] + \
-             ["江西频道,#genre#"] + sorted(set(correct_name_data(corrections_name,jx_lines))) + ['\n'] + \
+             ["江西,#genre#"] + sorted(set(correct_name_data(corrections_name,jx_lines))) + ['\n'] + \
              ["gat,#genre#"] + sort_data(gat_dictionary,set(correct_name_data(corrections_name,gat_lines))) + ['\n'] + \
-             ["体育频道,#genre#"] + sort_data(ty_dictionary,set(correct_name_data(corrections_name,ty_lines))) + ['\n'] + \
-             ["儿童专享,#genre#"] + read_txt_to_array('主频道/♪儿童专享.txt') + ['\n'] + \
-             ["央视备用,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
-             ["卫视备用,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines)))
+             ["体育,#genre#"] + sort_data(ty_dictionary,set(correct_name_data(corrections_name,ty_lines))) + ['\n'] + \
+             ["央视,#genre#"] + sort_data(ys_dictionary,set(correct_name_data(corrections_name,ys_lines))) + ['\n'] + \
+             ["卫视,#genre#"] + sort_data(ws_dictionary,set(correct_name_data(corrections_name,ws_lines)))
            
 
 # # custom定制
