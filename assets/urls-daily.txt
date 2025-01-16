@@ -101,3 +101,4 @@ http://106.53.99.30/vip.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 http://itvpc.52mywlkj.xyz/result
 https://live.kilvn.com/iptv.m3u
+https://live.iptv365.org/live.txt
