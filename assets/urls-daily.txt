@@ -98,3 +98,6 @@ https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u
 http://175.178.251.183:6689/live.txt
 https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.txt
 http://106.53.99.30/vip.txt
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+http://itvpc.52mywlkj.xyz/result
+https://live.kilvn.com/iptv.m3u
