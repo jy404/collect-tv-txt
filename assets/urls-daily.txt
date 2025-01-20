@@ -102,3 +102,16 @@ https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 http://itvpc.52mywlkj.xyz/result
 https://live.kilvn.com/iptv.m3u
 https://live.iptv365.org/live.txt
+http://146.235.213.45:35455/tv.m3u
+http://117.144.58.42:35455/tv.m3u
+http://27.20.238.123:35455/tv.m3u
+http://13.251.121.250:35455/tv.m3u
+http://43.248.128.135:35455/tv.m3u
+http://www.douzhicloud.site:35455/tv.m3u
+http://mg.20191209.xyz:58888/tv.m3u
+http://nas.zyylover.homes:35455/tv.m3u
+http://www.terrykang.xyz:35455/tv.m3u
+http://112.18.54.52:35455/tv.m3u
+http://m.951688.xyz:35455/tv.m3u
+http://b.zgjok.com:35455/tv.m3u
+http://li0580.top:35455/tv.m3u
