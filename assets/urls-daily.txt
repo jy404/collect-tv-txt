@@ -115,3 +115,4 @@ http://112.18.54.52:35455/tv.m3u
 http://m.951688.xyz:35455/tv.m3u
 http://b.zgjok.com:35455/tv.m3u
 http://li0580.top:35455/tv.m3u
+https://szq-1251166371.cos.ap-shanghai.myqcloud.com/szq1.txt
