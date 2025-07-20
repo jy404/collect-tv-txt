@@ -23,6 +23,8 @@ CHC动作电影,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/8
 
 
 ◆◆◆　https://ghproxy.1888866.xyz/raw.githubusercontent.com/joevess/IPTV/main/home.m3u8
+
+
 ◆◆◆　https://aktv.top/live.txt
 
 
@@ -10813,10 +10815,12 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 杭州影视,http://goo.bkpcp.top/mg/hzys
 杭州影视,https://stream1.freetv.fun/hang-zhou-ying-shi-4.ctv
 杭州影视,https://stream1.freetv.fun/hang-zhou-ying-shi-2.ctv
+杭州青少,http://120.55.49.231:3095/rtp/233.50.201.177:5140
 杭州少体,http://goo.bkpcp.top/mg/hzse
 浙江教科,http://zwebl02.cztv.com/live/channel041080P.m3u8?auth_key=2524708799-0-0-f195b808217db133bfd648edc01e91fa
 之江纪录,http://zwebl02.cztv.com/live/channel121080P.m3u8?auth_key=2524708799-0-0-c33efdd495bcdd2ddc42e7c408405037
 之江纪录,http://goo.bkpcp.top/mg/zjjl
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 浙江国际,http://zwebl02.cztv.com/live/channel101080P.m3u8?auth_key=2524708799-0-0-c9473fea1da3eff0f29f4c9cf2b36519
 浙江国际,http://zhfivel02.cztv.com/channel10/1080p.m3u8?auth_key=2524708799-0-0-646cad31c1d94b002a325cd75475d30f
 浙江国际,https://ct-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -10825,12 +10829,10 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-4.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-5.ctv
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-10.m3u8
-浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-9.m3u8
-丽水新闻,http://120.55.49.231:3095/rtp/233.50.201.162:5140
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-3.m3u8
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-1.m3u8
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-9.m3u8
-湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&amp;fbl=
+湖州文化娱乐,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&fbl=
 浙江民生休闲,http://zhfivel02.cztv.com/channel06/1080p.m3u8?auth_key=2524708799-0-0-59c4fe94512c59a90316fbf17ae2fbef
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-7.ctv
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-5.m3u8
@@ -10867,13 +10869,13 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 绍兴公共,https://stream1.freetv.fun/shao-xing-gong-gong-1.m3u8
 绍兴公共,https://stream1.freetv.fun/shao-xing-gong-gong-3.m3u8
 绍兴公共,https://stream1.freetv.fun/shao-xing-gong-gong-8.m3u8
-海宁新闻综合,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8?zbid=293304&tpid=1708007815
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-3.ctv
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-4.m3u8
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-1.m3u8
 永嘉新闻综合,https://stream1.freetv.fun/yong-jia-xin-wen-zong-he-2.m3u8
 武义新闻综合,https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-1.m3u8
 武义新闻综合,https://stream1.freetv.fun/wu-yi-xin-wen-zong-he-3.m3u8
+松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8zzhed
 新昌新闻综合,https://stream1.freetv.fun/xin-chang-xin-wen-zong-he-6.ctv
 新昌新闻综合,https://stream1.freetv.fun/xin-chang-xin-wen-zong-he-5.ctv
 新昌新闻综合,https://stream1.freetv.fun/xin-chang-xin-wen-zong-he-1.m3u8
@@ -10888,6 +10890,7 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 嵊泗综合,https://stream1.freetv.fun/sheng-zhou-xin-wen-zong-he-3.m3u8
 兰溪新闻综合,https://stream1.freetv.fun/lan-xi-xin-wen-zong-he-1.m3u8
 兰溪新闻综合,https://stream1.freetv.fun/lan-xi-xin-wen-zong-he-3.m3u8
+余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-1.m3u8
 上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-5.m3u8
 上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-3.m3u8
@@ -10989,10 +10992,11 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 南京新闻综合,https://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
 南京新闻综合,https://www.freetv.top/migu/838109047.m3u8?migutoken=74a123656ffd42bf35e581516bd59c04fe4bcfe92f39e16931582e1b674ff2fc4d90da5f9b3dc796b8700456682cfb198f958ef81602312978e5168c1b35bb475fe775bf234a1c7965f918691c
-句容新闻综合,http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8?zjiangsd
 宜兴紫砂,rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
 常熟民生,rtmp://cstvplay.21cs.cn/cstv2/cstv2
 徐州新闻综合,http://z.b.bkpcp.top/m.php?id=xzxwzh
+无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
+武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 江宁新闻,rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh
 江苏城市,http://z.b.bkpcp.top/m.php?id=jscs
 江苏城市,https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.ctv
@@ -11028,7 +11032,6 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-12.ctv
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-1.m3u8
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-3.m3u8
-湖南都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-10.ctv
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-4.m3u8
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-14.m3u8
@@ -11059,6 +11062,7 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 湖南电影,https://stream1.freetv.fun/hu-nan-dian-ying-13.m3u8
 湖南电影,https://stream1.freetv.fun/hu-nan-dian-ying-6.m3u8
 湖南电影,https://stream1.freetv.fun/hu-nan-dian-ying-2.m3u8
+湖南爱晚,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngg
 湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-6.ctv
 湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-4.m3u8
 湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-5.m3u8
@@ -11078,6 +11082,7 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 湖南国际,https://stream1.freetv.fun/hu-nan-guo-ji-7.m3u8
 湖南国际,https://stream1.freetv.fun/hu-nan-guo-ji-2.ctv
 湖南国际,https://stream1.freetv.fun/hu-nan-guo-ji-3.m3u8
+湖南国际,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
 湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-5.ctv
 湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-1.m3u8
 湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-4.m3u8
@@ -11192,7 +11197,6 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 灌阳新闻综合,https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
-武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
 天津卫视,http://j.x.bkpcp.top/jx/TIANJHD
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
@@ -11209,7 +11213,6 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-3.ctv
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-4.ctv
 四川科教,https://stream1.freetv.fun/si-chuan-ke-jiao-5.m3u8
-夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
 宝兴综合,rtmp://tv.yunxya.com:1937/channellive/baoxing
 小金综合,rtmp://xjlive.xjxrmt.cn/live/xwpd
 广元综合,https://stream1.freetv.fun/yan-yuan-zong-he-2.ctv
@@ -11379,9 +11382,7 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 甘肃都市,https://hls.gstv.com.cn/49048r/l54391.m3u8
 永昌综合,rtmp://play.kankanlive.com/live/1652755738635915
 甘肃少儿,https://hls.gstv.com.cn/49048r/922k96.m3u8
-伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 兵团八师石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
 新疆卫视,http://z.b.bkpcp.top/m.php?id=xjws
@@ -11423,7 +11424,6 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-7.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-22.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-6.m3u8
-山东文旅,http://139.129.231.228:50060/rtp/239.21.1.176:5002
 济南综合,https://stream1.freetv.fun/ji-nan-zong-he-2.m3u8
 济南综合,https://stream1.freetv.fun/ji-nan-zong-he-3.m3u8
 济南综合,https://stream1.freetv.fun/ji-nan-zong-he-1.m3u8
@@ -11431,16 +11431,13 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 济南新闻综合,https://stream1.freetv.fun/ipv6-ji-nan-xin-wen-zong-he-8.m3u8
 济南生活,http://139.129.231.228/rtp/239.21.1.64:5002
 济南影视,http://139.129.231.228/rtp/239.21.1.65:5002
-济南少儿,http://139.129.231.228/rtp/239.21.1.68:5002
+济南娱乐,http://139.129.231.228/rtp/239.21.1.66:5002
 济南商务,http://139.129.231.228/rtp/239.21.1.67:5002
 济南教育,https://stream1.freetv.fun/ji-nan-jiao-yu-1.m3u8
 济南鲁中,http://139.129.231.228:50060/rtp/239.21.1.149:5002
-济宁综合,http://139.129.231.228/rtp/239.21.2.19:5002
 中华美食,http://qjrhc.jydjd.top:2911/udp/224.1.100.138:11111
 潍坊新闻综合,https://stream1.freetv.fun/ipv6-wei-fang-xin-wen-zong-he-2.m3u8
 潍坊新闻综合,https://stream1.freetv.fun/ipv6-wei-fang-xin-wen-zong-he-1.m3u8
-烟台公共,http://139.129.231.228/rtp/239.21.1.117:5002
-菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
 古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
 山西影视,https://live.lalifeier.eu.org/sxrtv/sxys.m3u8?t=1745796321&key=0721c661fb4b291613b070d85d8af084
@@ -11479,12 +11476,10 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 祁门综合,rtmp://tv.qmxrmt.com/chan/ch1
 祁门综合,rtmp://tv.qmxrmt.com/chan/ch1?zanhd
 滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8?zanhd
-滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 滁州新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8?zanhd
 滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8?zanhd
 宿松新闻综合,rtmp://52181.lssplay.aodianyun.com/tv_radio_52181/tv_channel_3390?auth_key=4849469644-0-0-4ebac1aa7b06c07197e6a43bb43b3fa7
 宿州科教,rtmp://live.ahsz.tv/video/s10001-kxjy
-宁夏公共,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
 吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1745796321&key=ba85da6410cdc8b830d46c3182ad7775
 吉林都市,https://live.lalifeier.eu.org/jlntv/jlds.m3u8?t=1746307365&key=85abbfb19768c29f883db499d3c1114f
 吉林生活,https://live.lalifeier.eu.org/jlntv/jlsh.m3u8?t=1745796321&key=8386cb03e732cd707a483bb89f1216af
@@ -11492,14 +11487,15 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1745796321&key=b26baf2d67026a93e41fcbbd3f132bc3
 吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1746307365&key=c561c31cdce71c6e8e33914bfc43027f
 吉林乡村,https://live.lalifeier.eu.org/jlntv/jlxc.m3u8?t=1746393735&key=9d6ca0a9c59b1876be2ef4320b7283d8
-德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 德惠综合,https://stream11.jlntv.cn/dehuitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 珲春新闻综合,https://stream1.freetv.fun/hun-chun-xin-wen-zong-he-3.m3u8
-辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 辉南新闻综合,https://stream5.jlntv.cn/hn/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 昆明公共,http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8
 昆明科学教育,http://wshls.live.migucloud.com/live/ZBXWIMTD_C0_2/playlist.m3u8
+陇川综合,http://live.ynurl.com/video/s10027-LCDST/index.m3u8
+陇川综合,http://live.ynurl.com/video/s10027-LCDST/index.m3u8?zyund
 安多卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659
 西宁新闻综合,https://stream1.freetv.fun/xi-zhu-xin-wen-zong-he-1.m3u8
 西宁新闻综合,https://stream1.freetv.fun/xi-zhu-xin-wen-zong-he-2.m3u8
@@ -11553,6 +11549,7 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 哈尔滨新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434
 哈尔滨新闻综合,https://stream1.freetv.fun/ha-er-bin-xin-wen-zong-he-1.m3u8
 哈尔滨新闻综合,https://stream1.freetv.fun/ha-er-bin-xin-wen-zong-he-4.m3u8
+哈尔滨生活,https://stream.hrbtv.net/shpd/playlist.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
 大庆新闻综合,https://stream1.freetv.fun/da-qing-xin-wen-zong-he-1.m3u8
 鹤岗新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226534
@@ -11576,9 +11573,10 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰卫视,https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
+纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
@@ -11595,13 +11593,14 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-6.m3u8
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-7.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-9.m3u8
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-2.ctv
+东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-6.ctv
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 东森电影,https://stream1.freetv.fun/7e7daf1aca2b5fc6ab5365c3d5201b91e3b538cd4a947fd5bdb0256900d3f638.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
@@ -11656,7 +11655,6 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.m3u8
-东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-6.ctv
 直播2,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
 直播3,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
 直播4,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
@@ -11706,7 +11704,6 @@ CCTV-5+,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-7.m3u8
-纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8
 爱体育,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000290630
 爱体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8
 爱体育,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000060/index.m3u8
@@ -11729,7 +11726,6 @@ CCTV-5+,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888
 快乐垂钓,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031206
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
-少儿动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
@@ -11737,6 +11733,7 @@ JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 少儿动画,rtsp://115.153.212.72/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
+少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
@@ -12247,7 +12244,6 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 杭州生活,http://www.jeremyoto.com:82/rtp/233.50.201.175:5140
 杭州影视,http://120.55.49.231:3095/rtp/233.50.201.176:5140
 杭州影视,http://www.jeremyoto.com:82/rtp/233.50.201.176:5140
-杭州青少,http://120.55.49.231:3095/rtp/233.50.201.177:5140
 杭州青少,http://www.jeremyoto.com:82/rtp/233.50.201.177:5140
 杭州导视,http://www.jeremyoto.com:82/rtp/233.50.201.182:5140
 宁波TV1,http://www.jeremyoto.com:82/rtp/233.50.201.168:5140
@@ -12257,6 +12253,7 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 之江纪录,http://120.55.49.231:3095/rtp/233.50.202.25:5140
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+丽水新闻,http://120.55.49.231:3095/rtp/233.50.201.162:5140
 衢州公共,http://120.55.49.231:3095/rtp/233.50.202.12:5140
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 浙江民生休闲,http://120.55.49.231:3095/rtp/233.50.201.136:5140
@@ -12372,6 +12369,7 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
 南宁影视娱乐,https://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 叙州新闻综合,http://2061827161.cloudvdn.com/a.m3u8?domain=pili-live-hls.ybcxjd.com&player=IjsAAN-1KyqjjPYX&secondToken=secondToken%3AMHl3QtaAs-H2KkHpuGUAlKuJ9a8&streamid=jdh-live%3Ajdh-live%2F2108111201035597&v3=1
+夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
 岳池新闻综合,http://liveyc.cmc.yuechirmt.cn:80/live/yctv.m3u8?auth_key=1714112398-0-0-d9a6bd74623c01c1c2f9576fe51e8b7b
 沐川综合,http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8
 金川新闻综合,http://139.203.180.9:90/live/zhxw.m3u8
@@ -12424,6 +12422,8 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 酒泉综合,https://play.kankanlive.com/live/1702033926169975.m3u8
 金川综合,https://play.kankanlive.com/live/1625041962958919.m3u8?zgand
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
+伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
+奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
 山东少儿,http://139.129.231.228:50060/rtp/239.21.1.208:5002
 山东新闻,http://139.129.231.228:50060/rtp/239.21.1.140:5002
 山东教育,http://36.105.100.208:35455/itv/1000000002000004097.m3u8?cdn=ystenlive
@@ -12436,10 +12436,11 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 山东齐鲁,http://139.129.231.228:50060/rtp/239.21.1.134:5002
 山东生活,http://139.129.231.228:50060/rtp/239.21.1.175:5002
 山东体育,http://139.129.231.228/rtp/239.21.1.141:5002
+山东文旅,http://139.129.231.228:50060/rtp/239.21.1.176:5002
 山东综艺,http://139.129.231.228/rtp/239.21.1.177:5002
 济南新闻综合,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
 济南都市,http://139.129.231.228/rtp/239.21.1.63:5002
-济南娱乐,http://139.129.231.228/rtp/239.21.1.66:5002
+济南少儿,http://139.129.231.228/rtp/239.21.1.68:5002
 济南商务,http://139.129.231.228:50060/rtp/239.21.1.67:5002
 济南教育,http://139.129.231.228:50060/rtp/239.21.1.133:5002
 青州电视台文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd
@@ -12450,6 +12451,7 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 青州综合,http://139.129.231.228/rtp/239.21.1.232:5002
 济宁公共,http://139.129.231.228/rtp/239.21.2.20:5002
 济宁教育,http://139.129.231.228/rtp/239.21.1.139:5002
+济宁综合,http://139.129.231.228/rtp/239.21.2.19:5002
 中华美食,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2264&tk=23a9aca1f79f
 日照科教,http://139.129.231.228/rtp/239.21.1.80:5002
 枣庄公共,http://stream.zztvzd.com/3/sd/live.m3u8?shandd
@@ -12459,6 +12461,7 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 淄博都市,http://139.129.231.228/rtp/239.21.1.83:5002
 滨州公共,http://139.129.231.228/rtp/239.21.1.119:5002
 烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8?shandd
+烟台公共,http://139.129.231.228/rtp/239.21.1.117:5002
 烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8?shandd
 烟台经济科技,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8?shandd
 吉县新闻综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8?zshanxd
@@ -12488,7 +12491,6 @@ CETV4,http://139.129.231.228/rtp/239.21.1.222:5002
 东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8
 广南电视,http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8?zyund
 通海电视,http://live.ynurl.com/video/s10038-thtv/index.m3u8?zyund
-陇川综合,http://live.ynurl.com/video/s10027-LCDST/index.m3u8?zyund
 马关电视,http://live.ynurl.com/video/s10046-001/index.m3u8?zyund
 门源综合,http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd
 贵南综合,http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8?zqinghd
@@ -12831,151 +12833,6 @@ CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.c
 精品萌宠,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 金牌综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-体育,http://a21709.tv.netsite.cc/proxy/1168525477/1168525477.m3u8
-凤凰卫视,http://a21709.tv.netsite.cc/proxy/1650326537/1650326537.m3u8
-凤凰中文,http://a21709.tv.netsite.cc/proxy/1846789161/1846789161.m3u8
-新疆兵团卫视,http://a21709.tv.netsite.cc/proxy/1502802665/1502802665.m3u8
-三沙卫视,http://a21709.tv.netsite.cc/proxy/1337100319/1337100319.m3u8
-CGTN,http://a21709.tv.netsite.cc/proxy/1162774257/1162774257.m3u8
-CGTN法语,http://a21709.tv.netsite.cc/proxy/897976963/897976963.m3u8
-CGTN俄语,http://a21709.tv.netsite.cc/proxy/742102579/742102579.m3u8
-CGTN阿拉伯语,http://a21709.tv.netsite.cc/proxy/1846633731/1846633731.m3u8
-CGTN西班牙语,http://a21709.tv.netsite.cc/proxy/1194246781/1194246781.m3u8
-CGTN外语记录,http://a21709.tv.netsite.cc/proxy/634350026/634350026.m3u8
-1905-电影网,http://a21709.tv.netsite.cc/proxy/1747360543/1747360543.m3u8
-上海第一财经,http://a21709.tv.netsite.cc/proxy/1946402424/1946402424.m3u8
-上海纪实人文,http://a21709.tv.netsite.cc/proxy/1975883896/1975883896.m3u8
-上海都市,http://a21709.tv.netsite.cc/proxy/2116818558/2116818558.m3u8
-上海哈哈炫动,http://a21709.tv.netsite.cc/proxy/1655047572/1655047572.m3u8
-上海点掌财经,http://a21709.tv.netsite.cc/proxy/1577752441/1577752441.m3u8
-浙江钱江都市,http://a21709.tv.netsite.cc/proxy/2044904392/2044904392.m3u8
-浙江经济生活,http://a21709.tv.netsite.cc/proxy/1529435983/1529435983.m3u8
-浙江民生休闲,http://a21709.tv.netsite.cc/proxy/991769224/991769224.m3u8
-浙江教育科技,http://a21709.tv.netsite.cc/proxy/1253636999/1253636999.m3u8
-浙江新闻,http://a21709.tv.netsite.cc/proxy/2053951003/2053951003.m3u8
-浙江教科影视,http://a21709.tv.netsite.cc/proxy/833196700/833196700.m3u8
-浙江少儿,http://a21709.tv.netsite.cc/proxy/1658458613/1658458613.m3u8
-浙江国际,http://a21709.tv.netsite.cc/proxy/2031903078/2031903078.m3u8
-浙江好易购,http://a21709.tv.netsite.cc/proxy/1464411876/1464411876.m3u8
-浙江之江记录,http://a21709.tv.netsite.cc/proxy/1044187699/1044187699.m3u8
-哈萨克语新闻综合,http://a21709.tv.netsite.cc/proxy/1459249110/1459249110.m3u8
-汉语综艺,http://a21709.tv.netsite.cc/proxy/1984370081/1984370081.m3u8
-维吾尔语影视,http://a21709.tv.netsite.cc/proxy/1914463925/1914463925.m3u8
-汉语经济生活,http://a21709.tv.netsite.cc/proxy/2004261116/2004261116.m3u8
-哈萨克语综艺,http://a21709.tv.netsite.cc/proxy/333040579/333040579.m3u8
-维吾尔语经济生活,http://a21709.tv.netsite.cc/proxy/1099281883/1099281883.m3u8
-汉语体育健康,http://a21709.tv.netsite.cc/proxy/1886377426/1886377426.m3u8
-汉语信息服务,http://a21709.tv.netsite.cc/proxy/1505828605/1505828605.m3u8
-新疆少儿,http://a21709.tv.netsite.cc/proxy/79237439/79237439.m3u8
-内蒙古卫视,http://a21709.tv.netsite.cc/proxy/1149350272/1149350272.m3u8
-内蒙古新闻综合,http://a21709.tv.netsite.cc/proxy/862381212/862381212.m3u8
-内蒙古经济生活,http://a21709.tv.netsite.cc/proxy/1043888416/1043888416.m3u8
-内蒙古少儿,http://a21709.tv.netsite.cc/proxy/772314677/772314677.m3u8
-内蒙古文化娱乐,http://a21709.tv.netsite.cc/proxy/844409203/844409203.m3u8
-内蒙古农牧,http://a21709.tv.netsite.cc/proxy/700721138/700721138.m3u8
-内蒙古蒙古语文化,http://a21709.tv.netsite.cc/proxy/818789140/818789140.m3u8
-贵州公共,http://a21709.tv.netsite.cc/proxy/730375068/730375068.m3u8
-贵州影视文艺,http://a21709.tv.netsite.cc/proxy/277498502/277498502.m3u8
-贵州大众生活,http://a21709.tv.netsite.cc/proxy/1102719883/1102719883.m3u8
-贵州生态乡村,http://a21709.tv.netsite.cc/proxy/2087588014/2087588014.m3u8
-贵州科教健康,http://a21709.tv.netsite.cc/proxy/1162947109/1162947109.m3u8
-贵州移动电视,http://a21709.tv.netsite.cc/proxy/1401142653/1401142653.m3u8
-重庆新闻,http://a21709.tv.netsite.cc/proxy/1555453135/1555453135.m3u8
-陕西卫视,http://a21709.tv.netsite.cc/proxy/917851306/917851306.m3u8
-陕西农林,http://a21709.tv.netsite.cc/proxy/1359389546/1359389546.m3u8
-陕西新闻资讯,http://a21709.tv.netsite.cc/proxy/1595881474/1595881474.m3u8
-陕西都市青春,http://a21709.tv.netsite.cc/proxy/391844543/391844543.m3u8
-陕西生活,http://a21709.tv.netsite.cc/proxy/286895848/286895848.m3u8
-陕西公共,http://a21709.tv.netsite.cc/proxy/1782806707/1782806707.m3u8
-陕西购物,http://a21709.tv.netsite.cc/proxy/1183146985/1183146985.m3u8
-陕西体育休闲,http://a21709.tv.netsite.cc/proxy/742107634/742107634.m3u8
-福建综合,http://a21709.tv.netsite.cc/proxy/269896449/269896449.m3u8
-福建公共,http://a21709.tv.netsite.cc/proxy/639164858/639164858.m3u8
-福建新闻,http://a21709.tv.netsite.cc/proxy/199601741/199601741.m3u8
-福建电视剧,http://a21709.tv.netsite.cc/proxy/1180178372/1180178372.m3u8
-福建旅游,http://a21709.tv.netsite.cc/proxy/1739179131/1739179131.m3u8
-福建经视,http://a21709.tv.netsite.cc/proxy/561753807/561753807.m3u8
-福建体育,http://a21709.tv.netsite.cc/proxy/1771344389/1771344389.m3u8
-福建少儿,http://a21709.tv.netsite.cc/proxy/253585251/253585251.m3u8
-福建海峡卫视,http://a21709.tv.netsite.cc/proxy/1400186150/1400186150.m3u8
-吉林综艺文化,http://a21709.tv.netsite.cc/proxy/1548850221/1548850221.m3u8
-吉林公共,http://a21709.tv.netsite.cc/proxy/1189725287/1189725287.m3u8
-吉林乡村,http://a21709.tv.netsite.cc/proxy/1171899698/1171899698.m3u8
-吉林生活,http://a21709.tv.netsite.cc/proxy/1468821790/1468821790.m3u8
-吉林影视,http://a21709.tv.netsite.cc/proxy/1310503767/1310503767.m3u8
-吉林戏曲,http://a21709.tv.netsite.cc/proxy/1321895461/1321895461.m3u8
-吉林都市,http://a21709.tv.netsite.cc/proxy/1677605767/1677605767.m3u8
-吉林新闻综合,http://a21709.tv.netsite.cc/proxy/1360924247/1360924247.m3u8
-吉林延边卫视,http://a21709.tv.netsite.cc/proxy/454807708/454807708.m3u8
-吉林延边汉语综合,http://a21709.tv.netsite.cc/proxy/461796199/461796199.m3u8
-吉林延边朝鲜语综合,http://a21709.tv.netsite.cc/proxy/127471106/127471106.m3u8
-河北卫视,http://a21709.tv.netsite.cc/proxy/1385861493/1385861493.m3u8
-河北经济生活,http://a21709.tv.netsite.cc/proxy/839342764/839342764.m3u8
-河北农民,http://a21709.tv.netsite.cc/proxy/1382120425/1382120425.m3u8
-河北都市,http://a21709.tv.netsite.cc/proxy/1382613512/1382613512.m3u8
-河北影视剧,http://a21709.tv.netsite.cc/proxy/105462334/105462334.m3u8
-河北少儿科教,http://a21709.tv.netsite.cc/proxy/177438581/177438581.m3u8
-河北公共,http://a21709.tv.netsite.cc/proxy/1380350629/1380350629.m3u8
-河北三佳购物,http://a21709.tv.netsite.cc/proxy/1490274429/1490274429.m3u8
-甘肃卫视,http://a21709.tv.netsite.cc/proxy/1209404373/1209404373.m3u8
-甘肃经济,http://a21709.tv.netsite.cc/proxy/1373372389/1373372389.m3u8
-甘肃文化影视,http://a21709.tv.netsite.cc/proxy/1573084994/1573084994.m3u8
-甘肃公共应急,http://a21709.tv.netsite.cc/proxy/1726841360/1726841360.m3u8
-甘肃少儿,http://a21709.tv.netsite.cc/proxy/1645236406/1645236406.m3u8
-甘肃都市,http://a21709.tv.netsite.cc/proxy/1238488351/1238488351.m3u8
-河南都市,http://a21709.tv.netsite.cc/proxy/1492902938/1492902938.m3u8
-河南民生,http://a21709.tv.netsite.cc/proxy/1346087362/1346087362.m3u8
-河南法制,http://a21709.tv.netsite.cc/proxy/1472420660/1472420660.m3u8
-河南电视剧,http://a21709.tv.netsite.cc/proxy/493614280/493614280.m3u8
-河南新闻,http://a21709.tv.netsite.cc/proxy/1692770748/1692770748.m3u8
-河南欢腾购物,http://a21709.tv.netsite.cc/proxy/933026680/933026680.m3u8
-河南公共,http://a21709.tv.netsite.cc/proxy/1779518772/1779518772.m3u8
-河南乡村,http://a21709.tv.netsite.cc/proxy/1890775902/1890775902.m3u8
-河南武术世界,http://a21709.tv.netsite.cc/proxy/503866921/503866921.m3u8
-河南晴彩中原,http://a21709.tv.netsite.cc/proxy/437233355/437233355.m3u8
-河南梨园,http://a21709.tv.netsite.cc/proxy/1836590379/1836590379.m3u8
-河南移动戏曲,http://a21709.tv.netsite.cc/proxy/606632094/606632094.m3u8
-河南文物宝库,http://a21709.tv.netsite.cc/proxy/908742171/908742171.m3u8
-快乐购,http://a21709.tv.netsite.cc/proxy/970312636/970312636.m3u8
-湖南经视,http://a21709.tv.netsite.cc/proxy/1075467511/1075467511.m3u8
-湖南娱乐,http://a21709.tv.netsite.cc/proxy/884645401/884645401.m3u8
-湖南都市,http://a21709.tv.netsite.cc/proxy/1116439121/1116439121.m3u8
-电视剧,http://a21709.tv.netsite.cc/proxy/649200103/649200103.m3u8
-金鹰纪实,http://a21709.tv.netsite.cc/proxy/46690299/46690299.m3u8
-湖南爱晚,http://a21709.tv.netsite.cc/proxy/1916495164/1916495164.m3u8
-金鹰卡通,http://a21709.tv.netsite.cc/proxy/1947104640/1947104640.m3u8
-国际,http://a21709.tv.netsite.cc/proxy/1627651873/1627651873.m3u8
-茶,http://a21709.tv.netsite.cc/proxy/1322311734/1322311734.m3u8
-快乐垂钓,http://a21709.tv.netsite.cc/proxy/316113716/316113716.m3u8
-先锋乒羽,http://a21709.tv.netsite.cc/proxy/1789306185/1789306185.m3u8
-长沙新闻综合,http://a21709.tv.netsite.cc/proxy/1524274658/1524274658.m3u8
-长沙政法,http://a21709.tv.netsite.cc/proxy/298063278/298063278.m3u8
-长沙女性,http://a21709.tv.netsite.cc/proxy/1812024686/1812024686.m3u8
-常德新闻综合,http://a21709.tv.netsite.cc/proxy/1299968106/1299968106.m3u8
-无锡新闻综合,http://a21709.tv.netsite.cc/proxy/1808503557/1808503557.m3u8
-无锡都市资讯,http://a21709.tv.netsite.cc/proxy/1260824748/1260824748.m3u8
-无锡娱乐,http://a21709.tv.netsite.cc/proxy/461270403/461270403.m3u8
-无锡经济,http://a21709.tv.netsite.cc/proxy/326472624/326472624.m3u8
-无锡生活,http://a21709.tv.netsite.cc/proxy/995802232/995802232.m3u8
-常州新闻综合,http://a21709.tv.netsite.cc/proxy/1762429386/1762429386.m3u8
-常州生活,http://a21709.tv.netsite.cc/proxy/692207623/692207623.m3u8
-连云港新闻综合,http://a21709.tv.netsite.cc/proxy/1249456251/1249456251.m3u8
-连云港公共,http://a21709.tv.netsite.cc/proxy/1479045862/1479045862.m3u8
-沛县新闻综合,http://a21709.tv.netsite.cc/proxy/2058383266/2058383266.m3u8
-睢宁综合,http://a21709.tv.netsite.cc/proxy/791997735/791997735.m3u8
-睢宁三农,http://a21709.tv.netsite.cc/proxy/1048559039/1048559039.m3u8
-睢宁资讯,http://a21709.tv.netsite.cc/proxy/1315038794/1315038794.m3u8
-泗洪新闻综合,http://a21709.tv.netsite.cc/proxy/39753847/39753847.m3u8
-沭阳综合,http://a21709.tv.netsite.cc/proxy/1424907816/1424907816.m3u8
-泗阳综合,http://a21709.tv.netsite.cc/proxy/642523244/642523244.m3u8
-泗阳资讯,http://a21709.tv.netsite.cc/proxy/1545407523/1545407523.m3u8
-涟水电视台综合,http://a21709.tv.netsite.cc/proxy/1977735434/1977735434.m3u8
-高邮一套新闻综合,http://a21709.tv.netsite.cc/proxy/145384285/145384285.m3u8
-镇江新闻综合,http://a21709.tv.netsite.cc/proxy/1052067340/1052067340.m3u8
-镇江二套社会民生,http://a21709.tv.netsite.cc/proxy/1259661680/1259661680.m3u8
-四川观察,http://a21709.tv.netsite.cc/proxy/2061240764/2061240764.m3u8
-亚洲中文,http://a21709.tv.netsite.cc/proxy/847703940/847703940.m3u8
-大立电视,http://a21709.tv.netsite.cc/proxy/1485397580/1485397580.m3u8
 
 
 ◆◆◆　https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt
@@ -13309,7 +13166,6 @@ CCTV17,http://8.138.7.223/tv/dl/careryun.php?id=19
 水长城镜头二,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
 思念情歌《我是真的好爱你》《永远放你在心底》百听不厌,https://vd3.bdstatic.com/mda-ndea5au6knwizprv/1080p/cae_h264_delogo/1650064725615866173/mda-ndea5au6knwizprv.mp4
 思念情歌民谣《等你等了那么久》《想让雨滴问问你》,https://vd4.bdstatic.com/mda-nda3uu9cm73hfc9q/1080p/cae_h264_delogo/1649646197104551642/mda-nda3uu9cm73hfc9q.mp4
-松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8?zzhed;http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8zzhed
 泰山大观峰,https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
 泰山十八盘,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
 泰山十八盘,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
@@ -13331,7 +13187,6 @@ CCTV17,http://8.138.7.223/tv/dl/careryun.php?id=19
 雪乡大石碑,https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
 雪乡梦幻家园,https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
 黟县宏村南湖,https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
-余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 远眺玉龙雪山,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
 月老掉线,https://vd3.bdstatic.com/mda-nc348dse2t71m6az/1080p/cae_h264_delogo/1646365337334502921/mda-nc348dse2t71m6az.mp4
 月牙泉,https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
@@ -13368,7 +13223,6 @@ CHC影迷电影,http://fn.tmde.top:35455/mgtv/952383261.m3u8
 云南白沙远眺玉龙雪山,https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
 云南丽江印象实景,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
 云南丽江玉龙雪山草甸,https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 湖南张家界天门山西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
 北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 凤凰中文,http://8.138.7.223/tv/gdmzyd.php?id=4
@@ -16140,6 +15994,7 @@ CCTV17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 「内蒙古」乌兰察布经济生活,http://pluslive.wrbtv.cn/wrbtv1/sd/live.m3u8?zneimd
 「内蒙古」乌兰察布生活,http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8?zneimd
 「内蒙古」乌兰察布新闻综合,http://pluslive.wrbtv.cn/xwzh/sd/live.m3u8?zneimd
+「山东」菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
 「山东」菏泽新闻综合,http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8?shandd
 「山西」晋中新闻,http://jzlive.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8?zshanxd
 「山西」黎城综合,http://111.53.96.67:8081/live/1/index.m3u8?zshanxd
@@ -17122,6 +16977,7 @@ SiTV 乐游,http://goo.bkpcp.top/mg/ly
 塔顶上的猫,https://resource-cdn.tuxiaobei.com/video/45/30/4530e7cd62c98bef9ce8d3542e74e36a.mp4
 小龙人,https://resource-cdn.tuxiaobei.com/video/3e/17/3e179fc2e965bd5ce6cff9a311cf6f91.mp4
 南京十八,http://tvbox6.com/tv/migu.php?id=njsb
+句容新闻综合,http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8?zjiangsd
 句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8
 句容党建,http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?zjiangsd
 无锡移动,http://m.m3u8.wifiwx.com/live/wifiwx-494.m3u8
@@ -19345,6 +19201,7 @@ CETV4,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/22
 磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8?_upt=e05f429d1702757565
 东丰综合,http://stream5.jlntv.cn/df/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 双辽综合,http://stream5.jlntv.cn/sl/sd/live.m3u8?_upt=73404dd11699197122
+辉南新闻综合,http://stream5.jlntv.cn/hn/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 柳河综合,http://stream5.jlntv.cn/lh/sd/live.m3u8?_upt=db16d5e41702758050
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?_upt=eb80947d1699080781
 双辽综合,http://stream5.jlntv.cn/sl/sd/live.m3u8
@@ -19957,6 +19814,235 @@ CGTN记录,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225602/.m
 
 
 ◆◆◆　https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt
+暗夜孤院 Lilim 上映日期:2025-03-25(菲律宾),https://v14.yuglf.com/202507/20/hPdQzfV1WP22/video/2000k_1080/hls/index.m3u8
+凹凸双雄 Bad Boa's 上映日期:2025- 07-11(荷兰网络),https://v11.tlkqc.com/wjv11/202507/12/pShTDxx0d183/video/1000k_720/hls/index.m3u8
+黑金亡命徒 Golden 上映日期:2025- 07-11(中国台湾)/08-15(美国),https://v.lzcdn27.com/20250711/341_2cd310b6/index.m3u8
+致命逃亡 Deadly Escape 上映日期:2025- 07-10(美国),https://hn.bfvvs.com/play/9avNnXVa/index.m3u8
+砖墙谜攻 Brick 上映日期:2025- 07-10(德国网络),https://v.lzcdn27.com/20250710/249_02ce1260/index.m3u8
+尸杀泰拳 Ziam 上映日期:2025- 07-09(泰国网络),https://cdn.yzzy29-play.com/20250709/277_20f07591/index.m3u8
+鸟与蜜蜂 Pretty Thing 上映日期:2025- 07-04(美国),https://cdn.yzzy29-play.com/20250706/261_b1a59b31/index.m3u8
+蝴蝶屋 Pernikahan Arwah 上映日期:2025- 07-03(印度尼西亚),https://cdn.yzzy29-play.com/20250705/249_077e29b1/index.m3u8
+【抢先版】侏罗纪世界：重生 Jurassic World: Rebirth 上映日期:2025- 07-02(美国),https://p.b8bf.com/video/zhuluojishijiezhongsheng/TC/index.m3u8
+永生守卫2 The Old Guard 2 上映日期:2025- 07-02(美国网络),https://v.lzcdn25.com/20250703/2061_c2e19e3b/index.m3u8
+国家元首 Heads of State 上映日期:2025- 07-02(美国网络),https://v.lzcdn25.com/20250703/2059_8ce9e09d/index.m3u8
+亡灵 Undead 上映日期:2025- 06-28(印度),https://cdn.yzzy29-play.com/20250716/348_01386bd6/index.m3u8
+冰路营救2：复仇上映日期:2025- 06-27(美国),https://cdn.yzzy29-play.com/20250706/258_502e4a16/index.m3u8
+诡音 The Sound 上映日期:2025- 06-27(美国),https://p.b8bf.com/video/guiyin/HD/index.m3u8
+梅根2.0 M3GAN 2.0 上映日期:2025- 06-27(美国),https://cdn.yzzy29-play.com/20250715/340_40008b9a/index.m3u8
+脱离罪恶 Off the Grid 上映日期:2025- 06-27(美国),https://p.b8bf.com/video/tuolizuie/HD/index.m3u8
+黑宅故事 Tales from Black Manor 上映日期:2025- 06-23(网络),https://cdn.yzzy29-play.com/20250628/175_82161242/index.m3u8
+重装上阵3 Reloaded 3 上映日期:2025- 06-21(希腊),https://cdn.yzzy29-play.com/20250712/310_06eb61b8/2000k/hls/mixed.m3u8
+阿尔玛与狼 Alma and the Wolf 上映日期:2025- 06-20(美国),https://cdn.yzzy29-play.com/20250621/133_9fc3d715/index.m3u8
+自主公民 Sovereign 上映日期:2025- 06-20(美国),https://cdn.yzzy29-play.com/20250712/326_a666587a/index.m3u8
+【抢先版】惊变28年 28 Years Later 上映日期:2025- 06-18(中国台湾) / 06-20(美国),https://vv.jisuzyv.com/play/lejx9l5b/index.m3u8
+新·驯龙高手 How to Train Your Dragon 上映日期:2025- 06-13(美国/中国大陆),https://cdn.yzzy29-play.com/20250715/341_3dd48ab3/index.m3u8
+冥府使者 Psychopomp 上映日期:2025- 06-13(美国),https://cdn.yzzy29-play.com/20250711/296_d296c101/index.m3u8
+回声谷 Echo Valley 上映日期:2025- 06-13(美国网络),https://svipsvip.ffzy-online5.com/20250613/42184_2eb6c7a0/index.m3u8
+迪亚波罗的复仇 Diablo 上映日期:2025- 06-13(美国),https://cdn.yzzy29-play.com/20250615/64_ea5d2f1c/index.m3u8
+纳粹僵尸 Zombies Of The Third Reich 上映日期:2025- 06-10(英国),https://p.b8bf.com/video/nacuijiangshi/HD/index.m3u8
+救命稻草 Straw 上映日期:2025- 06-06(美国网络),https://svipsvip.ffzy-online5.com/20250606/41976_7bc994dd/index.m3u8
+救赎一击 K.O. 上映日期:2025- 06-06(法国网络),https://vip.ffzy-online3.com/20250606/37310_760c60c0/index.m3u8
+腓尼基计划 The Phoenician Scheme 上映日期:2025- /06-06(美国) / 05-18(戛纳国际电影节) / 05-30(美国点映),https://cdn.yzzy29-play.com/20250623/147_8d5e957f/index.m3u8
+镇上的新暴徒 Thug Life 上映日期:2025- 06-05(印度),https://cdn.yzzy29-play.com/20250705/253_c24cd76e/2000k/hls/mixed.m3u8
+疾速追杀外传：芭蕾杀姬 Ballerina 上映日期:2025- 06-04(澳大利亚),https://cdn.yzzy29-play.com/20250718/357_fb7b9ffa/index.m3u8
+理发师陶德：血宴共戮 Sweeney Todd: Slice & Dice 上映日期:2025- 06-02(英国),https://cdn.yzzy29-play.com/20250621/126_069059b7/index.m3u8
+超异能特攻 하이파이브 上映日期:2025- 05-30(韩国),https://cdn.yzzy29-play.com/20250718/358_aa942ab2/index.m3u8
+复活她 Bring Her Back 上映日期:2025- 05-29(中国台湾),https://cdn.yzzy29-play.com/20250702/216_45fbc6d3/index.m3u8
+葬送 The Surrender 上映日期:2025- 05-23(美国),https://yzzy21.playback-speed.com/20250525/43078_612dc838/2000k/hls/mixed.m3u8
+恐惧街：舞会王后 Fear Street: The Prom Queen 上映日期:2025- 05-23(美国网络),https://p.bvvvvvvv7f.com/video/kongjujiewuhuiwanghou/HD/index.m3u8
+龙卷风 Tornado 上映日期:2025-05-23(英国),https://cdn.yzzy29-play.com/20250703/240_335f5352/index.m3u8
+星际监狱 Ohryis Project 上映日期:2025- 05-23(美国),https://p.bvvvvvvv7f.com/video/xingjijianyu2025/HD/index.m3u8
+寻秘不老泉 Fountain of Youth 上映日期:2025- 05-23(美国网络),https://v.lzcdn25.com/20250524/621_314db22e/index.m3u8
+【抢先版】碟中谍8：最终清算 Mission: Impossible - The Final Reckoning 上映日期:2025- 05-22(中国香港),https://p.bvvvvvvv7f.com/video/diezhongdie8zuizhongqingsuan/TC/index.m3u8
+荒漠黎明 Desert Dawn 上映日期:2025- 05-16(美国),https://p.b8bf.com/video/huangmoliming/HD/index.m3u8
+超乎常人 A Breed Apart 上映日期:2025- 05-16(美国),https://p.bvvvvvvv7f.com/video/chaohuchangren2025/HD/index.m3u8
+生死有命 Narivetta 上映日期:2025- 05-16(印度),https://cdn.yzzy29-play.com/20250718/371_41f1f191/index.m3u8
+坚守阵地 Stand Your Ground 上映日期:2025- 05-09(美国),https://cdn.yzzy29-play.com/20250611/34_e369853d/2000k/hls/mixed.m3u8
+绝对自治权 Absolute Dominion 上映日期:2025- 05-09(美国),https://cdn.yzzy29-play.com/20250618/102_ec895663/index.m3u8
+急弯 Sharp Corner 上映日期:2025- 05-09(西班牙) / 2024-09-07(多伦多电影节),https://svipsvip.ffzy-online5.com/20250513/41233_44ddf432/index.m3u8
+罪证子弹3 Balle perdue 3 上映日期:2025- 05-07(法国网络),https://p.bvvvvvvv7f.com/video/zuizhengzidan3/HD/index.m3u8
+MMA警察 MMA Cop 上映日期:2025- 05-06(美国),https://vip.ffzy-video.com/20250612/20188_6145e68b/index.m3u8
+战地之声 Words of War 上映日期:2025- 05-02(美国),https://cdn.yzzy29-play.com/20250615/73_d2ddea18/index.m3u8
+罗萨里奥 Rosario 上映日期:2025- 05-02(美国),https://p.bvvvvvvv7f.com/video/luosaliao/HD/index.m3u8
+幽冥部队 Shadow Force 上映日期:2025- 05-01(希腊) / 05-09(美国),https://vip.ffzy-online3.com/20250601/37149_635d6ac5/index.m3u8
+未列入名册 V spiskakh ne znachilsya 上映日期:2025- 05-01(俄罗斯),https://vip.ffzy-video.com/20250707/21740_92595519/index.m3u8
+谋杀干预组3 HIT: The 3rd Case 上映日期:2025- 05-01(爱尔兰),https://p.bvvvvvvv7f.com/video/moushaganyuzu3/HD/index.m3u8
+冲浪惊魂 The Surfer 上映日期:2025- 05-02(美国)/2024-05-17(戛纳电影节),https://p.b8bf.com/video/buqingzilai2025/HD/index.m3u8
+白雪公主之死2025(美国动作片),https://cdn.yzzy29-play.com/20250716/343_3ad7c2eb/index.m3u8
+深海恐惧 Fear Below 上映日期:2025- 05-02(美国) / 07-02(澳大利亚),https://cdn.yzzy29-play.com/20250610/15_9bf31c7f/2000k/hls/mixed.m3u8
+袭击2 Raid 2 上映日期:2025- 05-01(印度),https://cdn.yzzy29-play.com/20250628/177_96da2f59/index.m3u8
+誓约归隐 Retro 上映日期:2025- 05-01(印度),https://yzzy21.playback-speed.com/20250601/43138_3a00f5cd/index.m3u8
+雷霆特攻队* Thunderbolts* 上映日期:2025- 04-30(中国大陆),https://cdn.yzzy29-play.com/20250701/205_eae27d77/2000k/hls/mixed.m3u8
+神圣之夜：恶魔猎人 거룩한 밤: 데몬 헌터스 上映日期:2025- 04-30(韩国),https://p.bvvvvvvv7f.com/video/shenshengzhiyeemolieren/%E4%B8%AD%E5%AD%97/index.m3u8
+域外营救 Exterritorial 上映日期:2025- 04-30(德国网络),https://vip.ffzy-video.com/20250430/17187_b5eded27/index.m3u8
+最后的小屋 The Last Cabin 上映日期:2025- 04-29(美国),https://cdn.yzzy29-play.com/20250618/110_5f93f983/index.m3u8
+死亡信息 Project MKHEXE 上映日期:2025- 04-28(美国),https://svip.high21-playback.com/20250518/43013_791b8be7/2000k/hls/mixed.m3u8
+直到黎明 Until Dawn 上映日期:2025- 04-25(美国),https://p.bvvvvvvv7f.com/video/zhidaoliming/HD/index.m3u8
+会计刺客2 The Accountant 2 上映日期:2025- 04-25(美国),https://p.b8bf.com/video/huijicike2/HD/index.m3u8
+守望相助 Neighborhood Watch 上映日期:2025- 04-25(美国),https://svip.high21-playback.com/20250427/42716_eae5f132/2000k/hls/mixed.m3u8
+毒劫 Havoc 上映日期:2025- 04-25(美国网络),https://v9.tlkqc.com/wjv9/202504/25/J6SEFbrp9t81/video/1000k_720/hls/index.m3u8
+蓝色恶魔 Blue Devils 上映日期:2025- 04-24(美国网络),https://p.bvvvvvvv7f.com/video/lanmo/HD/index.m3u8
+千万别眨眼 Never Blink 上映日期:2025- 04-23(美国（网络）),https://cdn.yzzy29-play.com/20250621/140_1385974e/index.m3u8
+新干线惊爆倒数 新干线大爆破 上映日期:2025- 04-23(日本网络),https://vip.ffzy-video.com/20250423/16706_0b1a888b/index.m3u8
+i人质危机 iHostage 上映日期:2025- 04-18(荷兰),https://svipsvip.ffzy-online5.com/20250418/40399_9971bf40/index.m3u8
+阿炯：维贾扬蒂之子 Arjun S/O Vyjayanthi 上映日期:2025- 04-18(印度/美国),https://p.bvvvvvvv7f.com/video/ajiongweijiayangdizhizi/HD/index.m3u8
+仪式 The Ritual 上映日期:2025- 04-18(土耳其) / 06-06(美国),https://vip1.lz-cdn7.com/20221225/12869_a48f2323/2000k/hls/mixed.m3u8
+机械杀娃 ROB1N 上映日期:2025- 04-18(英国),https://svip.high21-playback.com/20250507/42877_dcae1274/index.m3u8
+极寒潜袭 Кракен 上映日期:2025- 04-17(俄罗斯),https://cdn.yzzy29-play.com/20250618/96_26657d5f/index.m3u8
+连环兔子杀手2 Serial Rabbit One 上映日期:2025- 04-17(美国),https://svip.high21-playback.com/20250509/42905_8a911571/index.m3u8
+心魔 It Feeds 上映日期:2025- 04-16(加拿大) / 04-18(美国),https://svip.high21-playback.com/20250421/42643_a6bf24ce/2000k/hls/mixed.m3u8
+隔空投送 Drop 上映日期:2025-  04-11(美国),https://svipsvip.ffzy-online5.com/20250429/40738_8de76941/index.m3u8
+棉花软糖 Marshmallow 上映日期:2025- 04-11(美国),https://cdn.yzzy29-play.com/20250618/105_65b9eea6/index.m3u8
+战·争 Warfare 上映日期:2025- 04-11(美国),https://vip.ffzy-play10.com/20250507/40884_8727f126/index.m3u8
+枪手 The Gunslingers 上映日期:2025- 04-11(美国),https://vip.ffzy-video.com/20250416/16123_45b0095c/index.m3u8
+女孩2 Chhorii 2 上映日期:2025- 04-11(印度),https://vip.ffzy-play6.com/20250414/35143_1ec81753/index.m3u8
+G20峰会 G20 上映日期:2025- 04-10(美国),https://svipsvip.ffzy-online5.com/20250410/40098_e9c46fbd/index.m3u8
+正义过客 Jaat 上映日期:2025- 04-10(印度),https://cdn.yzzy29-play.com/20250701/211_eb163727/index.m3u8
+善恶边缘：暗黑交锋 Good Bad Ugly 上映日期:2025- 04-10(印度),https://vip.ffzy-video.com/20250510/17842_38350940/index.m3u8
+无敌贾特 Jaat 上映日期:2025- 04-10(印度) / 04-11(美国),https://p.b8bf.com/video/wudijiate/HD/index.m3u8
+最后冲刺 Emotion Is Dead 上映日期:2025- 04-08(英国),https://yzzy21.playback-speed.com/20250525/43072_e008edf1/2000k/hls/mixed.m3u8
+沙漠恶魔 Desert Fiends 上映日期:2025- 04-08(美国),https://v.gsuus.com/play/pen2njDe/index.m3u8
+报废 Emotion Is Dead 上映日期:2025- 04-08(英国),https://cdn.yzzy29-play.com/20250701/197_85d8ce59/2000k/hls/mixed.m3u8
+莫莉计划 The Mollie Project 上映日期:2025- 04-06(土耳其),https://p.bvvvvvvv7f.com/video/molijihua/HD/index.m3u8
+泣船威利 ScreamBoat 上映日期:2025- 04-04(美国),https://p.bvvvvvvv7f.com/video/qichuanweili/HD/index.m3u8
+我的世界大电影 A Minecraft Movie 上映日期:2025- 04-04(美国/中国大陆),https://p.bvvvvvvv7f.com/video/wodeshijiedadianying/HD/index.m3u8
+埃德蒙·肯珀 Ed Kemper 上映日期:2025- 04-04(美国),https://p.bvvvvvvv7f.com/video/aidemengkenpo/HD/index.m3u8
+战争迷雾 Fog of War 上映日期:2025- 04-04(美国),https://v4.daayee.com/yyv4/202504/05/gddTfk8HuA19/video/index.m3u8
+林荫路825号 825 Forest Road 上映日期:2025- 04-04(美国),https://vip.ffzy-video.com/20250408/15520_287abb19/index.m3u8
+恐怖特快 공포특급 上映日期:2025- 04-02(韩国),https://vip.ffzy-video.com/20250428/16954_d07a5a3f/index.m3u8
+独角兽之死 Death of a Unicorn 上映日期:2025- 03-28(美国),https://p.bvvvvvvv7f.com/video/dujiaoshouzhisi/HD/index.m3u8
+斗士 Sikandar 上映日期:2025- 03-28(印度),https://yzzy21.playback-speed.com/20250525/43076_4c01ca04/2000k/hls/mixed.m3u8
+清算日 Day of Reckoning 上映日期:2025- 03-28(美国),https://p.bvvvvvvv7f.com/video/qingsuanri2025/HD/index.m3u8
+制暴：无限杀机 A Working Man 上映日期:2025- 03-28(美国/中国大陆),https://vip.ffzy-video.com/20250407/15510_1471a8e0/index.m3u8
+院子里的女人 The Woman In The Yard 上映日期:2025- 03-28(美国),https://svip.high21-playback.com/20250416/42588_d5cb61ee/index.m3u8
+独角兽之死 Death of a Unicorn 上映日期:2025- 03-28(美国),https://svipsvip.ffzy-online5.com/20250429/40737_0849659c/index.m3u8
+路西法2 L2: Empuraan 上映日期:2025- 03-27(印度),https://v6.tlkqc.com/wjv6/202504/21/U5AMjharZW78/video/1000k_720/hls/index.m3u8
+荷兰镇 Holland 上映日期:2025- 03-27(美国网络),https://v.lzcdn25.com/20250328/206_a0413058/index.m3u8
+珠宝大盗：神偷出马 Jewel Thief - The Heist Begins 上映日期:2025- 03-27(印度网络),https://svipsvip.ffzy-online5.com/20250425/40616_4e707d76/index.m3u8
+劫车王 Carjackers 上映日期:2025- 03-27(法国),https://vip.ffzy-video.com/20250408/15518_271df686/index.m3u8
+上帝阴影下 Shadow Of God 上映日期:2025- 03-26(菲律宾),https://vip.ffzy-video.com/20250416/16126_e74b1035/index.m3u8
+森林小丑 The Forest Clown 上映日期:2025- 03-24(美国),https://play.xluuss.com/play/mbkYxxve/index.m3u8
+鬼屋直播 Livestream 上映日期:2025- 03-25(美国),https://vip.ffzy-video.com/20250414/16034_0064f599/index.m3u8
+白雪公主 Snow White 上映日期:2025- 03-21(美国/中国大陆),https://vip.ffzy-video.com/20250513/18082_ad5db592/index.m3u8
+流播 스트리밍 上映日期:2025- 03-21(韩国),https://hn.bfvvs.com/play/vbmKnXre/index.m3u8
+来自谁的启示 계시록 上映日期:2025- 03-21(韩国网络),https://vip.ffzy-video.com/20250321/14389_5dae854c/index.m3u8
+大力杀手波派 Popeye the Slayer Man 上映日期:2025- 03-21(美国),https://c1.7bbffvip.com/video/dalishashoubopai/HD/index.m3u8
+入侵2：逃亡 Invasive 2 Getaway 上映日期:2025- 03-21(美国),https://v.gsuus.com/play/DdwX7mMe/index.m3u8
+紧锁 Locked 上映日期:2025- 03-21(美国),https://vip.ffzy-video.com/20250422/16643_1ceb3ad8/index.m3u8
+甜蜜之家：重生 Home Sweet Home Rebirth 上映日期:2025- 03-20(俄罗斯),https://vip.ffzy-video.com/20250416/16127_2034597b/index.m3u8
+【抢先版】冥婚红包 ซองแดงแต่งผี 上映日期:2025- 03-20(泰国),https://play.xluuss.com/play/BeXgZDld/index.m3u8
+制高点 High Ground 上映日期:2025- 03-18(美国),https://v2.bxgbnet.com/yyv2/202503/23/X5N4xGnnUJ24/video/2000k_1080/hls/index.m3u8
+演员 The Actor 上映日期:2025- 03-14(美国),https://cdn7.ryplay7.com/20250423/13817_9e53bd5c/2000k/hls/index.m3u8
+万里归省 The Diplomat 上映日期:2025- 03-14(印度/美国),https://p.bvvvvvvv7f.com/video/wanliguisheng/HD/index.m3u8
+套现2：大赌客 Cash Out 2: High Rollers 上映日期:2025- 03-14(美国),https://c1.7bbffvip.com/video/taoxian2daduke/HD/index.m3u8
+电幻国度 The Electric State 上映日期:2025- 03-14(美国网络),https://vip.ffzy-video.com/20250314/13949_92703b40/index.m3u8
+我丈夫的情妇 My Husband's Mistress 上映日期:2025- 03-14(美国),https://p.bvvvvvvv7f.com/video/wozhangfudeqingfu/HD/index.m3u8
+临界点 Borderline 上映日期:2025- 03-14(美国),https://c1.7bbffvip.com/video/linjiedian/%E4%B8%AD%E5%AD%97/index.m3u8
+家教 The Parenting 上映日期:2025- 03-13(美国网络),https://svip.high21-playback.com/20250314/41968_3e2086d5/2000k/hls/mixed.m3u8
+森林传说 Legend of the Forest 上映日期:2025- 03-13(美国),https://cdn.yzzy29-play.com/20250615/70_7cbbc409/index.m3u8
+控制狂 Control Freak 上映日期:2025- 03-13(美国网络),https://c1.7bbffvip.com/video/kongzhikuang/HD/index.m3u8
+无痛凯恩 Novocaine 上映日期:2025- 03-13(中国香港) / 03-14(美国),https://svip.high21-playback.com/20250411/42509_83bf29a1/2000k/hls/mixed.m3u8
+通灵：一个新的开始 Ouija: A New Beginning 上映日期:2025- 03-12(英国),https://p.bvvvvvvv7f.com/video/tonglingyigexindekaishi/HD/index.m3u8
+侵犯 침범 上映日期:2025- 03-12(韩国),https://svip.high21-playback.com/20250504/42805_edb484b3/index.m3u8
+黑袋行动 Black Bag 上映日期:2025- 03-12(法国),https://v.lzcdn25.com/20250403/254_068512da/index.m3u8
+放飞 Uncontained 上映日期:2025- 03-11(美国),https://cdn.yzzy29-play.com/20250610/14_aab32389/2000k/hls/mixed.m3u8
+异星入侵：凤凰出山 Alien Invasion: Rise of the Phoenix 上映日期:2025- 03-11(美国),https://p.bvvvvvvv7f.com/video/yixingruqinfenghuangchushan/HD/index.m3u8
+黑煞女 พนอ 上映日期:2025- 03-07(中国台湾),https://yzzy21.playback-speed.com/20250527/43094_2580aff5/2000k/hls/mixed.m3u8
+在失落之地 In the Lost Lands 上映日期:2025- 03-07(美国),https://v.lzcdn25.com/20250408/290_6bd4116b/index.m3u8
+丑陋的继姐 Den stygge stesøsteren 上映日期:2025- 03-07(挪威),https://v.lzcdn25.com/20250510/522_1f7d1e9e/index.m3u8
+异界信号 Stutter 上映日期:2025- 03-07(网络),https://hn.bfvvs.com/play/7e5BNxBa/index.m3u8
+Suky 上映日期:2025- 03-07(尼日利亚),https://vip.ffzy-video.com/20250605/19804_92e0c17c/index.m3u8
+河童之子 Bloat 上映日期:2025- 03-07(美国),https://svip.high21-playback.com/20250309/41890_aa85b86e/index.m3u8
+静默地带 Silent Zone 上映日期:2025- 03-07(美国),https://hn.bfvvs.com/play/NbWxoKJd/index.m3u8
+孕育时代 Die gestohlene Zeit 上映日期:2025- 03-06(奥地利),https://p.bvvvvvvv7f.com/video/yunyushidai/HD/index.m3u8
+烛影危林 Candlewood 上映日期:2025- 03-06(美国),https://hn.bfvvs.com/play/QbYzo5Ad/index.m3u8
+终极武装 Armed 上映日期:2025- 03-04(美国),https://vip.ffzy-video.com/20250503/17417_7bcab494/index.m3u8
+公平之雨 Fair Rain 上映日期:2025- 03-03(美国),https://p.b8bf.com/video/gongpingzhiyu/%E9%AB%98%E6%B8%85/index.m3u8
+构筑 The Buildout 上映日期:2025- 03-02(美国),https://v11.tlkqc.com/wjv11/202503/07/mLXHHDQ6YC83/video/1000k_720/hls/index.m3u8
+扭曲的虔诚 Twisted Devotion 上映日期:2025- 03-01(美国),https://hn.bfvvs.com/play/wdLQJwpe/index.m3u8
+尸魔敲门 Revenge Of The Boogeyman 上映日期:2025- 03-01(美国),https://p.bvvvvvvv7f.com/video/shimoqiaomen/HD/index.m3u8
+死亡徒步 The Ruck March 上映日期:2025- 03-01(美国),https://svip.high21-playback.com/20250324/42180_0d47a566/2000k/hls/mixed.m3u8
+罪魁祸首 Culprit 上映日期:2025- 02-28(美国),https://play.xluuss.com/play/6dBD6m2a/index.m3u8
+恐怖猴玩偶 The Jolly Monkey 上映日期:2025- 02-28(美国),https://svip.high21-playback.com/20250519/43019_26e87ce3/index.m3u8
+疯狂一天 Crazxy 上映日期:2025- 02-28(印度),https://p.bvvvvvvv7f.com/video/fengkuangyitian/HD/index.m3u8
+36总局：势不两立 Bastion 36 上映日期:2025- 02-28(法国网络),https://v.lzcdn25.com/20250301/31_90e2ce85/index.m3u8
+飞速追杀 Fight or Flight 上映日期:2025- 02-28(英国),https://v.lzcdn25.com/20250328/201_1b55bf5d/index.m3u8
+一息尚存 Last Breath 上映日期:2025- 02-28(美国),https://vip.ffzy-play10.com/20250405/40131_b9dcc879/index.m3u8
+边境奇袭 Contraataque 上映日期:2025- 02-28(美国),https://v.lzcdn25.com/20250305/46_f4053b69/index.m3u8
+鬼城杀 Demon City 鬼ゴロシ 上映日期:2025- 02-27(日本网络),https://v.lzcdn25.com/20250228/21_412ded54/index.m3u8
+娜迦：永恒的羁绊 นาคบรรพ์ 上映日期:2025- 02-27(泰国),https://p.b8bf.com/video/najiayonghengdejiban/HD/index.m3u8
+灯塔谋杀案 Murder at the Lighthouse 上映日期:2025- 02-23(美国),https://svip.high21-playback.com/20250430/42754_384008da/index.m3u8
+我的阿米什人双重生活 My Amish Double Life 上映日期:2025- 02-22(美国),https://p.b8bf.com/video/wodeamishirenshuangzhongshenghuo/HD/index.m3u8
+怪猴 The Monkey 上映日期:2025- 02-21(美国),https://v.lzcdn25.com/20250328/202_f98d43a6/index.m3u8
+生命热线 Lifeline 上映日期:2025- 02-21(美国),https://p.bvvvvvvv7f.com/video/shengmingrexian/HD/index.m3u8
+罪恶清除工 Cleaner 上映日期:2025- 02-21(英国),https://svip.high21-playback.com/20250322/42161_1209baf9/index.m3u8
+歹徒们 Patsers 上映日期:2025- 02-19(比利时),https://v1.tlkqc.com/wjv1/202505/31/jdpmmwcrAt85/video/1000k_720/hls/index.m3u8
+魅味 Delicious 上映日期:2025- 02-18(柏林电影节) / 03-07(德国),https://v.lzcdn25.com/20250308/71_f847c188/index.m3u8
+编号17 Mickey 17 上映日期:2025- 02-15(柏林国际电影节)/03-07(美国/中国大陆),https://v.lzcdn25.com/20250406/276_21d362fe/index.m3u8
+孕期惊魂 Womb 上映日期:2025- 02-14(美国),https://p.bvvvvvvv7f.com/video/yunqijinghun/HD/index.m3u8
+峡谷 The Gorge 上映日期:2025- 02-14(美国网络),https://v.cdnlz3.com/20250214/33672_208a1193/index.m3u8
+拳途救赎 Daveed 上映日期:2025- 02-14(印度),https://p.b8bf.com/video/quantujiushu/HD/index.m3u8
+灵村 Kampung Keramat 上映日期:2025- 02-13(印度尼西亚),https://m3u.nikanba.live/share/31c7b4189fc7d79ee75474a5a6366f73.m3u8
+钢锯恶魔 The Devil's Hacksaw 上映日期:2025- 02-12(美国),https://svip.high21-playback.com/20250509/42903_199f31fd/index.m3u8
+美国队长4 Captain America: Brave New World 上映日期:2025- 02-12(法国),https://v.lzcdn24.com/20250311/23009_f82b3dd3/index.m3u8
+催化剂 Catalyst 上映日期:2025- 02-11(美国),https://svip.high21-playback.com/20250516/42979_17e908cb/2000k/hls/index_5b9c71f88914647c7610.m3u8
+改日再战 Fight Another Day 上映日期:2025- 02-09(美国),https://svip.high21-playback.com/20250209/41495_95e51df0/index.m3u8
+腥心眼 Heart Eyes 上映日期:2025- 02-07(美国),https://v.lzcdn25.com/20250305/55_975435e0/index.m3u8
+前任杀神 Love Hurts 上映日期:2025- 02-07(美国),https://v.lzcdn25.com/20250226/6_2966ddd8/index.m3u8
+铁驭神兵 Tin Soldier 上映日期:2025- 02-06(俄罗斯),https://p.bvvvvvvv7f.com/video/tieyushenbing/HD/index.m3u8
+上映日期:2025- 02-06(印度尼西亚),https://p.b8bf.com/video/ezhouling/HD/index.m3u8
+咒书远古魔 Dajal: Satu Malam Di Pedajal 上映日期:2025- 02-06(马来西亚),https://vip.ffzy-video.com/20250510/17843_c9cf4399/index.m3u8
+沼泽之地 The Bayou 上映日期:2025- 02-06(埃及),https://play.xluuss.com/play/6dBw39We/index.m3u8
+坚毅奇兵 Vidaamuyarchi 上映日期:2025- 02-06(印度/美国),https://c1.7bbffvip.com/video/jianyiqibing/HD/index.m3u8
+破碎 브로큰 上映日期:2025- 02-05(韩国),https://v.lzcdn25.com/20250313/102_2a0c9760/index.m3u8
+六天 Six Jours 上映日期:2025- 02-01(鹿特丹电影节),https://cdn.yzzy29-play.com/20250616/89_7647966b/2000k/hls/mixed.m3u8
+篮中弃婴 The Baby in the Basket 上映日期:2025- 02-05(菲律宾) / 02-17(英国),https://svip.high21-playback.com/20250427/42714_938f7afc/2000k/hls/mixed.m3u8
+上映日期:2025- 02-01(鹿特丹电影节),https://cdn.yzzy29-play.com/20250616/89_7647966b/index.m3u8
+灰烬森林 Woods of Ash 上映日期:2025- 02-01(网络),https://svip.high21-playback.com/20250309/41891_21fe67f7/2000k/hls/mixed.m3u8
+勇敢之人 Valiant One 上映日期:2025- 01-31(美国),https://c1.7bbffvip.com/video/yongganzhiren2025/HD/index.m3u8
+德瓦 Deva 上映日期:2025- 01-31(印度),https://v.lzcdn25.com/20250330/220_32704fdf/index.m3u8
+完美伴侣 Companion 上映日期:2025- 01-28(中国香港) / 01-31(美国),https://v.cdnlz12.com/20250219/18237_1f952107/index.m3u8
+致命著作 Opus 上映日期:2025- 01-27(圣丹斯电影节) / 03-14(美国),https://v.lzcdn25.com/20250408/282_1849c208/index.m3u8
+便衣警察 Plainclothes 上映日期:2025- 01-26(美国),https://c1.7bbffvip.com/video/bianyijingcha2025/HD/index.m3u8
+杀人鼠实验 Mouse of Horrors 上映日期:2025- 01-25(美国),https://c1.7bbffvip.com/video/sharenshushiyan/HD/index.m3u8
+猪皮脸 Piglet's Return 上映日期:2025- 01-25(美国),https://c1.7bbffvip.com/video/zhurenguilai/HD/index.m3u8
+荒诞神话 Myth of Man 上映日期:2025- 01-24(美国),https://svip.high21-playback.com/20250326/42247_d2cc0972/2000k/hls/mixed.m3u8
+天空部队 Sky Force 上映日期:2025- 01-24(印度),https://vip.ffzy-video.com/20250329/14937_129d98d6/index.m3u8
+财富流感 Rich Flu 上映日期:2025-  01-24(西班牙),https://v.lzcdn25.com/20250325/189_57368e1b/index.m3u8
+黑修女们 검은 수녀들 上映日期:2025- 01-24(韩国),https://v.lzcdn25.com/20250305/52_5c5821a1/index.m3u8
+堕入深渊 Into the Deep 上映日期:2025- 01-24(美国),https://svip.high21-playback.com/20250124/41210_e833a137/index.m3u8
+血继 Inheritance 上映日期:2025- 01-24(美国),https://vodcnd14.myqqdd.com/20250227/ey2vzBkg/4099kb/hls/index.m3u8
+地下忍者 アンダーニンジャ 上映日期:2025- 01-24(日本),https://v.lzcdn25.com/20250627/1785_98f4fede/index.m3u8
+星际迷航：31区 Star Trek: Section 31 上映日期:2025- 01-24(美国网络),https://v.cdnlz3.com/20250125/32841_739227b6/index.m3u8
+7天之前 Sebelum 7 Hari 上映日期:2025- 01-23(印度尼西亚),https://p.b8bf.com/video/7tianzhiqian/HD/index.m3u8
+邪恶之城 Zloy gorod 上映日期:2025- 01-23(俄罗斯),https://vip.ffzy-video.com/20250416/16130_02923027/index.m3u8
+插翅难飞 Flight Risk 上映日期:2025-  01-22(法国),https://v.cdnlz3.com/20250214/33700_9737db78/index.m3u8
+狙击精英: 背水一战 Sniper: The Last Stand 上映日期:2025- 01-21(美国),https://v.cdnlz3.com/20250121/32608_6618af6d/index.m3u8
+警报战 Alarum 上映日期:2025- 01-17(美国),https://svip.high21-playback.com/20250118/41123_5d20c790/2000k/hls/mixed.m3u8
+室町无赖 室町无頼 上映日期:2025- 01-17(日本),https://cdn.yzzy29-play.com/20250621/127_ec5decca/index.m3u8
+丧尸狂潮 Kutsal Damacana 5: Zombi 上映日期:2025- 01-17(土耳其),https://cdn.yzzy29-play.com/20250702/221_060ad924/index.m3u8
+我们将他们全部杀死 We Kill Them All 上映日期:2025- 01-17(美国),https://play.xluuss.com/play/vbmDA2Oa/index.m3u8
+重返行动 Back in Action 上映日期:2025- 01-17(美国网络),https://v.cdnlz3.com/20250117/32429_b46df79e/index.m3u8
+恶魔的新娘 Pengantin Setan 上映日期:2025- 01-16(印度尼西亚),https://yzzy21.playback-speed.com/20250527/43095_188ce673/2000k/hls/mixed.m3u8
+iPossessed 上映日期:2025- 01-15(美国),https://p.b8bf.com/video/iPossessed/HD/index.m3u8
+血偿 blood pay 上映日期:2025- 01-15(意大利),https://v13.xingchongwang.com/yyv13/202507/10/tSYCMsjnrQ19/video/2000k_1080/hls/index.m3u8
+狼人 Wolf Man 上映日期:2025- 01-15(法国) / 01-17(美国),https://v.cdnlz3.com/20250205/33144_17af99b6/index.m3u8
+解码危机 The Unlock 上映日期:2025- 01-14(德国),https://vv.jisuzyv.com/play/1aKgAOla/index.m3u8
+彼得·潘的梦幻岛噩梦 Peter Pan's Neverland Nightmare 上映日期:2025- 01-13(美国),https://vip.ffzy-video.com/20250328/14851_c334ba61/index.m3u8
+疑影夜袭 The Intruder 上映日期:2025- 01-11(美国),https://play.xluuss.com/play/7axRlZ9d/index.m3u8
+行规 Laws of Man 上映日期:2025- 01-10(美国),https://vip.ffzy-video.com/20250414/16035_d6368eb1/index.m3u8
+黑色钻石 Black Diamond 上映日期:2025- 01-10(美国),https://c1.7bbffvip.com/video/heisezuanshi2025/HD/index.m3u8
+救命行动 Ad Vitam 上映日期:2025- 01-10(美国网络),https://v.cdnlz3.com/20250111/32135_5268cb83/index.m3u8
+法特赫 Fateh 上映日期:2025- 01-10(印度),https://c1.7bbffvip.com/video/fatehe/HD/index.m3u8
+楚曼塔 Choo Mantar 上映日期:2025- 01-10(印度),https://v5.daayee.com/yyv5/202503/31/VQ0KSAPypy22/video/index.m3u8
+绝密战境 Den of Thieves 2 上映日期:2025- 01-10(美国),https://svipsvip.ffzyread1.com/20250206/35641_b3ba081e/index.m3u8
+逝者 Almarhum 上映日期:2025- 01-09(印度尼西亚),https://p.bvvvvvvv7f.com/video/shizhe2025/HD/index.m3u8
+草图 Rekhachithram 上映日期:2025- 01-09(印度),https://svip.high21-playback.com/20250505/42837_9d2a9457/index.m3u8
+大脚怪：血溅农场 Bigfoot: Blood on the Farm 上映日期:2025- 01-07(网络),https://p.b8bf.com/video/dajiaoguaixuejiannongchang/HD/index.m3u8
+糖果妈咪 Sugar Mama 上映日期:2025- 01-03(美国),https://svip.high21-playback.com/20250224/41720_b877ed4b/2000k/hls/mixed.m3u8
+身份 Identity 上映日期:2025- 01-02(印度),https://c1.7bbffvip.com/video/shenfen/HD/index.m3u8
+剪刀 Scissors 上映日期:2025- 01-01(美国),https://svip.high21-playback.com/20250505/42823_e09f5cc6/index.m3u8
+杰瑟普湖 Lake Jesup 上映日期:2025- 01-01(美国),https://v.lzcdn25.com/20250307/56_d48d6c8f/index.m3u8
 CGTN外语纪录,http://180.165.24.151:7777/mgtv/609006487.m3u8
 CGTN阿拉伯语,http://180.165.24.151:7777/mgtv/609154345.m3u8
 CGTN西班牙语,http://180.165.24.151:7777/mgtv/609006450.m3u8
@@ -20728,234 +20814,6 @@ CRI环球资讯广播(CRINewsRadio),https://sk.cri.cn/905.m3u8
 CRI世界华声(粤客闽潮方言广播海峡飞虹),https://sk.cri.cn/hxfh.m3u8
 CRIEZFM轻松调频,https://sk.cri.cn/915.m3u8
 HITFM劲曲调频,https://sk.cri.cn/887.m3u8
-凹凸双雄 Bad Boa's 上映日期: 07-11(荷兰网络),https://v11.tlkqc.com/wjv11/202507/12/pShTDxx0d183/video/1000k_720/hls/index.m3u8
-黑金亡命徒 Golden 上映日期: 07-11(中国台湾)/08-15(美国),https://v.lzcdn27.com/20250711/341_2cd310b6/index.m3u8
-致命逃亡 Deadly Escape 上映日期: 07-10(美国),https://hn.bfvvs.com/play/9avNnXVa/index.m3u8
-砖墙谜攻 Brick 上映日期: 07-10(德国网络),https://v.lzcdn27.com/20250710/249_02ce1260/index.m3u8
-尸杀泰拳 Ziam 上映日期: 07-09(泰国网络),https://cdn.yzzy29-play.com/20250709/277_20f07591/index.m3u8
-鸟与蜜蜂 Pretty Thing 上映日期: 07-04(美国),https://cdn.yzzy29-play.com/20250706/261_b1a59b31/index.m3u8
-蝴蝶屋 Pernikahan Arwah 上映日期: 07-03(印度尼西亚),https://cdn.yzzy29-play.com/20250705/249_077e29b1/index.m3u8
-【抢先版】侏罗纪世界：重生 Jurassic World: Rebirth 上映日期: 07-02(美国),https://p.b8bf.com/video/zhuluojishijiezhongsheng/TC/index.m3u8
-永生守卫2 The Old Guard 2 上映日期: 07-02(美国网络),https://v.lzcdn25.com/20250703/2061_c2e19e3b/index.m3u8
-国家元首 Heads of State 上映日期: 07-02(美国网络),https://v.lzcdn25.com/20250703/2059_8ce9e09d/index.m3u8
-亡灵 Undead 上映日期: 06-28(印度),https://cdn.yzzy29-play.com/20250716/348_01386bd6/index.m3u8
-冰路营救2：复仇上映日期: 06-27(美国),https://cdn.yzzy29-play.com/20250706/258_502e4a16/index.m3u8
-诡音 The Sound 上映日期: 06-27(美国),https://p.b8bf.com/video/guiyin/HD/index.m3u8
-梅根2.0 M3GAN 2.0 上映日期: 06-27(美国),https://cdn.yzzy29-play.com/20250715/340_40008b9a/index.m3u8
-脱离罪恶 Off the Grid 上映日期: 06-27(美国),https://p.b8bf.com/video/tuolizuie/HD/index.m3u8
-黑宅故事 Tales from Black Manor 上映日期: 06-23(网络),https://cdn.yzzy29-play.com/20250628/175_82161242/index.m3u8
-重装上阵3 Reloaded 3 上映日期: 06-21(希腊),https://cdn.yzzy29-play.com/20250712/310_06eb61b8/2000k/hls/mixed.m3u8
-阿尔玛与狼 Alma and the Wolf 上映日期: 06-20(美国),https://cdn.yzzy29-play.com/20250621/133_9fc3d715/index.m3u8
-自主公民 Sovereign 上映日期: 06-20(美国),https://cdn.yzzy29-play.com/20250712/326_a666587a/index.m3u8
-【抢先版】惊变28年 28 Years Later 上映日期: 06-18(中国台湾) / 06-20(美国),https://vv.jisuzyv.com/play/lejx9l5b/index.m3u8
-新·驯龙高手 How to Train Your Dragon 上映日期: 06-13(美国/中国大陆),https://cdn.yzzy29-play.com/20250715/341_3dd48ab3/index.m3u8
-冥府使者 Psychopomp 上映日期: 06-13(美国),https://cdn.yzzy29-play.com/20250711/296_d296c101/index.m3u8
-回声谷 Echo Valley 上映日期: 06-13(美国网络),https://svipsvip.ffzy-online5.com/20250613/42184_2eb6c7a0/index.m3u8
-迪亚波罗的复仇 Diablo 上映日期: 06-13(美国),https://cdn.yzzy29-play.com/20250615/64_ea5d2f1c/index.m3u8
-纳粹僵尸 Zombies Of The Third Reich 上映日期: 06-10(英国),https://p.b8bf.com/video/nacuijiangshi/HD/index.m3u8
-救命稻草 Straw 上映日期: 06-06(美国网络),https://svipsvip.ffzy-online5.com/20250606/41976_7bc994dd/index.m3u8
-救赎一击 K.O. 上映日期: 06-06(法国网络),https://vip.ffzy-online3.com/20250606/37310_760c60c0/index.m3u8
-腓尼基计划 The Phoenician Scheme 上映日期: /06-06(美国) / 05-18(戛纳国际电影节) / 05-30(美国点映),https://cdn.yzzy29-play.com/20250623/147_8d5e957f/index.m3u8
-镇上的新暴徒 Thug Life 上映日期: 06-05(印度),https://cdn.yzzy29-play.com/20250705/253_c24cd76e/2000k/hls/mixed.m3u8
-疾速追杀外传：芭蕾杀姬 Ballerina 上映日期: 06-04(澳大利亚),https://cdn.yzzy29-play.com/20250718/357_fb7b9ffa/index.m3u8
-理发师陶德：血宴共戮 Sweeney Todd: Slice & Dice 上映日期: 06-02(英国),https://cdn.yzzy29-play.com/20250621/126_069059b7/index.m3u8
-超异能特攻 하이파이브 上映日期: 05-30(韩国),https://cdn.yzzy29-play.com/20250718/358_aa942ab2/index.m3u8
-复活她 Bring Her Back 上映日期: 05-29(中国台湾),https://cdn.yzzy29-play.com/20250702/216_45fbc6d3/index.m3u8
-葬送 The Surrender 上映日期: 05-23(美国),https://yzzy21.playback-speed.com/20250525/43078_612dc838/2000k/hls/mixed.m3u8
-恐惧街：舞会王后 Fear Street: The Prom Queen 上映日期: 05-23(美国网络),https://p.bvvvvvvv7f.com/video/kongjujiewuhuiwanghou/HD/index.m3u8
-龙卷风 Tornado 上映日期:05-23(英国),https://cdn.yzzy29-play.com/20250703/240_335f5352/index.m3u8
-星际监狱 Ohryis Project 上映日期: 05-23(美国),https://p.bvvvvvvv7f.com/video/xingjijianyu2025/HD/index.m3u8
-寻秘不老泉 Fountain of Youth 上映日期: 05-23(美国网络),https://v.lzcdn25.com/20250524/621_314db22e/index.m3u8
-【抢先版】碟中谍8：最终清算 Mission: Impossible - The Final Reckoning 上映日期: 05-22(中国香港),https://p.bvvvvvvv7f.com/video/diezhongdie8zuizhongqingsuan/TC/index.m3u8
-荒漠黎明 Desert Dawn 上映日期: 05-16(美国),https://p.b8bf.com/video/huangmoliming/HD/index.m3u8
-超乎常人 A Breed Apart 上映日期: 05-16(美国),https://p.bvvvvvvv7f.com/video/chaohuchangren2025/HD/index.m3u8
-生死有命 Narivetta 上映日期: 05-16(印度),https://cdn.yzzy29-play.com/20250718/371_41f1f191/index.m3u8
-坚守阵地 Stand Your Ground 上映日期: 05-09(美国),https://cdn.yzzy29-play.com/20250611/34_e369853d/2000k/hls/mixed.m3u8
-绝对自治权 Absolute Dominion 上映日期: 05-09(美国),https://cdn.yzzy29-play.com/20250618/102_ec895663/index.m3u8
-急弯 Sharp Corner 上映日期: 05-09(西班牙) / 2024-09-07(多伦多电影节),https://svipsvip.ffzy-online5.com/20250513/41233_44ddf432/index.m3u8
-罪证子弹3 Balle perdue 3 上映日期: 05-07(法国网络),https://p.bvvvvvvv7f.com/video/zuizhengzidan3/HD/index.m3u8
-MMA警察 MMA Cop 上映日期: 05-06(美国),https://vip.ffzy-video.com/20250612/20188_6145e68b/index.m3u8
-战地之声 Words of War 上映日期: 05-02(美国),https://cdn.yzzy29-play.com/20250615/73_d2ddea18/index.m3u8
-罗萨里奥 Rosario 上映日期: 05-02(美国),https://p.bvvvvvvv7f.com/video/luosaliao/HD/index.m3u8
-幽冥部队 Shadow Force 上映日期: 05-01(希腊) / 05-09(美国),https://vip.ffzy-online3.com/20250601/37149_635d6ac5/index.m3u8
-未列入名册 V spiskakh ne znachilsya 上映日期: 05-01(俄罗斯),https://vip.ffzy-video.com/20250707/21740_92595519/index.m3u8
-谋杀干预组3 HIT: The 3rd Case 上映日期: 05-01(爱尔兰),https://p.bvvvvvvv7f.com/video/moushaganyuzu3/HD/index.m3u8
-冲浪惊魂 The Surfer 上映日期: 05-02(美国)/2024-05-17(戛纳电影节),https://p.b8bf.com/video/buqingzilai2025/HD/index.m3u8
-白雪公主之死2025(美国动作片),https://cdn.yzzy29-play.com/20250716/343_3ad7c2eb/index.m3u8
-深海恐惧 Fear Below 上映日期: 05-02(美国) / 07-02(澳大利亚),https://cdn.yzzy29-play.com/20250610/15_9bf31c7f/2000k/hls/mixed.m3u8
-袭击2 Raid 2 上映日期: 05-01(印度),https://cdn.yzzy29-play.com/20250628/177_96da2f59/index.m3u8
-誓约归隐 Retro 上映日期: 05-01(印度),https://yzzy21.playback-speed.com/20250601/43138_3a00f5cd/index.m3u8
-雷霆特攻队* Thunderbolts* 上映日期: 04-30(中国大陆),https://cdn.yzzy29-play.com/20250701/205_eae27d77/2000k/hls/mixed.m3u8
-神圣之夜：恶魔猎人 거룩한 밤: 데몬 헌터스 上映日期: 04-30(韩国),https://p.bvvvvvvv7f.com/video/shenshengzhiyeemolieren/%E4%B8%AD%E5%AD%97/index.m3u8
-域外营救 Exterritorial 上映日期: 04-30(德国网络),https://vip.ffzy-video.com/20250430/17187_b5eded27/index.m3u8
-最后的小屋 The Last Cabin 上映日期: 04-29(美国),https://cdn.yzzy29-play.com/20250618/110_5f93f983/index.m3u8
-死亡信息 Project MKHEXE 上映日期: 04-28(美国),https://svip.high21-playback.com/20250518/43013_791b8be7/2000k/hls/mixed.m3u8
-直到黎明 Until Dawn 上映日期: 04-25(美国),https://p.bvvvvvvv7f.com/video/zhidaoliming/HD/index.m3u8
-会计刺客2 The Accountant 2 上映日期: 04-25(美国),https://p.b8bf.com/video/huijicike2/HD/index.m3u8
-守望相助 Neighborhood Watch 上映日期: 04-25(美国),https://svip.high21-playback.com/20250427/42716_eae5f132/2000k/hls/mixed.m3u8
-毒劫 Havoc 上映日期: 04-25(美国网络),https://v9.tlkqc.com/wjv9/202504/25/J6SEFbrp9t81/video/1000k_720/hls/index.m3u8
-蓝色恶魔 Blue Devils 上映日期: 04-24(美国网络),https://p.bvvvvvvv7f.com/video/lanmo/HD/index.m3u8
-千万别眨眼 Never Blink 上映日期: 04-23(美国（网络）),https://cdn.yzzy29-play.com/20250621/140_1385974e/index.m3u8
-新干线惊爆倒数 新干线大爆破 上映日期: 04-23(日本网络),https://vip.ffzy-video.com/20250423/16706_0b1a888b/index.m3u8
-i人质危机 iHostage 上映日期: 04-18(荷兰),https://svipsvip.ffzy-online5.com/20250418/40399_9971bf40/index.m3u8
-阿炯：维贾扬蒂之子 Arjun S/O Vyjayanthi 上映日期: 04-18(印度/美国),https://p.bvvvvvvv7f.com/video/ajiongweijiayangdizhizi/HD/index.m3u8
-仪式 The Ritual 上映日期: 04-18(土耳其) / 06-06(美国),https://vip1.lz-cdn7.com/20221225/12869_a48f2323/2000k/hls/mixed.m3u8
-机械杀娃 ROB1N 上映日期: 04-18(英国),https://svip.high21-playback.com/20250507/42877_dcae1274/index.m3u8
-极寒潜袭 Кракен 上映日期: 04-17(俄罗斯),https://cdn.yzzy29-play.com/20250618/96_26657d5f/index.m3u8
-连环兔子杀手2 Serial Rabbit One 上映日期: 04-17(美国),https://svip.high21-playback.com/20250509/42905_8a911571/index.m3u8
-心魔 It Feeds 上映日期: 04-16(加拿大) / 04-18(美国),https://svip.high21-playback.com/20250421/42643_a6bf24ce/2000k/hls/mixed.m3u8
-隔空投送 Drop 上映日期:  04-11(美国),https://svipsvip.ffzy-online5.com/20250429/40738_8de76941/index.m3u8
-棉花软糖 Marshmallow 上映日期: 04-11(美国),https://cdn.yzzy29-play.com/20250618/105_65b9eea6/index.m3u8
-战·争 Warfare 上映日期: 04-11(美国),https://vip.ffzy-play10.com/20250507/40884_8727f126/index.m3u8
-枪手 The Gunslingers 上映日期: 04-11(美国),https://vip.ffzy-video.com/20250416/16123_45b0095c/index.m3u8
-女孩2 Chhorii 2 上映日期: 04-11(印度),https://vip.ffzy-play6.com/20250414/35143_1ec81753/index.m3u8
-G20峰会 G20 上映日期: 04-10(美国),https://svipsvip.ffzy-online5.com/20250410/40098_e9c46fbd/index.m3u8
-正义过客 Jaat 上映日期: 04-10(印度),https://cdn.yzzy29-play.com/20250701/211_eb163727/index.m3u8
-善恶边缘：暗黑交锋 Good Bad Ugly 上映日期: 04-10(印度),https://vip.ffzy-video.com/20250510/17842_38350940/index.m3u8
-无敌贾特 Jaat 上映日期: 04-10(印度) / 04-11(美国),https://p.b8bf.com/video/wudijiate/HD/index.m3u8
-最后冲刺 Emotion Is Dead 上映日期: 04-08(英国),https://yzzy21.playback-speed.com/20250525/43072_e008edf1/2000k/hls/mixed.m3u8
-沙漠恶魔 Desert Fiends 上映日期: 04-08(美国),https://v.gsuus.com/play/pen2njDe/index.m3u8
-报废 Emotion Is Dead 上映日期: 04-08(英国),https://cdn.yzzy29-play.com/20250701/197_85d8ce59/2000k/hls/mixed.m3u8
-莫莉计划 The Mollie Project 上映日期: 04-06(土耳其),https://p.bvvvvvvv7f.com/video/molijihua/HD/index.m3u8
-泣船威利 ScreamBoat 上映日期: 04-04(美国),https://p.bvvvvvvv7f.com/video/qichuanweili/HD/index.m3u8
-我的世界大电影 A Minecraft Movie 上映日期: 04-04(美国/中国大陆),https://p.bvvvvvvv7f.com/video/wodeshijiedadianying/HD/index.m3u8
-埃德蒙·肯珀 Ed Kemper 上映日期: 04-04(美国),https://p.bvvvvvvv7f.com/video/aidemengkenpo/HD/index.m3u8
-战争迷雾 Fog of War 上映日期: 04-04(美国),https://v4.daayee.com/yyv4/202504/05/gddTfk8HuA19/video/index.m3u8
-林荫路825号 825 Forest Road 上映日期: 04-04(美国),https://vip.ffzy-video.com/20250408/15520_287abb19/index.m3u8
-恐怖特快 공포특급 上映日期: 04-02(韩国),https://vip.ffzy-video.com/20250428/16954_d07a5a3f/index.m3u8
-独角兽之死 Death of a Unicorn 上映日期: 03-28(美国),https://p.bvvvvvvv7f.com/video/dujiaoshouzhisi/HD/index.m3u8
-斗士 Sikandar 上映日期: 03-28(印度),https://yzzy21.playback-speed.com/20250525/43076_4c01ca04/2000k/hls/mixed.m3u8
-清算日 Day of Reckoning 上映日期: 03-28(美国),https://p.bvvvvvvv7f.com/video/qingsuanri2025/HD/index.m3u8
-制暴：无限杀机 A Working Man 上映日期: 03-28(美国/中国大陆),https://vip.ffzy-video.com/20250407/15510_1471a8e0/index.m3u8
-院子里的女人 The Woman In The Yard 上映日期: 03-28(美国),https://svip.high21-playback.com/20250416/42588_d5cb61ee/index.m3u8
-独角兽之死 Death of a Unicorn 上映日期: 03-28(美国),https://svipsvip.ffzy-online5.com/20250429/40737_0849659c/index.m3u8
-路西法2 L2: Empuraan 上映日期: 03-27(印度),https://v6.tlkqc.com/wjv6/202504/21/U5AMjharZW78/video/1000k_720/hls/index.m3u8
-荷兰镇 Holland 上映日期: 03-27(美国网络),https://v.lzcdn25.com/20250328/206_a0413058/index.m3u8
-珠宝大盗：神偷出马 Jewel Thief - The Heist Begins 上映日期: 03-27(印度网络),https://svipsvip.ffzy-online5.com/20250425/40616_4e707d76/index.m3u8
-劫车王 Carjackers 上映日期: 03-27(法国),https://vip.ffzy-video.com/20250408/15518_271df686/index.m3u8
-上帝阴影下 Shadow Of God 上映日期: 03-26(菲律宾),https://vip.ffzy-video.com/20250416/16126_e74b1035/index.m3u8
-森林小丑 The Forest Clown 上映日期: 03-24(美国),https://play.xluuss.com/play/mbkYxxve/index.m3u8
-鬼屋直播 Livestream 上映日期: 03-25(美国),https://vip.ffzy-video.com/20250414/16034_0064f599/index.m3u8
-白雪公主 Snow White 上映日期: 03-21(美国/中国大陆),https://vip.ffzy-video.com/20250513/18082_ad5db592/index.m3u8
-流播 스트리밍 上映日期: 03-21(韩国),https://hn.bfvvs.com/play/vbmKnXre/index.m3u8
-来自谁的启示 계시록 上映日期: 03-21(韩国网络),https://vip.ffzy-video.com/20250321/14389_5dae854c/index.m3u8
-大力杀手波派 Popeye the Slayer Man 上映日期: 03-21(美国),https://c1.7bbffvip.com/video/dalishashoubopai/HD/index.m3u8
-入侵2：逃亡 Invasive 2 Getaway 上映日期: 03-21(美国),https://v.gsuus.com/play/DdwX7mMe/index.m3u8
-紧锁 Locked 上映日期: 03-21(美国),https://vip.ffzy-video.com/20250422/16643_1ceb3ad8/index.m3u8
-甜蜜之家：重生 Home Sweet Home Rebirth 上映日期: 03-20(俄罗斯),https://vip.ffzy-video.com/20250416/16127_2034597b/index.m3u8
-【抢先版】冥婚红包 ซองแดงแต่งผี 上映日期: 03-20(泰国),https://play.xluuss.com/play/BeXgZDld/index.m3u8
-制高点 High Ground 上映日期: 03-18(美国),https://v2.bxgbnet.com/yyv2/202503/23/X5N4xGnnUJ24/video/2000k_1080/hls/index.m3u8
-演员 The Actor 上映日期: 03-14(美国),https://cdn7.ryplay7.com/20250423/13817_9e53bd5c/2000k/hls/index.m3u8
-万里归省 The Diplomat 上映日期: 03-14(印度/美国),https://p.bvvvvvvv7f.com/video/wanliguisheng/HD/index.m3u8
-套现2：大赌客 Cash Out 2: High Rollers 上映日期: 03-14(美国),https://c1.7bbffvip.com/video/taoxian2daduke/HD/index.m3u8
-电幻国度 The Electric State 上映日期: 03-14(美国网络),https://vip.ffzy-video.com/20250314/13949_92703b40/index.m3u8
-我丈夫的情妇 My Husband's Mistress 上映日期: 03-14(美国),https://p.bvvvvvvv7f.com/video/wozhangfudeqingfu/HD/index.m3u8
-临界点 Borderline 上映日期: 03-14(美国),https://c1.7bbffvip.com/video/linjiedian/%E4%B8%AD%E5%AD%97/index.m3u8
-家教 The Parenting 上映日期: 03-13(美国网络),https://svip.high21-playback.com/20250314/41968_3e2086d5/2000k/hls/mixed.m3u8
-森林传说 Legend of the Forest 上映日期: 03-13(美国),https://cdn.yzzy29-play.com/20250615/70_7cbbc409/index.m3u8
-控制狂 Control Freak 上映日期: 03-13(美国网络),https://c1.7bbffvip.com/video/kongzhikuang/HD/index.m3u8
-无痛凯恩 Novocaine 上映日期: 03-13(中国香港) / 03-14(美国),https://svip.high21-playback.com/20250411/42509_83bf29a1/2000k/hls/mixed.m3u8
-通灵：一个新的开始 Ouija: A New Beginning 上映日期: 03-12(英国),https://p.bvvvvvvv7f.com/video/tonglingyigexindekaishi/HD/index.m3u8
-侵犯 침범 上映日期: 03-12(韩国),https://svip.high21-playback.com/20250504/42805_edb484b3/index.m3u8
-黑袋行动 Black Bag 上映日期: 03-12(法国),https://v.lzcdn25.com/20250403/254_068512da/index.m3u8
-放飞 Uncontained 上映日期: 03-11(美国),https://cdn.yzzy29-play.com/20250610/14_aab32389/2000k/hls/mixed.m3u8
-异星入侵：凤凰出山 Alien Invasion: Rise of the Phoenix 上映日期: 03-11(美国),https://p.bvvvvvvv7f.com/video/yixingruqinfenghuangchushan/HD/index.m3u8
-黑煞女 พนอ 上映日期: 03-07(中国台湾),https://yzzy21.playback-speed.com/20250527/43094_2580aff5/2000k/hls/mixed.m3u8
-在失落之地 In the Lost Lands 上映日期: 03-07(美国),https://v.lzcdn25.com/20250408/290_6bd4116b/index.m3u8
-丑陋的继姐 Den stygge stesøsteren 上映日期: 03-07(挪威),https://v.lzcdn25.com/20250510/522_1f7d1e9e/index.m3u8
-异界信号 Stutter 上映日期: 03-07(网络),https://hn.bfvvs.com/play/7e5BNxBa/index.m3u8
-Suky 上映日期: 03-07(尼日利亚),https://vip.ffzy-video.com/20250605/19804_92e0c17c/index.m3u8
-河童之子 Bloat 上映日期: 03-07(美国),https://svip.high21-playback.com/20250309/41890_aa85b86e/index.m3u8
-静默地带 Silent Zone 上映日期: 03-07(美国),https://hn.bfvvs.com/play/NbWxoKJd/index.m3u8
-孕育时代 Die gestohlene Zeit 上映日期: 03-06(奥地利),https://p.bvvvvvvv7f.com/video/yunyushidai/HD/index.m3u8
-烛影危林 Candlewood 上映日期: 03-06(美国),https://hn.bfvvs.com/play/QbYzo5Ad/index.m3u8
-终极武装 Armed 上映日期: 03-04(美国),https://vip.ffzy-video.com/20250503/17417_7bcab494/index.m3u8
-公平之雨 Fair Rain 上映日期: 03-03(美国),https://p.b8bf.com/video/gongpingzhiyu/%E9%AB%98%E6%B8%85/index.m3u8
-构筑 The Buildout 上映日期: 03-02(美国),https://v11.tlkqc.com/wjv11/202503/07/mLXHHDQ6YC83/video/1000k_720/hls/index.m3u8
-扭曲的虔诚 Twisted Devotion 上映日期: 03-01(美国),https://hn.bfvvs.com/play/wdLQJwpe/index.m3u8
-尸魔敲门 Revenge Of The Boogeyman 上映日期: 03-01(美国),https://p.bvvvvvvv7f.com/video/shimoqiaomen/HD/index.m3u8
-死亡徒步 The Ruck March 上映日期: 03-01(美国),https://svip.high21-playback.com/20250324/42180_0d47a566/2000k/hls/mixed.m3u8
-罪魁祸首 Culprit 上映日期: 02-28(美国),https://play.xluuss.com/play/6dBD6m2a/index.m3u8
-恐怖猴玩偶 The Jolly Monkey 上映日期: 02-28(美国),https://svip.high21-playback.com/20250519/43019_26e87ce3/index.m3u8
-疯狂一天 Crazxy 上映日期: 02-28(印度),https://p.bvvvvvvv7f.com/video/fengkuangyitian/HD/index.m3u8
-36总局：势不两立 Bastion 36 上映日期: 02-28(法国网络),https://v.lzcdn25.com/20250301/31_90e2ce85/index.m3u8
-飞速追杀 Fight or Flight 上映日期: 02-28(英国),https://v.lzcdn25.com/20250328/201_1b55bf5d/index.m3u8
-一息尚存 Last Breath 上映日期: 02-28(美国),https://vip.ffzy-play10.com/20250405/40131_b9dcc879/index.m3u8
-边境奇袭 Contraataque 上映日期: 02-28(美国),https://v.lzcdn25.com/20250305/46_f4053b69/index.m3u8
-鬼城杀 Demon City 鬼ゴロシ 上映日期: 02-27(日本网络),https://v.lzcdn25.com/20250228/21_412ded54/index.m3u8
-娜迦：永恒的羁绊 นาคบรรพ์ 上映日期: 02-27(泰国),https://p.b8bf.com/video/najiayonghengdejiban/HD/index.m3u8
-灯塔谋杀案 Murder at the Lighthouse 上映日期: 02-23(美国),https://svip.high21-playback.com/20250430/42754_384008da/index.m3u8
-我的阿米什人双重生活 My Amish Double Life 上映日期: 02-22(美国),https://p.b8bf.com/video/wodeamishirenshuangzhongshenghuo/HD/index.m3u8
-怪猴 The Monkey 上映日期: 02-21(美国),https://v.lzcdn25.com/20250328/202_f98d43a6/index.m3u8
-生命热线 Lifeline 上映日期: 02-21(美国),https://p.bvvvvvvv7f.com/video/shengmingrexian/HD/index.m3u8
-罪恶清除工 Cleaner 上映日期: 02-21(英国),https://svip.high21-playback.com/20250322/42161_1209baf9/index.m3u8
-歹徒们 Patsers 上映日期: 02-19(比利时),https://v1.tlkqc.com/wjv1/202505/31/jdpmmwcrAt85/video/1000k_720/hls/index.m3u8
-魅味 Delicious 上映日期: 02-18(柏林电影节) / 03-07(德国),https://v.lzcdn25.com/20250308/71_f847c188/index.m3u8
-编号17 Mickey 17 上映日期: 02-15(柏林国际电影节)/03-07(美国/中国大陆),https://v.lzcdn25.com/20250406/276_21d362fe/index.m3u8
-孕期惊魂 Womb 上映日期: 02-14(美国),https://p.bvvvvvvv7f.com/video/yunqijinghun/HD/index.m3u8
-峡谷 The Gorge 上映日期: 02-14(美国网络),https://v.cdnlz3.com/20250214/33672_208a1193/index.m3u8
-拳途救赎 Daveed 上映日期: 02-14(印度),https://p.b8bf.com/video/quantujiushu/HD/index.m3u8
-灵村 Kampung Keramat 上映日期: 02-13(印度尼西亚),https://m3u.nikanba.live/share/31c7b4189fc7d79ee75474a5a6366f73.m3u8
-钢锯恶魔 The Devil's Hacksaw 上映日期: 02-12(美国),https://svip.high21-playback.com/20250509/42903_199f31fd/index.m3u8
-美国队长4 Captain America: Brave New World 上映日期: 02-12(法国),https://v.lzcdn24.com/20250311/23009_f82b3dd3/index.m3u8
-催化剂 Catalyst 上映日期: 02-11(美国),https://svip.high21-playback.com/20250516/42979_17e908cb/2000k/hls/index_5b9c71f88914647c7610.m3u8
-改日再战 Fight Another Day 上映日期: 02-09(美国),https://svip.high21-playback.com/20250209/41495_95e51df0/index.m3u8
-腥心眼 Heart Eyes 上映日期: 02-07(美国),https://v.lzcdn25.com/20250305/55_975435e0/index.m3u8
-前任杀神 Love Hurts 上映日期: 02-07(美国),https://v.lzcdn25.com/20250226/6_2966ddd8/index.m3u8
-铁驭神兵 Tin Soldier 上映日期: 02-06(俄罗斯),https://p.bvvvvvvv7f.com/video/tieyushenbing/HD/index.m3u8
-上映日期: 02-06(印度尼西亚),https://p.b8bf.com/video/ezhouling/HD/index.m3u8
-咒书远古魔 Dajal: Satu Malam Di Pedajal 上映日期: 02-06(马来西亚),https://vip.ffzy-video.com/20250510/17843_c9cf4399/index.m3u8
-沼泽之地 The Bayou 上映日期: 02-06(埃及),https://play.xluuss.com/play/6dBw39We/index.m3u8
-坚毅奇兵 Vidaamuyarchi 上映日期: 02-06(印度/美国),https://c1.7bbffvip.com/video/jianyiqibing/HD/index.m3u8
-破碎 브로큰 上映日期: 02-05(韩国),https://v.lzcdn25.com/20250313/102_2a0c9760/index.m3u8
-六天 Six Jours 上映日期: 02-01(鹿特丹电影节),https://cdn.yzzy29-play.com/20250616/89_7647966b/2000k/hls/mixed.m3u8
-篮中弃婴 The Baby in the Basket 上映日期: 02-05(菲律宾) / 02-17(英国),https://svip.high21-playback.com/20250427/42714_938f7afc/2000k/hls/mixed.m3u8
-上映日期: 02-01(鹿特丹电影节),https://cdn.yzzy29-play.com/20250616/89_7647966b/index.m3u8
-灰烬森林 Woods of Ash 上映日期: 02-01(网络),https://svip.high21-playback.com/20250309/41891_21fe67f7/2000k/hls/mixed.m3u8
-勇敢之人 Valiant One 上映日期: 01-31(美国),https://c1.7bbffvip.com/video/yongganzhiren2025/HD/index.m3u8
-德瓦 Deva 上映日期: 01-31(印度),https://v.lzcdn25.com/20250330/220_32704fdf/index.m3u8
-完美伴侣 Companion 上映日期: 01-28(中国香港) / 01-31(美国),https://v.cdnlz12.com/20250219/18237_1f952107/index.m3u8
-致命著作 Opus 上映日期: 01-27(圣丹斯电影节) / 03-14(美国),https://v.lzcdn25.com/20250408/282_1849c208/index.m3u8
-便衣警察 Plainclothes 上映日期: 01-26(美国),https://c1.7bbffvip.com/video/bianyijingcha2025/HD/index.m3u8
-杀人鼠实验 Mouse of Horrors 上映日期: 01-25(美国),https://c1.7bbffvip.com/video/sharenshushiyan/HD/index.m3u8
-猪皮脸 Piglet's Return 上映日期: 01-25(美国),https://c1.7bbffvip.com/video/zhurenguilai/HD/index.m3u8
-荒诞神话 Myth of Man 上映日期: 01-24(美国),https://svip.high21-playback.com/20250326/42247_d2cc0972/2000k/hls/mixed.m3u8
-天空部队 Sky Force 上映日期: 01-24(印度),https://vip.ffzy-video.com/20250329/14937_129d98d6/index.m3u8
-财富流感 Rich Flu 上映日期:  01-24(西班牙),https://v.lzcdn25.com/20250325/189_57368e1b/index.m3u8
-黑修女们 검은 수녀들 上映日期: 01-24(韩国),https://v.lzcdn25.com/20250305/52_5c5821a1/index.m3u8
-堕入深渊 Into the Deep 上映日期: 01-24(美国),https://svip.high21-playback.com/20250124/41210_e833a137/index.m3u8
-血继 Inheritance 上映日期: 01-24(美国),https://vodcnd14.myqqdd.com/20250227/ey2vzBkg/4099kb/hls/index.m3u8
-地下忍者 アンダーニンジャ 上映日期: 01-24(日本),https://v.lzcdn25.com/20250627/1785_98f4fede/index.m3u8
-星际迷航：31区 Star Trek: Section 31 上映日期: 01-24(美国网络),https://v.cdnlz3.com/20250125/32841_739227b6/index.m3u8
-7天之前 Sebelum 7 Hari 上映日期: 01-23(印度尼西亚),https://p.b8bf.com/video/7tianzhiqian/HD/index.m3u8
-邪恶之城 Zloy gorod 上映日期: 01-23(俄罗斯),https://vip.ffzy-video.com/20250416/16130_02923027/index.m3u8
-插翅难飞 Flight Risk 上映日期:  01-22(法国),https://v.cdnlz3.com/20250214/33700_9737db78/index.m3u8
-狙击精英: 背水一战 Sniper: The Last Stand 上映日期: 01-21(美国),https://v.cdnlz3.com/20250121/32608_6618af6d/index.m3u8
-警报战 Alarum 上映日期: 01-17(美国),https://svip.high21-playback.com/20250118/41123_5d20c790/2000k/hls/mixed.m3u8
-室町无赖 室町无頼 上映日期: 01-17(日本),https://cdn.yzzy29-play.com/20250621/127_ec5decca/index.m3u8
-丧尸狂潮 Kutsal Damacana 5: Zombi 上映日期: 01-17(土耳其),https://cdn.yzzy29-play.com/20250702/221_060ad924/index.m3u8
-我们将他们全部杀死 We Kill Them All 上映日期: 01-17(美国),https://play.xluuss.com/play/vbmDA2Oa/index.m3u8
-重返行动 Back in Action 上映日期: 01-17(美国网络),https://v.cdnlz3.com/20250117/32429_b46df79e/index.m3u8
-恶魔的新娘 Pengantin Setan 上映日期: 01-16(印度尼西亚),https://yzzy21.playback-speed.com/20250527/43095_188ce673/2000k/hls/mixed.m3u8
-iPossessed 上映日期: 01-15(美国),https://p.b8bf.com/video/iPossessed/HD/index.m3u8
-血偿 blood pay 上映日期: 01-15(意大利),https://v13.xingchongwang.com/yyv13/202507/10/tSYCMsjnrQ19/video/2000k_1080/hls/index.m3u8
-狼人 Wolf Man 上映日期: 01-15(法国) / 01-17(美国),https://v.cdnlz3.com/20250205/33144_17af99b6/index.m3u8
-解码危机 The Unlock 上映日期: 01-14(德国),https://vv.jisuzyv.com/play/1aKgAOla/index.m3u8
-彼得·潘的梦幻岛噩梦 Peter Pan's Neverland Nightmare 上映日期: 01-13(美国),https://vip.ffzy-video.com/20250328/14851_c334ba61/index.m3u8
-疑影夜袭 The Intruder 上映日期: 01-11(美国),https://play.xluuss.com/play/7axRlZ9d/index.m3u8
-行规 Laws of Man 上映日期: 01-10(美国),https://vip.ffzy-video.com/20250414/16035_d6368eb1/index.m3u8
-黑色钻石 Black Diamond 上映日期: 01-10(美国),https://c1.7bbffvip.com/video/heisezuanshi2025/HD/index.m3u8
-救命行动 Ad Vitam 上映日期: 01-10(美国网络),https://v.cdnlz3.com/20250111/32135_5268cb83/index.m3u8
-法特赫 Fateh 上映日期: 01-10(印度),https://c1.7bbffvip.com/video/fatehe/HD/index.m3u8
-楚曼塔 Choo Mantar 上映日期: 01-10(印度),https://v5.daayee.com/yyv5/202503/31/VQ0KSAPypy22/video/index.m3u8
-绝密战境 Den of Thieves 2 上映日期: 01-10(美国),https://svipsvip.ffzyread1.com/20250206/35641_b3ba081e/index.m3u8
-逝者 Almarhum 上映日期: 01-09(印度尼西亚),https://p.bvvvvvvv7f.com/video/shizhe2025/HD/index.m3u8
-草图 Rekhachithram 上映日期: 01-09(印度),https://svip.high21-playback.com/20250505/42837_9d2a9457/index.m3u8
-大脚怪：血溅农场 Bigfoot: Blood on the Farm 上映日期: 01-07(网络),https://p.b8bf.com/video/dajiaoguaixuejiannongchang/HD/index.m3u8
-糖果妈咪 Sugar Mama 上映日期: 01-03(美国),https://svip.high21-playback.com/20250224/41720_b877ed4b/2000k/hls/mixed.m3u8
-身份 Identity 上映日期: 01-02(印度),https://c1.7bbffvip.com/video/shenfen/HD/index.m3u8
-剪刀 Scissors 上映日期: 01-01(美国),https://svip.high21-playback.com/20250505/42823_e09f5cc6/index.m3u8
-杰瑟普湖 Lake Jesup 上映日期: 01-01(美国),https://v.lzcdn25.com/20250307/56_d48d6c8f/index.m3u8
 
 
 ◆◆◆　https://mycode.zhoujie218.top/me/jxdx_hd.txt
@@ -21222,14 +21080,13 @@ CCTV6电影,http://fn.tmde.top:35455/mgtv/624878396.m3u8
 
 ◆◆◆　https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
 湖南爱晚,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTAwNmQ0NmM5Zjk0M2U0N2VjODBhMjE4ZWE1NmE2NWJjJnVpZD0mdXVpZD0xZGYxYmY5ZWY4NzFlYTgxYjUxYzFkOTlhYjEzYTQ5NC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDQ5NzYx/HNGGMPP360.m3u8
-湖南都市,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWE0Y2FlZTg3YTU1NmM4ODNmYTczMTFiZjZmNjM5MTNlJnVpZD0mdXVpZD0zYTVmMjJhODBlNTI5MDEzYmUxZTEzZDQwOTQ2MDI0OS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDM0MTQ5/HNDSMPP360.m3u8
-湖南娱乐,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTZmNGUyZDQxNjhmNGNhZGJhOTQ1YzlmOTk3M2Q1YzM1JnVpZD0mdXVpZD1jMzNiZGU4YzI0NzRjMjVhNWJiZjljYWIwMTIyNjIyNy02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDQ1NDg1/HNYLMPP360.m3u8
-湖南经视,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTdlYjJmYjYyZjljMDZiNDY2NzBhMDY2N2I0NjA3YTVmJnVpZD0mdXVpZD0wYmZhOWExZTIxMTJhYzU4ZWY4MzFlMDc0MjYzZGM4Ni02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDI2NDI0/HNJSMPP360.m3u8
-金鹰纪实,https://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTdmOWU0MzdmYTY4NTUzM2FiZWFmYmQ4NDg0OWRhNzVjJnVpZD0mdXVpZD03NjE1ZDhmNDBkOTBjMGFjOWRjZjQ5NjYzNDhiNGI0ZC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDM1OTM5/JYJSMPP360.m3u8
-金鹰卡通,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTgxNTI1NGUyNTQyYTVlNDE0ODJjNGYzYTQ2MWE1MTdhJnVpZD0mdXVpZD0yZTZjZTMzZTYyYjZjZWQ1NmQ0ZGNjNTBlY2I5NDBlYy02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDM0MTY0/JYKTMPP360.m3u8
-湖南国际,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWU4MTZkZGE0YzJjNDQwNzE1MmI4NmIxOWRmYTQ3ODcyJnVpZD0mdXVpZD02YzI5ZDBmNmExOGNiOTQ4NDlhY2MzYTA2ZjdkZTQyMS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDI2OTkw/HNGJMPP360.m3u8
+湖南都市,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTc5ZjFiYWEwNTNhY2JlZjRjMGNmZmI3MjRhNjAwYzgzJnVpZD0mdXVpZD01NGU4YTg3MGY2MmE5NzcyNzQ2OWM5YjlmOTdmMDQ2NS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDYzMjA3/HNDSMPP360.m3u8
+湖南娱乐,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTFmMDUxZmNmZmJkZTgyZjhjMmY2OGMwM2YwM2YyZGZkJnVpZD0mdXVpZD0zNjc3ZjJkOTIyMjE1OGZlMmRmMTliOGMwNjljYmY3Yy02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDc0MzM2/HNYLMPP360.m3u8
+湖南经视,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTg1YzVhNWFhMWUxN2Y2NWFiOWNhODM2ZWQ2YWIwZGQ3JnVpZD0mdXVpZD04YzAxNTBkZDRmNmVhYTQ2ZDQxZmFkNDhmZWZmNjg0Mi02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDU1Mzc5/HNJSMPP360.m3u8
+金鹰纪实,https://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWM5MjQ0ZDIzMDYwNTJhZjM0ODk3ZGY1N2Q2NDUyMDk5JnVpZD0mdXVpZD0yMjY3NzIzYjY5MWI1M2M1MjQwYzFlNGJkMzA3ZmJiZi02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDY2NTE3/JYJSMPP360.m3u8
+湖南国际,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTc2NmE1OTU0NjljMDNmODJiYjA5ODZlMWFhMTA4ZjgzJnVpZD0mdXVpZD1hYjdjYTE5ZDk3OGRhMmE0NDZmM2I0ODNjYmFlNTAzZS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDU2MDMx/HNGJMPP360.m3u8
 湖南电视剧,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTdiZDYxZWU5YTAzMTMyMDViOWMzMjYxN2FkMjAwZDI1JnVpZD0mdXVpZD1kMWU3YzZhMzJkMGZlYjU4YTMyZWFkNGRkMWQ1MTkyNi02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDUyMTcz/HNDSJMPP360.m3u8
-长沙新闻,http://phonetx.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXR4X3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPThjNGExNWM5ZGU1MjZhNmY3NTNhZTY4ZTVhNzc3NDM1JnVpZD0mdXVpZD00MWM0YTkyMzNmZjNiOWUwMmU5YjQwMTU0ZTAzOWFiMC02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDM0NDI5/CSXWMPP360.m3u8
+长沙新闻,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnRlcm09NSZxaWQ9JmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTEzZjMxMGNiMTNkMzFhNWViZmNjNGY2ZmMzN2MwYzVhJnVpZD0mdXVpZD00MWFlMTZkMmZhMzNiNDJkMjQ1ODYxYjQ4NzU1ZGVmMS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzUzMDY2NTMx/CSXWMPP360.m3u8
 澳门卫视,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 Pet Club TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 TVB News,http://r.jdshipin.com/CkuBd
@@ -30662,325 +30519,6 @@ TVBS,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 
 ◆◆◆　http://146.235.213.45:35455/tv.m3u
 ◆◆◆　http://b.zgjok.com:35455/tv.m3u
-4K60PSDR-H264-AAC测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
-4K60PHLG-HEVC-EAC3测试,https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
-CGTN外语纪录,http://b.zgjok.com:35455/mgtv/609006487.m3u8
-CGTN阿拉伯语,http://b.zgjok.com:35455/mgtv/609154345.m3u8
-CGTN西班牙语,http://b.zgjok.com:35455/mgtv/609006450.m3u8
-CGTN法语,http://b.zgjok.com:35455/mgtv/609006476.m3u8
-CGTN俄语,http://b.zgjok.com:35455/mgtv/609006446.m3u8
-老故事,http://b.zgjok.com:35455/mgtv/884121956.m3u8
-发现之旅,http://b.zgjok.com:35455/mgtv/624878970.m3u8
-中学生,http://b.zgjok.com:35455/mgtv/708869532.m3u8
-CGTN,http://b.zgjok.com:35455/mgtv/609017205.m3u8
-海峡卫视,http://b.zgjok.com:35455/mgtv/849119120.m3u8
-上海新闻综合,http://b.zgjok.com:35455/mgtv/651632657.m3u8
-上视东方影视,http://b.zgjok.com:35455/mgtv/617290047.m3u8
-上海第一财经,http://b.zgjok.com:35455/mgtv/608780988.m3u8
-南京新闻综合,http://b.zgjok.com:35455/mgtv/838109047.m3u8
-南京教科,http://b.zgjok.com:35455/mgtv/838153729.m3u8
-南京十八,http://b.zgjok.com:35455/mgtv/838151753.m3u8
-体育休闲,http://b.zgjok.com:35455/mgtv/626064707.m3u8
-江苏城市,http://b.zgjok.com:35455/mgtv/626064714.m3u8
-江苏国际,http://b.zgjok.com:35455/mgtv/626064674.m3u8
-江苏教育,http://b.zgjok.com:35455/mgtv/628008321.m3u8
-江苏影视,http://b.zgjok.com:35455/mgtv/626064697.m3u8
-江苏综艺,http://b.zgjok.com:35455/mgtv/626065193.m3u8
-公共新闻,http://b.zgjok.com:35455/mgtv/626064693.m3u8
-盐城新闻综合,http://b.zgjok.com:35455/mgtv/639731825.m3u8
-淮安新闻综合,http://b.zgjok.com:35455/mgtv/639731826.m3u8
-泰州新闻综合,http://b.zgjok.com:35455/mgtv/639731818.m3u8
-连云港新闻综合,http://b.zgjok.com:35455/mgtv/639731715.m3u8
-宿迁新闻综合,http://b.zgjok.com:35455/mgtv/639731832.m3u8
-徐州新闻综合,http://b.zgjok.com:35455/mgtv/639731747.m3u8
-优漫卡通,http://b.zgjok.com:35455/mgtv/626064703.m3u8
-江阴新闻综合,http://b.zgjok.com:35455/mgtv/955227979.m3u8
-南通新闻综合,http://b.zgjok.com:35455/mgtv/955227985.m3u8
-宜兴新闻综合,http://b.zgjok.com:35455/mgtv/955227996.m3u8
-苏州新闻综合,http://b.zgjok.com:35455/mgtv/639731952.m3u8
-溧水新闻综合,http://b.zgjok.com:35455/mgtv/639737327.m3u8
-高能悬疑 推理时刻,http://b.zgjok.com:35455/mgtv/625133682.m3u8
-青春怀旧剧场,http://b.zgjok.com:35455/mgtv/617432318.m3u8
-新片放映厅,http://b.zgjok.com:35455/mgtv/619495952.m3u8
-CHC影迷电影,http://b.zgjok.com:35455/mgtv/952383261.m3u8
-CHC动作电影,http://b.zgjok.com:35455/mgtv/644368714.m3u8
-CHC家庭影院,http://b.zgjok.com:35455/mgtv/644368373.m3u8
-和美乡途轮播,http://b.zgjok.com:35455/mgtv/713591450.m3u8
-大片,http://b.zgjok.com:35455/mgtv/629943678.m3u8
-南方影视,http://b.zgjok.com:35455/mgtv/614961829.m3u8
-血色山河·抗日战争影像志,http://b.zgjok.com:35455/mgtv/713600957.m3u8
-深度对话,http://b.zgjok.com:35455/mgtv/625703337.m3u8
-熊猫1,http://b.zgjok.com:35455/mgtv/608933610.m3u8
-熊猫2,http://b.zgjok.com:35455/mgtv/608933640.m3u8
-熊猫3,http://b.zgjok.com:35455/mgtv/608934619.m3u8
-熊猫4,http://b.zgjok.com:35455/mgtv/608934721.m3u8
-熊猫5,http://b.zgjok.com:35455/mgtv/608935104.m3u8
-熊猫6,http://b.zgjok.com:35455/mgtv/608935797.m3u8
-熊猫7,http://b.zgjok.com:35455/mgtv/609169286.m3u8
-熊猫8,http://b.zgjok.com:35455/mgtv/609169287.m3u8
-熊猫9,http://b.zgjok.com:35455/mgtv/609169226.m3u8
-熊猫10,http://b.zgjok.com:35455/mgtv/609169285.m3u8
-最强综艺趴,http://b.zgjok.com:35455/mgtv/629942228.m3u8
-嘉佳卡通,http://b.zgjok.com:35455/mgtv/614952364.m3u8
-经典动画大集合,http://b.zgjok.com:35455/mgtv/629942219.m3u8
-新动力量创一流,http://b.zgjok.com:35455/mgtv/713589837.m3u8
-钱塘江,http://b.zgjok.com:35455/mgtv/647370520.m3u8
-五环传奇,http://b.zgjok.com:35455/mgtv/707671890.m3u8
-赛事最经典,http://b.zgjok.com:35455/mgtv/646596895.m3u8
-掼蛋精英赛,http://b.zgjok.com:35455/mgtv/631354620.m3u8
-体坛名栏汇,http://b.zgjok.com:35455/mgtv/629943305.m3u8
-24小时体育,http://b.zgjok.com:35455/mgtv/654102378.m3u8
-CETV1,http://b.zgjok.com:35455/mgtv/923287154.m3u8
-CETV2,http://b.zgjok.com:35455/mgtv/923287211.m3u8
-CETV4,http://b.zgjok.com:35455/mgtv/923287339.m3u8
-cctv4k-YHYX满血,http://b.zgjok.com:35455/yhyx/IP-CCTV-4K.m3u8
-北京卫视4K-YHYX满血,http://b.zgjok.com:35455/yhyx/IP-BJWS-4K.m3u8
-视界4K-BST,http://b.zgjok.com:35455/bst/sjpd4k@15000000.m3u8
-电影4K-BST,http://b.zgjok.com:35455/bst/dypd4k@15000000.m3u8
-少儿4K-BST,http://b.zgjok.com:35455/bst/sepd4k@15000000.m3u8
-欢笑剧场4K-BST,http://b.zgjok.com:35455/bst/hxjc4k@15000000.m3u8
-cctv4k-BST,http://b.zgjok.com:35455/bst/cctv4k@15000000.m3u8
-cctv16-4K-BST,http://b.zgjok.com:35455/bst/cctv16hd4k@15000000.m3u8
-cctv16-NPTV,http://b.zgjok.com:35455/nptv/cctv16.m3u8
-cctv4k-NPTV,http://b.zgjok.com:35455/nptv/cctv4k.m3u8
-cctv8k-NPTV,http://b.zgjok.com:35455/nptv/cctv8k.m3u8
-cgtnar-NPTV,http://b.zgjok.com:35455/nptv/cgtnar.m3u8
-cgtndoc-NPTV,http://b.zgjok.com:35455/nptv/cgtndoc.m3u8
-cgtn-NPTV,http://b.zgjok.com:35455/nptv/cgtn.m3u8
-cgtnfr-NPTV,http://b.zgjok.com:35455/nptv/cgtnfr.m3u8
-cgtnru-NPTV,http://b.zgjok.com:35455/nptv/cgtnru.m3u8
-cgtnsp-NPTV,http://b.zgjok.com:35455/nptv/cgtnsp.m3u8
-中国教育电视台-NPTV,http://b.zgjok.com:35455/nptv/cetv1.m3u8
-北京卫视-NPTV,http://b.zgjok.com:35455/nptv/beijing.m3u8
-湖南卫视-NPTV,http://b.zgjok.com:35455/nptv/hunan.m3u8
-江苏卫视-NPTV,http://b.zgjok.com:35455/nptv/jiangsu.m3u8
-东方卫视-NPTV,http://b.zgjok.com:35455/nptv/dongfang.m3u8
-浙江卫视-NPTV,http://b.zgjok.com:35455/nptv/zhejiang.m3u8
-湖北卫视-NPTV,http://b.zgjok.com:35455/nptv/hubei.m3u8
-天津卫视-NPTV,http://b.zgjok.com:35455/nptv/tianjing.m3u8
-山东卫视-NPTV,http://b.zgjok.com:35455/nptv/shandong.m3u8
-辽宁卫视-NPTV,http://b.zgjok.com:35455/nptv/liaoning.m3u8
-安徽卫视-NPTV,http://b.zgjok.com:35455/nptv/anhui.m3u8
-黑龙江卫视-NPTV,http://b.zgjok.com:35455/nptv/heilongjiang.m3u8
-贵州卫视-NPTV,http://b.zgjok.com:35455/nptv/guizhou.m3u8
-东南卫视-NPTV,http://b.zgjok.com:35455/nptv/dongnan.m3u8
-重庆卫视-NPTV,http://b.zgjok.com:35455/nptv/chongqing.m3u8
-江西卫视-NPTV,http://b.zgjok.com:35455/nptv/jiangxi.m3u8
-广东卫视-NPTV,http://b.zgjok.com:35455/nptv/guangdong.m3u8
-河北卫视-NPTV,http://b.zgjok.com:35455/nptv/hebei.m3u8
-深圳卫视-NPTV,http://b.zgjok.com:35455/nptv/shenzheng.m3u8
-吉林卫视-NPTV,http://b.zgjok.com:35455/nptv/jiling.m3u8
-河南卫视-NPTV,http://b.zgjok.com:35455/nptv/henan.m3u8
-四川卫视-NPTV,http://b.zgjok.com:35455/nptv/sichuan.m3u8
-广西卫视-NPTV,http://b.zgjok.com:35455/nptv/guangxi.m3u8
-陕西卫视-NPTV,http://b.zgjok.com:35455/nptv/shanxiws.m3u8
-山西卫视-NPTV,http://b.zgjok.com:35455/nptv/shanxi.m3u8
-内蒙古卫视-NPTV,http://b.zgjok.com:35455/nptv/neimenggu.m3u8
-青海卫视-NPTV,http://b.zgjok.com:35455/nptv/qinghai.m3u8
-海南卫视-NPTV,http://b.zgjok.com:35455/nptv/hainan.m3u8
-宁夏卫视-NPTV,http://b.zgjok.com:35455/nptv/ningxia.m3u8
-西藏卫视-NPTV,http://b.zgjok.com:35455/nptv/xizang.m3u8
-新疆卫视-NPTV,http://b.zgjok.com:35455/nptv/xinjiang.m3u8
-甘肃卫视-NPTV,http://b.zgjok.com:35455/nptv/gansu.m3u8
-云南卫视-NPTV,http://b.zgjok.com:35455/nptv/yunnan.m3u8
-兵团卫视-NPTV,http://b.zgjok.com:35455/nptv/bintuan.m3u8
-河北卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-HEBWS-HD.m3u8
-河北经济-YHYX,http://b.zgjok.com:35455/yhyx/IP-HEBJJ-HD.m3u8
-河北农民-YHYX,http://b.zgjok.com:35455/yhyx/IP-HEBNM-HD.m3u8
-河北都市-YHYX,http://b.zgjok.com:35455/yhyx/IP-HEBDS-HD.m3u8
-河北影视-YHYX,http://b.zgjok.com:35455/yhyx/IP-HEBYS-HD.m3u8
-河北少儿科教-YHYX,http://b.zgjok.com:35455/yhyx/IP-HEBSEKJ-HD.m3u8
-河北公共-YHYX,http://b.zgjok.com:35455/yhyx/IP-HEBGG-HD.m3u8
-河北收视指南-YHYX,http://b.zgjok.com:35455/yhyx/IP-HEBSSZN-HD.m3u8
-河北杂技-YHYX,http://b.zgjok.com:35455/yhyx/IP-HEBZJ-HD.m3u8
-唐山新闻-YHYX,http://b.zgjok.com:35455/yhyx/IP-TSXWZH-HD.m3u8
-唐山生活-YHYX,http://b.zgjok.com:35455/yhyx/IP-TSSHFW-HD.m3u8
-唐山影视-YHYX,http://b.zgjok.com:35455/yhyx/IP-TSYSHD.m3u8
-唐山公共-YHYX,http://b.zgjok.com:35455/yhyx/IP-TSGG-HD.m3u8
-北京卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-BJWS-HD.m3u8
-天津卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-TJWS-HD.m3u8
-辽宁卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-LNWS-HD.m3u8
-江苏卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-JSWS-HD.m3u8
-湖南卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-HUNWS-HD.m3u8
-湖北卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-HBWS-HD.m3u8
-东方卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-DFWS-HD.m3u8
-安徽卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-AHWS-HD.m3u8
-浙江卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-ZJWS-HD.m3u8
-吉林卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-JLWS-HD.m3u8
-黑龙江卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-HLJWS-HD.m3u8
-山东卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-SDWS-HD.m3u8
-河南卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-HNWS-HD.m3u8
-山西卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-SXWS-SD.m3u8
-江西卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-JXWS-HD.m3u8
-东南卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-DNWS-HD.m3u8
-广东卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-GDWS-HD.m3u8
-深圳卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-SZWS-HD.m3u8
-贵州卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-GZWS-HD.m3u8
-四川卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-SCWS-HD.m3u8
-云南卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-YNWS-HD.m3u8
-内蒙古卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-NMGWS-SD.m3u8
-陕西卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-SHXWS-SD.m3u8
-宁夏卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-NXWS-SD.m3u8
-甘肃卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-GSWS-SD.m3u8
-青海卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-QHWS-SD.m3u8
-广西卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-GXWS-SD.m3u8
-海南卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-HANWS-SD.m3u8
-新疆卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-XJWS-SD.m3u8
-西藏卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-XZWS-SD.m3u8
-兵团卫视-YHYX,http://b.zgjok.com:35455/yhyx/IP-BTWS-SD.m3u8
-CHC影迷电影-YHYX,http://b.zgjok.com:35455/yhyx/IP-HCGQ-HD.m3u8
-CHC家庭影院-YHYX,http://b.zgjok.com:35455/yhyx/IP-JTYY-HD.m3u8
-CHC动作电影-YHYX,http://b.zgjok.com:35455/yhyx/IP-DZDY-HD.m3u8
-重温经典-YHYX,http://b.zgjok.com:35455/yhyx/IP-CWJD-HD.m3u8
-北京纪实-YHYX,http://b.zgjok.com:35455/yhyx/IP-JSKJ-HD.m3u8
-东方财经-YHYX,http://b.zgjok.com:35455/yhyx/IP-DFCJ-HD.m3u8
-金鹰卡通-YHYX,http://b.zgjok.com:35455/yhyx/IP-JYKT-HD.m3u8
-劲爆体育-YHYX,http://b.zgjok.com:35455/yhyx/IP-JBTY-HD.m3u8
-游戏风云-YHYX,http://b.zgjok.com:35455/yhyx/IP-YXFY-HD.m3u8
-都市剧场-YHYX,http://b.zgjok.com:35455/yhyx/IP-DSJC-HD.m3u8
-生活时尚-YHYX,http://b.zgjok.com:35455/yhyx/IP-SHSS-HD.m3u8
-动漫秀场-YHYX,http://b.zgjok.com:35455/yhyx/IP-DMXC-HD.m3u8
-乐游-YHYX,http://b.zgjok.com:35455/yhyx/IP-LY-HD.m3u8
-快乐垂钓-YHYX,http://b.zgjok.com:35455/yhyx/IP-KLCD-HD.m3u8
-央视台球-YHYX,http://b.zgjok.com:35455/yhyx/IP-YSTQ-HD.m3u8
-电视指南-YHYX,http://b.zgjok.com:35455/yhyx/IP-DSZN-HD.m3u8
-央视精品-YHYX,http://b.zgjok.com:35455/yhyx/IP-YSJP-HD.m3u8
-风云音乐-YHYX,http://b.zgjok.com:35455/yhyx/IP-FYYY-HD.m3u8
-怀旧剧场-YHYX,http://b.zgjok.com:35455/yhyx/IP-HJJC-HD.m3u8
-风云足球-YHYX,http://b.zgjok.com:35455/yhyx/IP-FYZQ-HD.m3u8
-风云剧场-YHYX,http://b.zgjok.com:35455/yhyx/IP-FYJC-HD.m3u8
-第一剧场-YHYX,http://b.zgjok.com:35455/yhyx/IP-DYJC-HD.m3u8
-世界地理-YHYX,http://b.zgjok.com:35455/yhyx/IP-SJDL-HD.m3u8
-武术世界-YHYX,http://b.zgjok.com:35455/yhyx/IP-WSSJ-HD.m3u8
-兵器科技-YHYX,http://b.zgjok.com:35455/yhyx/IP-BQKJ-HD.m3u8
-高尔夫网球-YHYX,http://b.zgjok.com:35455/yhyx/IP-GEFWQ-HD.m3u8
-女性时尚-YHYX,http://b.zgjok.com:35455/yhyx/IP-NXSS-HD.m3u8
-CGTN-BST,http://b.zgjok.com:35455/bst/cctvnews@2500000.m3u8
-东方卫视HD-BST,http://b.zgjok.com:35455/bst/hddfws@4000000.m3u8
-河北卫视HD-BST,http://b.zgjok.com:35455/bst/hbwshd4m@4000000.m3u8
-浙江卫视HD-BST,http://b.zgjok.com:35455/bst/zjwshd@4000000.m3u8
-北京卫视HD-BST,http://b.zgjok.com:35455/bst/bjwshd@4000000.m3u8
-江苏卫视HD-BST,http://b.zgjok.com:35455/bst/jswshd@4000000.m3u8
-天津卫视HD-BST,http://b.zgjok.com:35455/bst/tjwshd@4000000.m3u8
-湖南卫视HD-BST,http://b.zgjok.com:35455/bst/hnwshd@4000000.m3u8
-中国教育-1HD-BST,http://b.zgjok.com:35455/bst/zgjy1ott@4000000.m3u8
-中国教育-2-BST,http://b.zgjok.com:35455/bst/cetv2@2500000.m3u8
-中国教育-4HD-BST,http://b.zgjok.com:35455/bst/cetv4@1300000.m3u8
-山东卫视HD-BST,http://b.zgjok.com:35455/bst/sdwshd@4000000.m3u8
-东南卫视HD-BST,http://b.zgjok.com:35455/bst/dnwshd@4000000.m3u8
-安徽卫视HD-BST,http://b.zgjok.com:35455/bst/ahwshd@4000000.m3u8
-湖北卫视HD-BST,http://b.zgjok.com:35455/bst/hbwshd@4000000.m3u8
-甘肃卫视HD-BST,http://b.zgjok.com:35455/bst/gswshd4m@4000000.m3u8
-广东卫视HD-BST,http://b.zgjok.com:35455/bst/gdwshd@4000000.m3u8
-广西卫视HD-BST,http://b.zgjok.com:35455/bst/gxwshd4m@4000000.m3u8
-贵州卫视HD-BST,http://b.zgjok.com:35455/bst/gzwshd4m@4000000.m3u8
-重庆卫视HD-BST,http://b.zgjok.com:35455/bst/cqwshd4m@4000000.m3u8
-河南卫视HD-BST,http://b.zgjok.com:35455/bst/henwshd4m@4000000.m3u8
-黑龙江卫视HD-BST,http://b.zgjok.com:35455/bst/hljwshd@4000000.m3u8
-海南卫视HD-BST,http://b.zgjok.com:35455/bst/hainwshd4m@4000000.m3u8
-吉林卫视HD-BST,http://b.zgjok.com:35455/bst/jlwshd4m@4000000.m3u8
-江西卫视HD-BST,http://b.zgjok.com:35455/bst/jxwshd@4000000.m3u8
-哈哈炫动HD-BST,http://b.zgjok.com:35455/bst/hhxdhd@4000000.m3u8
-金鹰纪实HD-BST,http://b.zgjok.com:35455/bst/jyjs8m@8000000.m3u8
-金鹰卡通-BST,http://b.zgjok.com:35455/bst/jykt@1300000.m3u8
-嘉佳卡通-BST,http://b.zgjok.com:35455/bst/jjkt@1300000.m3u8
-卡酷卡通-BST,http://b.zgjok.com:35455/bst/kkkt@1300000.m3u8
-卡酷少儿HD-BST,http://b.zgjok.com:35455/bst/kkkt2d5m@2500000.m3u8
-辽宁卫视HD-BST,http://b.zgjok.com:35455/bst/lnwshd@4000000.m3u8
-深圳卫视HD-BST,http://b.zgjok.com:35455/bst/szwshd@4000000.m3u8
-云南卫视HD-BST,http://b.zgjok.com:35455/bst/ynwshd4m@4000000.m3u8
-四川卫视HD-BST,http://b.zgjok.com:35455/bst/scwshd4m@4000000.m3u8
-山西卫视-BST,http://b.zgjok.com:35455/bst/shanxiws@1300000.m3u8
-陕西卫视-BST,http://b.zgjok.com:35455/bst/sxws@1300000.m3u8
-新疆卫视-BST,http://b.zgjok.com:35455/bst/xjws@1300000.m3u8
-安多卫视-BST,http://b.zgjok.com:35455/bst/adws2d5m@2500000.m3u8
-西藏卫视-BST,http://b.zgjok.com:35455/bst/xzws@2500000.m3u8
-兵团卫视-BST,http://b.zgjok.com:35455/bst/btws@1300000.m3u8
-内蒙古卫视-BST,http://b.zgjok.com:35455/bst/nmgws@1300000.m3u8
-宁夏卫视-BST,http://b.zgjok.com:35455/bst/nxws@1300000.m3u8
-青海卫视-BST,http://b.zgjok.com:35455/bst/qhws@1300000.m3u8
-新视觉HD-BST,http://b.zgjok.com:35455/bst/xsjhd@4000000.m3u8
-中国天气-BST,http://b.zgjok.com:35455/bst/zgqxhd4mc@4000000.m3u8
-欢笑剧场HD-BST,http://b.zgjok.com:35455/bst/hxjchd@4000000.m3u8
-热门剧场HD-BST,http://b.zgjok.com:35455/bst/rmjcvcc4m@4000000.m3u8
-都市剧场HD-BST,http://b.zgjok.com:35455/bst/dsjchd@4000000.m3u8
-谍战剧场HD-BST,http://b.zgjok.com:35455/bst/dzjcvcc4m@4000000.m3u8
-华语影院HD-BST,http://b.zgjok.com:35455/bst/hyyyvcc4m@4000000.m3u8
-星光影院HD-BST,http://b.zgjok.com:35455/bst/xgyyvcc4m@4000000.m3u8
-全球大片HD-BST,http://b.zgjok.com:35455/bst/qqdpvcc4m@4000000.m3u8
-热门综艺HD-BST,http://b.zgjok.com:35455/bst/rmzyvcc4m@4000000.m3u8
-动漫秀场HD-BST,http://b.zgjok.com:35455/bst/dmxchd@4000000.m3u8
-宝宝动画HD-BST,http://b.zgjok.com:35455/bst/bbdhvcc4m@4000000.m3u8
-青春动漫HD-BST,http://b.zgjok.com:35455/bst/qcdmvcc4m@4000000.m3u8
-百变课堂HD-BST,http://b.zgjok.com:35455/bst/bbktvcc4m@4000000.m3u8
-生活时尚HD-BST,http://b.zgjok.com:35455/bst/shsshd@4000000.m3u8
-游戏风云HD-BST,http://b.zgjok.com:35455/bst/yxfyhd@4000000.m3u8
-电竞天堂HD-BST,http://b.zgjok.com:35455/bst/djttvcc4m@4000000.m3u8
-金色学堂HD-BST,http://b.zgjok.com:35455/bst/jsxthd4m@4000000.m3u8
-健康养生HD-BST,http://b.zgjok.com:35455/bst/jkysvcc4m@4000000.m3u8
-戏曲精选HD-BST,http://b.zgjok.com:35455/bst/xqjxvcc4m@4000000.m3u8
-茶HD-BST,http://b.zgjok.com:35455/bst/cpdhdavs8m@8000000.m3u8
-快乐垂钓HD-BST,http://b.zgjok.com:35455/bst/klcdhd4m@4000000.m3u8
-东方财经HD-BST,http://b.zgjok.com:35455/bst/dfcjhd4m@4000000.m3u8
-家庭理财-BST,http://b.zgjok.com:35455/bst/jtlcsd2d5mc@2500000.m3u8
-财富天下-BST,http://b.zgjok.com:35455/bst/cftx@2500000.m3u8
-法治天地HD-BST,http://b.zgjok.com:35455/bst/fztd2d5m@2500000.m3u8
-看天下精选HD-BST,http://b.zgjok.com:35455/bst/ktxjx8m@8000000.m3u8
-东方购物上星-BST,http://b.zgjok.com:35455/bst/dfgwsxhd8m@8000000.m3u8
-好享购物-BST,http://b.zgjok.com:35455/bst/hxgwsd2d5m@2500000.m3u8
-央广购物-BST,http://b.zgjok.com:35455/bst/yggwsd2d5m@2500000.m3u8
-三沙卫视HD-BST,http://b.zgjok.com:35455/bst/ssws2d5m@2500000.m3u8
-乐游-BST,http://b.zgjok.com:35455/bst/qjshd@4000000.m3u8
-4K-1,http://b.zgjok.com:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
-4K-2,http://b.zgjok.com:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
-Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-视频_8M1080_咪视通-1,http://b.zgjok.com:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-2,http://b.zgjok.com:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-3,http://b.zgjok.com:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-4,http://b.zgjok.com:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-5,http://b.zgjok.com:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-6,http://b.zgjok.com:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-7,http://b.zgjok.com:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-8,http://b.zgjok.com:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-9,http://b.zgjok.com:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-10,http://b.zgjok.com:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-11,http://b.zgjok.com:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-12,http://b.zgjok.com:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-13,http://b.zgjok.com:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-14,http://b.zgjok.com:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-15,http://b.zgjok.com:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-16,http://b.zgjok.com:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-17,http://b.zgjok.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-18,http://b.zgjok.com:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-19,http://b.zgjok.com:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-20,http://b.zgjok.com:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-21,http://b.zgjok.com:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-22,http://b.zgjok.com:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-23,http://b.zgjok.com:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-24,http://b.zgjok.com:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-25,http://b.zgjok.com:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-26,http://b.zgjok.com:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-27,http://b.zgjok.com:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-28,http://b.zgjok.com:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-29,http://b.zgjok.com:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-30,http://b.zgjok.com:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-31,http://b.zgjok.com:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-32,http://b.zgjok.com:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-33,http://b.zgjok.com:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-34,http://b.zgjok.com:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-35,http://b.zgjok.com:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-36,http://b.zgjok.com:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-37,http://b.zgjok.com:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-38,http://b.zgjok.com:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-39,http://b.zgjok.com:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-40,http://b.zgjok.com:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-41,http://b.zgjok.com:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-42,http://b.zgjok.com:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-43,http://b.zgjok.com:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-44,http://b.zgjok.com:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
-视频_8M1080_咪视通-45,http://b.zgjok.com:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
-
-
 ◆◆◆　https://szq-1251166371.cos.ap-shanghai.myqcloud.com/szq1.txt
 CCTV1,http://183.207.248.71/PLTV/3/224/3221228213/1.m3u8
 CCTV2,http://183.207.248.71/PLTV/3/224/3221228300/1.m3u8
@@ -31271,21 +30809,21 @@ CCTV17,http://39.135.135.88/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 
 ◆◆◆　https://tvv.wqwqwq.sbs/iptv.m3u
 ◆◆◆　https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
-新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=1a372f300c8c7064ac63842ccfcbd435&wsTime=1753030815
-都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=91929183700452908825d3bde04480eb&wsTime=1753030815
-民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=bbc179679fa73952342add34fed7daac&wsTime=1753030815
-法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=216ab1b4cd6fd814150fe8ea765b0416&wsTime=1753030815
-公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=3d920521cd03134f8f3939d043292b10&wsTime=1753030815
-河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=e7050b48711e8d37a9e26a75ddb97372&wsTime=1753030815
-电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=52c6968648d3b7eaa57c537e5375f38e&wsTime=1753030815
-梨园,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=c11f2a5bb347da82b016d452c75cb973&wsTime=1753030815
-文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=09bc473089266776ed36916b5349da14&wsTime=1753030815
-武术,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=06ba5105459c4b57096d520b74234d40&wsTime=1753030815
-睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=8cb11553042593af82380cad78d0509d&wsTime=1753030815
-移动戏曲,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=d5e2de380aecc2a9cbc028a5bedf508e&wsTime=1753030815
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=c0baf1c66e5686f8dc26eda5577e3df1&wsTime=1753030815
-国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=3c2fdea0a132b6e8ed244bc5566290e4&wsTime=1753030815
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=0a05c5d47d4c5a2f54cdfa68e431cf62&wsTime=1753030815
+新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=aa1273426b0e733379efc8c7845a5aaa&wsTime=1753063209
+都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=0c4240d5a6e8a9f61c367f167a52edd9&wsTime=1753063209
+民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=f1e208b464db54f35613d68ce0c13091&wsTime=1753063209
+法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=f82bf0e9f2b4ca1d96ef3aa89dd82b38&wsTime=1753063209
+公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=73229ddadcbda5e5519eca0100305216&wsTime=1753063209
+河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=af5e363d82572504d0875f3f95def8df&wsTime=1753063209
+电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=6295bcbdf76a7bef2cde39da5caf7776&wsTime=1753063209
+梨园,http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=ad93a46abfa99ef052d73807de043d80&wsTime=1753063209
+文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=85c3241edadd8b525b12ca9bcde4f884&wsTime=1753063209
+武术,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=a222d1b2d3a8ce85ce97a8019c029fcb&wsTime=1753063209
+睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=cd0aaf809f0099cfbf26f5590ded8ed9&wsTime=1753063209
+移动戏曲,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=31ccae0f6ce2a047e75b497cdae928af&wsTime=1753063209
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=02a92133cbd25ae16734afe8dedfcf76&wsTime=1753063209
+国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=d8a9adfa579a8b2e8cc992a7b8f95398&wsTime=1753063209
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=c98c87abe5401b058d338a32967948f7&wsTime=1753063209
 广西卫视,http://223.241.247.214:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 宋小宝经典小品,http://zzy789.xyz/douyu1.php?id=9817729
 欢乐小品,http://zzy789.xyz/douyu1.php?id=9403690
@@ -32695,6 +32233,7 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 ◆◆◆　http://tv.850930.xyz/kdsb.m3u
 ◆◆◆　http://tv.850930.xyz/kdsb2.m3u
 ◆◆◆　http://tv.850930.xyz/gather.m3u
+Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 CETV 1 中国教育,https://tv.iill.top/migu/cetv1
 CETV 2 中国教育,https://tv.iill.top/migu/cetv2
 CETV 4 中国教育,https://tv.iill.top/migu/cetv4
@@ -33827,6 +33366,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 洪金宝,https://stream1.freetv.fun/hong-jin-bao-2.m3u8
 济南教育,https://stream1.freetv.fun/ji-nan-jiao-yu-3.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-1.m3u8
+浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-9.m3u8
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-6.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-3.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-8.m3u8
@@ -34928,7 +34468,6 @@ IPTV少儿动画,http://115.153.233.154/PLTV/88888888/224/3221227006/86440922.sm
 IPTV少儿动画,http://115.153.240.228/PLTV/88888888/224/3221227006/86440922.smil/index.m3u8?fmt=ts2hls
 IPTV少儿动画,http://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil/index.m3u8?fmt=ts2hls
 IPTV少儿动画,http://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil/index.m3u8?fmt=ts2hls
-IPTV少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 IPTV少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
 IPTV热播剧场,http://115.153.212.72/PLTV/88888888/224/3221227008/86440955.smil/index.m3u8?fmt=ts2hls
 IPTV热播剧场,http://115.153.222.112/PLTV/88888888/224/3221227008/86440955.smil/index.m3u8?fmt=ts2hls
@@ -36800,10 +36339,8 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 扬州新闻,http://cm.wshls.homecdn.com/live/8bb.m3u8
 扬州生活,http://cm.wshls.homecdn.com/live/8bf.m3u8
 扬州邗江,http://cm.wshls.homecdn.com/live/8c3.m3u8
-无锡娱乐,http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
 无锡新闻综合,http://aa3.kkwk111.top/wx.php?id=2
 无锡都市资讯,http://aa3.kkwk111.top/wx.php?id=4
-武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 江宁新闻,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8?zjiangsd"
 江苏体育,http://api3.52tb.xyz/info?id=455&token=20221127jxwhhemby
 江苏城市,http://150.158.112.123/公众号~玉玉软件库/migu.php?id=jscs
@@ -36842,6 +36379,7 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 高邮综合,https://gaoyou-tv-hls.cm.jstv.com:443/gaoyou-tv/gaoyouxw.m3u8
 辽宁影视剧,http://dassby.qqff.top:99/live/%E8%BE%BD%E5%AE%81%E5%BD%B1%E8%A7%86%E5%89%A7/index.m3u8
 湖南都市,http://116.128.243.121:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
 湖南都市,http://113.218.229.47:8081/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南都市,http://www.peanutbar.cn:8099/tsfile/live/1002_1.m3u8?key=txiptv
 湖南经视,http://116.128.243.121:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -36853,7 +36391,6 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
 湖南电影,http://113.218.229.47:8081/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://www.peanutbar.cn:8099/tsfile/live/1001_1.m3u8?key=txiptv
-湖南爱晚,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngg
 湖南爱晚,http://www.peanutbar.cn:8099/tsfile/live/1003_1.m3u8?key=txiptv
 湖南教育,http://www.peanutbar.cn:8099/tsfile/live/1008_1.m3u8?key=txiptv
 湖南娱乐,http://116.128.243.121:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -36861,7 +36398,6 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 湖南娱乐,http://jf.jxx2023.work:40446/tsfile/live/1011_1.m3u8?key=txiptv
 湖南娱乐,http://113.218.229.47:8081/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南娱乐,http://www.peanutbar.cn:8099/tsfile/live/1000_1.m3u8?key=txiptv
-湖南国际,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
 湖南国际,http://113.218.229.47:8081/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南国际,http://www.peanutbar.cn:8099/tsfile/live/1007_1.m3u8?key=txiptv
 金鹰纪实,http://huangtong-com.cn:9902/tsfile/live/1053_1.m3u8
@@ -36894,6 +36430,7 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 广西新闻,http://182.91.124.224:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 南宁影视娱乐,rtmp://hls.nntv.cn/nnlive/YSYL_244
 南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 天津都市,http://180.213.174.225:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 天津新闻,http://180.213.174.225:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 天津新闻,http://111.160.17.2:59901/tsfile/live/0001_22.m3u8?key=txiptv&playlive=1&authid=0
@@ -37171,6 +36708,7 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 合肥新闻,http://60.172.130.146:352/tsfile/live/1004_1.m3u8?ace
 阜南新闻综合,http://112.27.139.242:8278/fnxwzh/playlist.m3u8
 铜陵新闻综合,https://gnhls.qingmei.tv/live/tlxw.m3u8?volcTime=1753081509&volcSecret=10999ac48fb965e95cd8ac9bbbf625ef
+滁州科教,http://live.cztv.cc:85/live/sjpd.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 淮南新闻综合,http://112.30.194.221:20080/live/cb8cb76bfc154f579df8c9d2443127af/hls.m3u8
 淮南公共,http://112.30.194.221:20080/live/6e43da3335a640b3a73c948fccf935c5/hls.m3u8
 当涂新闻综合,http://112.30.194.221:20080/live/4f38ef59c79e4d4bac1a995681102573/hls.m3u8
@@ -37180,7 +36718,7 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 延边-1,https://live.ybtvyun.com/video/s10006-9ccd00054351/index.m3u8
 延边-2,https://live.ybtvyun.com/video/s10006-1c8f0ebfee9f/index.m3u8
 长白山电视,http://stream8.jlntv.cn/cbstv/sd/live.m3u8
-九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 珲春新闻综合,https://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -37224,7 +36762,6 @@ CETV4,rtsp://60.13.39.18/PLTV/88888910/224/3221225594/10000100000000060000000000
 黑龙江新闻,http://112.99.193.34:9901/tsfile/live/1024_1.m3u8?
 哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/playlist.m3u8
-哈尔滨生活,https://stream.hrbtv.net/shpd/playlist.m3u8
 大庆新闻综合,rtmp://masterpull.hljtv.com/live/4WdrZLCq
 鹤岗新闻综合,https://rmplive.hljtv.com/live/hegang.m3u8
 七台河新闻综合,https://rmplive.hljtv.com/live/qitaihe.m3u8
@@ -37403,6 +36940,7 @@ CCTV-5+,http://8.218.124.113:5000/TVOD/5000000011000031127/bestzb/index.m3u8
 JJ斗地主,https://lunbo.freetv.top/douyu/488743
 少儿动画,http://huangtong-com.cn:9902/tsfile/live/1034_1.m3u8
 卡酷动画,http://1.197.127.114:10443/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
+卡酷动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 爱动漫,http://v.tik686.com:50001/TVOD/6000000006000280630/wasusyt/index.m3u8?ace
 爱动漫,http://www.7891136.xyz:50001/TVOD/6000000006000280630/wasusyt/index.m3u8?ace
 爱动漫,http://jk.1jia.xyz:51001/TVOD/6000000006000280630/wasusyt/index.m3u8?ace
